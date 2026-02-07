@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "afghan-hound",
+    "slug": "afghan-hound",
+    "name_en": "Afghan Hound",
+    "name_el": "Αφγανικός Λυκόμυαλος",
+    "type": "dog",
+    "origin": "Afghanistan",
+    "originCode": "AF",
+    "images": [],
+    "size": "large",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Dignified",
+      "Independent",
+      "Aloof",
+      "Loyal",
+      "Elegant"
+    ],
+    "temperament_el": [
+      "Αξιοπρεπής",
+      "Ανεξάρτητος",
+      "Απόμακρος",
+      "Πιστός",
+      "Κομψός"
+    ],
+    "description_en": "The Afghan Hound is an ancient sighthound known for its long, silky coat and aristocratic bearing. Bred in the mountains of Afghanistan for hunting large game, they are independent and can be aloof with strangers but devoted to their family. Their dramatic appearance and graceful movement have made them a show-ring favorite. They need patient training and regular grooming.",
+    "description_el": "Ο Αφγανικός Λυκόμυαλος είναι αρχαίος λυκόμυαλος γνωστός για το μακρύ, μεταξένιο τρίχωμα και την αριστοκρατική συμπεριφορά. Εκτρεφόταν στα βουνά του Αφγανιστάν. Είναι ανεξάρτητοι και πιστοί στην οικογένεια.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 5,
+      "friendliness": 2,
+      "trainability": 2,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Afghan Hounds require daily brushing to prevent mats in their long coat. They need regular exercise in a secure area due to strong prey drive. They are sensitive and respond best to gentle, positive training. Many enjoy running in safe enclosed spaces.",
+    "care_el": "Απαιτεί καθημερινό βούρτσισμα και ασφαλή άσκηση. Αποκρίνονται καλύτερα σε ήπια εκπαίδευση.",
+    "health_en": "Afghan Hounds can be prone to hip dysplasia, cataracts, and hypothyroidism. Bloat is a concern. Their long coat can hide skin issues. Regular vet checkups and grooming are important.",
+    "health_el": "Μπορεί να εμφανίσει δυσπλασία ισχίου, καταρράκτη και υποθυρεοειδισμό. Συνιστώνται τακτικοί έλεγχοι."
+  },
+  {
+    "id": "azawakh",
+    "slug": "azawakh",
+    "name_en": "Azawakh",
+    "name_el": "Αζαουάκ",
+    "type": "dog",
+    "origin": "Mali",
+    "originCode": "ML",
+    "images": [],
+    "size": "large",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Loyal",
+      "Reserved",
+      "Alert",
+      "Elegant",
+      "Independent"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Συνεσταλμένος",
+      "Επαγρύπνος",
+      "Κομψός",
+      "Ανεξάρτητος"
+    ],
+    "description_en": "The Azawakh is a West African sighthound traditionally used by nomadic tribes for guarding and hunting. They are slender, athletic, and bond deeply with their family while often remaining reserved with strangers. They are sensitive to cold and need a warm home and soft bedding. Their grace and loyalty make them cherished companions for the right owner.",
+    "description_el": "Ο Αζαουάκ είναι αφρικανικός λυκόμυαλος. Είναι λεπτός, αθλητικός και δημιουργεί βαθιούς δεσμούς με την οικογένεια. Ευαίσθητος στο κρύο.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 5
+    },
+    "cost_annual_usd": "$2,800-4,500+",
+    "care_en": "Azawakhs need daily exercise and a secure fenced area; they have a strong chase instinct. Short coat requires minimal grooming. They thrive in warm climates and need soft bedding to protect bony prominences. Early socialization is important.",
+    "care_el": "Χρειάζεται καθημερινή άσκηση και ασφαλές περιφραγμένο χώρο. Ελάχιστη φροντίδα τριχώματος.",
+    "health_en": "Azawakhs are generally healthy. Some may be prone to autoimmune conditions, hypothyroidism, or sensitivity to certain drugs. Bloat can occur. Responsible breeders screen for genetic issues.",
+    "health_el": "Γενικά υγιής ράτσα. Μπορεί να εμφανίσει αυτοάνοσες παθήσεις. Συνιστάται έλεγχος εκτροφέα."
+  },
+  {
+    "id": "borzoi",
+    "slug": "borzoi",
+    "name_en": "Borzoi",
+    "name_el": "Μπορζόι",
+    "type": "dog",
+    "origin": "Russia",
+    "originCode": "RU",
+    "images": [],
+    "size": "giant",
+    "lifespan": "9-14 years",
+    "temperament_en": [
+      "Gentle",
+      "Reserved",
+      "Loyal",
+      "Dignified",
+      "Calm"
+    ],
+    "temperament_el": [
+      "Ήπιος",
+      "Συνεσταλμένος",
+      "Πιστός",
+      "Αξιοπρεπής",
+      "Ήρεμος"
+    ],
+    "description_en": "The Borzoi, or Russian Wolfhound, was bred by Russian aristocracy for hunting wolves. They are tall, elegant sighthounds with a flowing coat and gentle nature. Indoors they are often calm and couch-loving; outdoors they can run at great speed. They are loyal to their family but reserved with strangers and need secure fencing.",
+    "description_el": "Το Μπορζόι εκτρεφόταν από την αριστοκρατία για κυνήγι λύκων. Ψηλός, κομψός λυκόμυαλος με ήπιο χαρακτήρα. Πιστός στην οικογένεια.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 3,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Borzoi need regular brushing and occasional baths. They require daily exercise in a secure area due to strong prey drive. They are generally quiet and adaptable to home life but need space to stretch and run safely.",
+    "care_el": "Τακτικό βούρτσισμα και καθημερινή άσκηση σε ασφαλή χώρο. Χρειάζονται χώρο για τρέξιμο.",
+    "health_en": "Borzoi can be prone to bloat, hip dysplasia, heart conditions, and thyroid issues. Progressive retinal atrophy is seen in some lines. Regular vet visits and health screening by breeders are recommended.",
+    "health_el": "Πιθανή δυσπλασία ισχίου, καρδιακά και θυρεοειδή. Συνιστώνται έλεγχοι και εκτροφέας που ελέγχει υγεία."
+  },
+  {
+    "id": "chart-polski",
+    "slug": "chart-polski",
+    "name_en": "Chart Polski (Polish Greyhound)",
+    "name_el": "Chart Polski (Πολωνικός Γκρεϊχαουντ)",
+    "type": "dog",
+    "origin": "Poland",
+    "originCode": "PL",
+    "images": [],
+    "size": "large",
+    "lifespan": "10-12 years",
+    "temperament_en": [
+      "Brave",
+      "Reserved",
+      "Loyal",
+      "Energetic",
+      "Independent"
+    ],
+    "temperament_el": [
+      "Θαρραλέος",
+      "Συνεσταλμένος",
+      "Πιστός",
+      "Ενεργητικός",
+      "Ανεξάρτητος"
+    ],
+    "description_en": "The Chart Polski is a Polish sighthound used for hunting hare and fox. They are more heavily built than the English Greyhound, with a robust constitution and brave character. They are loyal to their owners and need ample exercise and secure space. The breed is still used for hunting in Poland and is gaining recognition elsewhere.",
+    "description_el": "Ο Chart Polski είναι πολωνικός λυκόμυαλος. Πιο στιβαρός από τον αγγλικό γκρεϊχαουντ. Πιστός και ενεργητικός.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Chart Polski need regular exercise in a secure area. Short coat requires minimal grooming. They do best with experienced owners who can provide structure and safe off-leash running. Early socialization helps with other dogs and pets.",
+    "care_el": "Χρειάζεται τακτική άσκηση σε ασφαλή χώρο. Ελάχιστη φροντίδα τριχώματος.",
+    "health_en": "Chart Polski are generally healthy. Hip dysplasia and cardiac issues may occur. Bloat is a risk in deep-chested dogs. Health screening by breeders is recommended.",
+    "health_el": "Γενικά υγιής. Πιθανή δυσπλασία ισχίου και καρδιακά. Συνιστάται έλεγχος εκτροφέα."
+  },
+  {
+    "id": "scottish-deerhound",
+    "slug": "scottish-deerhound",
+    "name_en": "Scottish Deerhound",
+    "name_el": "Σκωτσέζικος Deerhound",
+    "type": "dog",
+    "origin": "Scotland",
+    "originCode": "GB",
+    "images": [],
+    "size": "giant",
+    "lifespan": "8-11 years",
+    "temperament_en": [
+      "Gentle",
+      "Dignified",
+      "Friendly",
+      "Loyal",
+      "Calm"
+    ],
+    "temperament_el": [
+      "Ήπιος",
+      "Αξιοπρεπής",
+      "Φιλικός",
+      "Πιστός",
+      "Ήρεμος"
+    ],
+    "description_en": "The Scottish Deerhound was bred to hunt red deer in the Scottish Highlands. They are one of the tallest sighthounds, with a wiry coat and gentle, noble demeanor. They are friendly with people and generally good with other dogs but have a strong prey drive. They need space to run and a soft place to rest.",
+    "description_el": "Ο Σκωτσέζικος Deerhound εκτρεφόταν για κυνήγι ελαφιών. Από τους ψηλότερους λυκόμυαλους. Ήπιος και φιλικός.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Deerhounds need regular brushing and stripping of the wiry coat. They require daily exercise and a secure area to run. They are generally calm indoors and bond closely with their family. Bloat prevention measures are important.",
+    "care_el": "Τακτικό βούρτσισμα και stripping. Καθημερινή άσκηση και ασφαλής χώρος. Πρόληψη φούσκωματος σημαντική.",
+    "health_en": "Scottish Deerhounds can be prone to cardiac issues, bloat, bone cancer, and hip dysplasia. Their lifespan is relatively short for their size. Regular vet checkups and a quality diet support health.",
+    "health_el": "Πιθανά καρδιακά, φούσκωμα, δυσπλασία ισχίου. Συνιστώνται τακτικοί έλεγχοι και ποιοτική διατροφή."
+  },
+  {
+    "id": "galgo-espanol",
+    "slug": "galgo-espanol",
+    "name_en": "Galgo Español",
+    "name_el": "Γκάλγκο Εσπανιόλ",
+    "type": "dog",
+    "origin": "Spain",
+    "originCode": "ES",
+    "images": [],
+    "size": "large",
+    "lifespan": "10-15 years",
+    "temperament_en": [
+      "Gentle",
+      "Reserved",
+      "Quiet",
+      "Loyal",
+      "Calm"
+    ],
+    "temperament_el": [
+      "Ήπιος",
+      "Συνεσταλμένος",
+      "Ήσυχος",
+      "Πιστός",
+      "Ήρεμος"
+    ],
+    "description_en": "The Galgo Español is Spain's native sighthound, traditionally used for hunting hare. They are similar in build to the Greyhound but often lighter and with a gentler expression. Many rescue Galgos come from Spain where the breed is often mistreated; they make devoted, calm companions when given a loving home and secure exercise.",
+    "description_el": "Ο Γκάλγκο Εσπανιόλ είναι ο ιθαγενής λυκόμυαλος της Ισπανίας. Ήπιος και πιστός. Πολλοί υιοθετούνται από rescue.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Galgo Españols need daily exercise in a safe, fenced area. Short or rough coat requires minimal grooming. They are often quiet and adaptable to apartment living if exercised adequately. Soft bedding helps protect thin skin and bony areas.",
+    "care_el": "Καθημερινή άσκηση σε ασφαλή χώρο. Ελάχιστη φροντίδα τριχώματος. Προσαρμόζονται σε διαμέρισμα με αρκετή άσκηση.",
+    "health_en": "Galgo Españols are generally healthy and long-lived. Some may have sensitivity to anesthesia. Dental care and nail trimming are important. Rescue dogs may need extra health screening.",
+    "health_el": "Γενικά υγιείς και μακρόβιοι. Σημαντική φροντίδα δοντιών και νυχιών. Rescue σκυλιά μπορεί να χρειάζονται έλεγχο."
+  },
+  {
+    "id": "greyhound",
+    "slug": "greyhound",
+    "name_en": "Greyhound",
+    "name_el": "Γκρεϊχαουντ",
+    "type": "dog",
+    "origin": "United Kingdom",
+    "originCode": "GB",
+    "images": [],
+    "size": "large",
+    "lifespan": "10-14 years",
+    "temperament_en": [
+      "Gentle",
+      "Quiet",
+      "Affectionate",
+      "Calm",
+      "Graceful"
+    ],
+    "temperament_el": [
+      "Ήπιος",
+      "Ήσυχος",
+      "Στοργικός",
+      "Ήρεμος",
+      "Κομψός"
+    ],
+    "description_en": "The Greyhound is one of the oldest dog breeds and the fastest canine. Despite their racing image, retired Greyhounds are often calm, gentle couch potatoes who enjoy short bursts of exercise and long naps. They are affectionate with their families and generally good with people. Many are adopted after retirement and make wonderful pets.",
+    "description_el": "Το Γκρεϊχαουντ είναι από τις παλαιότερες ράτσες και το ταχύτερο. Συνταξιούχοι αθλητές συχνά είναι ήρεμοι και στοργικοί. Ιδανικά κατοικίδια μετά την υιοθεσία.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 1,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Greyhounds need daily walks and occasional safe off-leash runs. Short coat is easy to maintain. They are sensitive to cold and may need a coat in winter. Soft bedding prevents pressure sores. They should never be off-leash in an unenclosed area due to prey drive.",
+    "care_el": "Καθημερινές βόλτες και ασφαλές τρέξιμο. Εύκολη φροντίδα τριχώματος. Ευαίσθητοι στο κρύο. Ποτέ χωρίς λουρί σε ανοιχτό χώρο.",
+    "health_en": "Greyhounds are generally healthy. They can be sensitive to anesthesia and certain medications. Osteosarcoma and bloat are concerns. Dental care is important. Regular vet checkups support a long life.",
+    "health_el": "Γενικά υγιή. Ευαισθησία σε αναισθησία. Πιθανός οστεοσάρκωμα και φούσκωμα. Σημαντική φροντίδα δοντιών."
+  },
+  {
+    "id": "irish-wolfhound",
+    "slug": "irish-wolfhound",
+    "name_en": "Irish Wolfhound",
+    "name_el": "Ιρλανδικός Λυκόμυαλος",
+    "type": "dog",
+    "origin": "Ireland",
+    "originCode": "IE",
+    "images": [],
+    "size": "giant",
+    "lifespan": "6-8 years",
+    "temperament_en": [
+      "Gentle",
+      "Dignified",
+      "Patient",
+      "Loyal",
+      "Calm"
+    ],
+    "temperament_el": [
+      "Ήπιος",
+      "Αξιοπρεπής",
+      "Υπομονετικός",
+      "Πιστός",
+      "Ήρεμος"
+    ],
+    "description_en": "The Irish Wolfhound is the tallest of all dog breeds, historically used to hunt wolves and elk in Ireland. Despite their size, they are known as gentle giants—calm, patient, and devoted to their families. They have a relatively short lifespan. They need space and moderate exercise but are not hyperactive indoors.",
+    "description_el": "Ο Ιρλανδικός Λυκόμυαλος είναι ο ψηλότερος σκύλος. Ιστορικά για κυνήγι λύκων. Ήπιος γίγαντας, πιστός αλλά σύντομη ζωή.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 3,
+      "friendliness": 5,
+      "trainability": 3,
+      "cost_index": 5
+    },
+    "cost_annual_usd": "$2,800-4,500+",
+    "care_en": "Irish Wolfhounds need regular brushing and moderate daily exercise. They require space to move and soft bedding. Bloat prevention (small meals, no vigorous exercise after eating) is critical. They are generally easygoing and good with children when properly socialized.",
+    "care_el": "Τακτικό βούρτσισμα και μέτρια άσκηση. Χώρος και μαλακό κρεβάτι. Κρίσιμη η πρόληψη φούσκωματος.",
+    "health_en": "Irish Wolfhounds have a short lifespan and can be prone to heart disease, bone cancer, bloat, and hip dysplasia. Cardiac screening and responsible breeding are important. Regular vet care is essential.",
+    "health_el": "Σύντομη ζωή. Πιθανά καρδιακά, οστεοσάρκωμα, φούσκωμα, δυσπλασία. Συνιστώνται καρδιακός έλεγχος και υπεύθυνη εκτροφή."
+  },
+  {
+    "id": "magyar-agar",
+    "slug": "magyar-agar",
+    "name_en": "Magyar Agar",
+    "name_el": "Μαγυάρ Αγκάρ",
+    "type": "dog",
+    "origin": "Hungary",
+    "originCode": "HU",
+    "images": [],
+    "size": "large",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Loyal",
+      "Intelligent",
+      "Energetic",
+      "Reserved",
+      "Affectionate"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Έξυπνος",
+      "Ενεργητικός",
+      "Συνεσταλμένος",
+      "Στοργικός"
+    ],
+    "description_en": "The Magyar Agar, or Hungarian Greyhound, is a sighthound used for coursing in Hungary. They are somewhat sturdier than the English Greyhound and have a loyal, intelligent nature. They bond closely with their family and need regular exercise in a secure area. The breed is still used for hunting and lure coursing.",
+    "description_el": "Ο Magyar Agar είναι ουγγρικός λυκόμυαλος. Πιο στιβαρός από τον αγγλικό γκρεϊχαουντ. Πιστός και έξυπνος.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 3,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Magyar Agars need daily exercise and a secure place to run. Short coat is low maintenance. They are trainable and often enjoy lure coursing and other sighthound sports. Early socialization helps with other animals.",
+    "care_el": "Καθημερινή άσκηση και ασφαλής χώρος. Ελάχιστη φροντίδα τριχώματος. Εκπαιδεύσιμοι και αθλητικοί.",
+    "health_en": "Magyar Agars are generally healthy and long-lived. Hip dysplasia and bloat can occur. Regular exercise and weight management support joint health. Health screening by breeders is recommended.",
+    "health_el": "Γενικά υγιείς και μακρόβιοι. Πιθανή δυσπλασία ισχίου. Συνιστάται έλεγχος εκτροφέα."
+  },
+  {
+    "id": "saluki",
+    "slug": "saluki",
+    "name_en": "Saluki",
+    "name_el": "Σαλούκι",
+    "type": "dog",
+    "origin": "Middle East",
+    "originCode": "SA",
+    "images": [],
+    "size": "large",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Gentle",
+      "Reserved",
+      "Dignified",
+      "Loyal",
+      "Independent"
+    ],
+    "temperament_el": [
+      "Ήπιος",
+      "Συνεσταλμένος",
+      "Αξιοπρεπής",
+      "Πιστός",
+      "Ανεξάρτητος"
+    ],
+    "description_en": "The Saluki is one of the oldest dog breeds, depicted in ancient Egyptian art. They were bred for hunting by sight across desert terrain. Salukis are gentle and reserved with strangers but devoted to their family. They need secure exercise and a soft place to rest. They come in smooth and feathered coat varieties.",
+    "description_el": "Το Σαλούκι είναι από τις παλαιότερες ράτσες. Ήπιο και αξιοπρεπές. Πιστό στην οικογένεια. Χρειάζεται ασφαλή άσκηση.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 2,
+      "trainability": 2,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Salukis need regular exercise in a fenced area. Feathered variety requires more brushing. They are sensitive and do not respond well to harsh methods. They enjoy running and need comfortable bedding.",
+    "care_el": "Τακτική άσκηση σε περιφραγμένο χώρο. Ξαπλωμένα για ξεκούραση. Ευαίσθητοι· αποφεύγουμε σκληρές μεθόδους.",
+    "health_en": "Salukis can be prone to cardiac issues, hypothyroidism, and cancer. Eye conditions may occur. Sensitivity to anesthesia is possible. Responsible breeders screen for heart and thyroid.",
+    "health_el": "Πιθανά καρδιακά, υποθυρεοειδισμός, καρκίνος. Ευαισθησία σε αναισθησία. Έλεγχος καρδιάς και θυρεοειδούς."
+  },
+  {
+    "id": "sloughi",
+    "slug": "sloughi",
+    "name_en": "Sloughi",
+    "name_el": "Σλούγκι",
+    "type": "dog",
+    "origin": "Morocco",
+    "originCode": "MA",
+    "images": [],
+    "size": "large",
+    "lifespan": "10-15 years",
+    "temperament_en": [
+      "Loyal",
+      "Sensitive",
+      "Reserved",
+      "Gentle",
+      "Dignified"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Ευαίσθητος",
+      "Συνεσταλμένος",
+      "Ήπιος",
+      "Αξιοπρεπής"
+    ],
+    "description_en": "The Sloughi is a North African sighthound used for hunting. They have a short, smooth coat and elegant build. Sloughis are deeply loyal to their owners and can be reserved with strangers. They are sensitive dogs that need gentle handling and a calm home. They require secure exercise and bond strongly with their family.",
+    "description_el": "Ο Σλούγκι είναι βορειοαφρικανικός λυκόμυαλος. Βραχύ τρίχωμα, κομψός. Βαθιά πιστός και ευαίσθητος.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 5
+    },
+    "cost_annual_usd": "$2,800-4,500+",
+    "care_en": "Sloughis need daily exercise in a secure area. Coat is easy to maintain. They thrive in a quiet, predictable environment with positive training. They can be prone to anxiety if poorly socialized or left alone too long.",
+    "care_el": "Καθημερινή άσκηση σε ασφαλή χώρο. Ήρεμο περιβάλλον και θετική εκπαίδευση. Αποφεύγουμε παρατεταμένη μοναξιά.",
+    "health_en": "Sloughis can be prone to progressive retinal atrophy, autoimmune disease, and sensitivity to drugs. Cardiac screening is recommended. Overall they are a relatively healthy, long-lived breed.",
+    "health_el": "Πιθανή PRA, αυτοάνοσες παθήσεις. Συνιστάται καρδιακός έλεγχος. Σχετικά υγιής και μακρόβιος."
+  },
+  {
+    "id": "whippet",
+    "slug": "whippet",
+    "name_en": "Whippet",
+    "name_el": "Γουίπετ",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Gentle",
+      "Affectionate",
+      "Calm",
+      "Friendly",
+      "Fast"
+    ],
+    "temperament_el": [
+      "Ήπιος",
+      "Στοργικός",
+      "Ήρεμος",
+      "Φιλικός",
+      "Γρήγορος"
+    ],
+    "description_en": "The Whippet is a medium-sized sighthound often described as a small Greyhound. They are gentle, affectionate family dogs that love to run in short bursts and then relax. They are generally good with children and other dogs. Whippets are easy to groom and adaptable to many living situations with adequate exercise.",
+    "description_el": "Το Γουίπετ είναι μεσαίου μεγέθους λυκόμυαλος. Ήπιο και στοργικό οικογενειακό σκυλί. Εύκολη φροντίδα και προσαρμοστικό.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 1,
+      "friendliness": 5,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Whippets need daily exercise including opportunities to run in a safe area. Short coat requires minimal grooming. They are sensitive to cold and may need a coat in winter. They are generally quiet and clean in the home.",
+    "care_el": "Καθημερινή άσκηση και ασφαλές τρέξιμο. Ελάχιστη φροντίδα. Ευαίσθητοι στο κρύο. Ήσυχοι στο σπίτι.",
+    "health_en": "Whippets are generally healthy. They can have heart murmurs (often benign), eye conditions, and sensitivity to anesthesia. Dental care is important. Overall a robust, long-lived breed.",
+    "health_el": "Γενικά υγιή. Πιθανά καρδιακά μουρμούρισματα, παθήσεις ματιών. Φροντίδα δοντιών. Ανθεκτική και μακρόβια ράτσα."
+  },
+  {
+    "id": "american-bully",
+    "slug": "american-bully",
+    "name_en": "American Bully",
+    "name_el": "Αμερικανικό Μπούλι",
+    "type": "dog",
+    "origin": "United States",
+    "originCode": "US",
+    "images": [],
+    "size": "medium",
+    "lifespan": "10-12 years",
+    "temperament_en": [
+      "Loyal",
+      "Confident",
+      "Friendly",
+      "Calm",
+      "Devoted"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Σίγουρος",
+      "Φιλικός",
+      "Ήρεμος",
+      "Αφοσιωμένος"
+    ],
+    "description_en": "The American Bully was developed in the United States as a companion breed, with a muscular build and confident demeanor. They come in several size varieties and are bred for temperament—loyal, friendly, and good with families. They are not the same as the American Pit Bull Terrier; the Bully is typically stockier and bred specifically for companionship and show.",
+    "description_el": "Το American Bully αναπτύχθηκε στις ΗΠΑ ως ράτσα συντροφιάς. Μυώδης, πιστός και φιλικός. Διαφορετικό από το American Pit Bull Terrier.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 1,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "American Bullies need daily exercise and consistent training. Short coat is easy to maintain. They thrive with clear leadership and positive reinforcement. Some regions have breed-specific legislation; check local laws.",
+    "care_el": "Καθημερινή άσκηση και σταθερή εκπαίδευση. Εύκολη φροντίδα τριχώματος. Ελέγχουμε τοπικούς νόμους για τη ράτσα.",
+    "health_en": "American Bullies can be prone to hip dysplasia, heart conditions, and skin issues. Some may have breathing issues if overly brachycephalic. Responsible breeding focuses on health and temperament.",
+    "health_el": "Πιθανή δυσπλασία ισχίου, καρδιακά και δερματικά. Υπεύθυνη εκτροφή για υγεία και χαρακτήρα."
+  },
+  {
+    "id": "american-pit-bull-terrier",
+    "slug": "american-pit-bull-terrier",
+    "name_en": "American Pit Bull Terrier",
+    "name_el": "Αμερικανικό Pit Bull Terrier",
+    "type": "dog",
+    "origin": "United States",
+    "originCode": "US",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Loyal",
+      "Energetic",
+      "Confident",
+      "Affectionate",
+      "Courageous"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Ενεργητικός",
+      "Σίγουρος",
+      "Στοργικός",
+      "Θαρραλέος"
+    ],
+    "description_en": "The American Pit Bull Terrier is a medium-sized, muscular breed originally developed for bull-baiting and later as farm and family dogs. They are known for their loyalty, strength, and high energy. With proper socialization and training they can be devoted family pets. Breed-specific legislation exists in some areas.",
+    "description_el": "Το American Pit Bull Terrier είναι μεσαίου μεγέθους, μυώδες. Πιστό και ενεργητικό. Με σωστή κοινωνικοποίηση εξαιρετικό οικογενειακό κατοικίδιο.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 1,
+      "friendliness": 3,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "APBTs need substantial daily exercise and mental stimulation. Short coat is low maintenance. Early socialization and consistent, positive training are essential. Secure fencing and responsible ownership are important.",
+    "care_el": "Σημαντική άσκηση και νοητική διέγερση. Πρώιμη κοινωνικοποίηση και σταθερή εκπαίδευση απαραίτητες.",
+    "health_en": "APBTs are generally healthy but can be prone to hip dysplasia, heart conditions, and skin allergies. Regular vet checkups and a good diet support health. Some areas have insurance or housing restrictions.",
+    "health_el": "Γενικά υγιή. Πιθανή δυσπλασία ισχίου, καρδιακά, αλλεργίες. Έλεγχος νόμων και ασφάλισης."
+  },
+  {
+    "id": "anatolian-shepherd",
+    "slug": "anatolian-shepherd",
+    "name_en": "Anatolian Shepherd",
+    "name_el": "Ανατολικός Ποιμενικός",
+    "type": "dog",
+    "origin": "Turkey",
+    "originCode": "TR",
+    "images": [],
+    "size": "giant",
+    "lifespan": "11-13 years",
+    "temperament_en": [
+      "Calm",
+      "Independent",
+      "Loyal",
+      "Protective",
+      "Steady"
+    ],
+    "temperament_el": [
+      "Ήρεμος",
+      "Ανεξάρτητος",
+      "Πιστός",
+      "Προστατευτικός",
+      "Σταθερός"
+    ],
+    "description_en": "The Anatolian Shepherd is a large livestock guardian from Turkey, used for centuries to protect flocks from predators. They are independent, calm, and fiercely loyal to their family and territory. They need space, early socialization, and an owner who understands guardian breeds. They are not suited to small apartments.",
+    "description_el": "Ο Ανατολικός Ποιμενικός είναι φύλακας προβάτων από την Τουρκία. Ανεξάρτητος, πιστός και προστατευτικός. Χρειάζεται χώρο και έμπειρο ιδιοκτήτη.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 2,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Anatolian Shepherds need a large, secure yard and moderate daily exercise. Coat requires regular brushing. They must be socialized early and trained with consistency. They are naturally nocturnal guardians and may patrol at night.",
+    "care_el": "Μεγάλη αυλή και μέτρια άσκηση. Τακτικό βούρτσισμα. Πρώιμη κοινωνικοποίηση και σταθερή εκπαίδευση.",
+    "health_en": "Anatolian Shepherds can be prone to hip dysplasia, bloat, and hypothyroidism. Entropion may occur. Overall they are a robust breed. Regular vet care and weight management are important.",
+    "health_el": "Πιθανή δυσπλασία ισχίου, φούσκωμα, υποθυρεοειδισμός. Γενικά ανθεκτική ράτσα."
+  },
+  {
+    "id": "australian-kelpie",
+    "slug": "australian-kelpie",
+    "name_en": "Australian Kelpie",
+    "name_el": "Αυστραλιανό Κέλπι",
+    "type": "dog",
+    "origin": "Australia",
+    "originCode": "AU",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Energetic",
+      "Intelligent",
+      "Loyal",
+      "Hardworking",
+      "Alert"
+    ],
+    "temperament_el": [
+      "Ενεργητικός",
+      "Έξυπνος",
+      "Πιστός",
+      "Εργατικός",
+      "Επαγρύπνος"
+    ],
+    "description_en": "The Australian Kelpie is a working sheepdog from Australia, known for stamina and intelligence. They are used worldwide for herding and excel in dog sports. They need a job and plenty of exercise; without it they can become destructive. They bond closely with their owners and are often reserved with strangers.",
+    "description_el": "Το Αυστραλιανό Κέλπι είναι εργατικό ποιμενικό. Ενεργητικό και έξυπνο. Χρειάζεται δουλειά και άσκηση.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 1,
+      "friendliness": 3,
+      "trainability": 5,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Kelpies need substantial daily exercise and mental challenges—agility, herding, or advanced obedience. Short coat is easy to care for. They do best with active owners who can provide structure and activity.",
+    "care_el": "Σημαντική άσκηση και νοητικές προκλήσεις. Εύκολη φροντίδα. Ιδανικά για ενεργούς ιδιοκτήτες.",
+    "health_en": "Australian Kelpies are generally healthy. They can be prone to hip dysplasia and progressive retinal atrophy. Collie eye anomaly may occur. Responsible breeders screen for these conditions.",
+    "health_el": "Γενικά υγιή. Πιθανή δυσπλασία ισχίου και PRA. Έλεγχος εκτροφέα συνιστάται."
+  },
+  {
+    "id": "azores-cattle-dog",
+    "slug": "azores-cattle-dog",
+    "name_en": "Azores Cattle Dog",
+    "name_el": "Σκύλος Αγελάδων Αζόρες",
+    "type": "dog",
+    "origin": "Portugal",
+    "originCode": "PT",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Energetic",
+      "Loyal",
+      "Alert",
+      "Hardworking",
+      "Intelligent"
+    ],
+    "temperament_el": [
+      "Ενεργητικός",
+      "Πιστός",
+      "Επαγρύπνος",
+      "Εργατικός",
+      "Έξυπνος"
+    ],
+    "description_en": "The Azores Cattle Dog (Cão Fila de São Miguel) is a Portuguese working breed from the Azores, used for herding and guarding cattle. They are sturdy, energetic, and loyal. They can be reserved with strangers and need an experienced owner who can provide exercise and training.",
+    "description_el": "Ο Σκύλος Αγελάδων Αζόρες είναι πορτογαλική εργατική ράτσα. Στιβαρός, πιστός και ενεργητικός. Χρειάζεται έμπειρο ιδιοκτήτη.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 2,
+      "friendliness": 2,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Azores Cattle Dogs need plenty of exercise and a job or activity. Coat requires regular brushing. Early socialization and consistent training are important. They are rare outside Portugal.",
+    "care_el": "Πολλή άσκηση και δραστηριότητα. Τακτικό βούρτσισμα. Πρώιμη κοινωνικοποίηση. Σπάνιο εκτός Πορτογαλίας.",
+    "health_en": "Azores Cattle Dogs are generally robust. Hip dysplasia may occur. As a regional breed, health data is limited; reputable breeders focus on sound structure and temperament.",
+    "health_el": "Γενικά ανθεκτικό. Πιθανή δυσπλασία ισχίου. Υπεύθυνη εκτροφή για δομή και χαρακτήρα."
+  },
+  {
+    "id": "barbet",
+    "slug": "barbet",
+    "name_en": "Barbet",
+    "name_el": "Μπαρμπέ",
+    "type": "dog",
+    "origin": "France",
+    "originCode": "FR",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Friendly",
+      "Obedient",
+      "Joyful",
+      "Gentle",
+      "Intelligent"
+    ],
+    "temperament_el": [
+      "Φιλικός",
+      "Πειθήνιος",
+      "Χαρούμενος",
+      "Ήπιος",
+      "Έξυπνος"
+    ],
+    "description_en": "The Barbet is a French water dog with a distinctive curly, woolly coat. They were used for retrieving waterfowl and are natural swimmers. Barbets are friendly, joyful, and intelligent—good family dogs and sport partners. Their coat requires regular grooming to prevent matting.",
+    "description_el": "Το Μπαρμπέ είναι γαλλικό σκύλο νερού με σγουρό τρίχωμα. Φιλικό, χαρούμενο και έξυπνο. Φυσικοί κολυμβητές.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 4,
+      "friendliness": 5,
+      "trainability": 4,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Barbets need regular exercise and love water activities. Their curly coat must be brushed and trimmed regularly to avoid mats. They are sociable and do well with training and dog sports.",
+    "care_el": "Τακτική άσκηση και δραστηριότητες στο νερό. Τρίχωμα απαιτεί τακτικό βούρτσισμα και κούρεμα. Κοινωνικό και εκπαιδεύσιμο.",
+    "health_en": "Barbets can be prone to hip dysplasia, eye conditions, and ear infections (keep ears dry and clean). Overall a healthy breed. Reputable breeders screen for genetic issues.",
+    "health_el": "Πιθανή δυσπλασία ισχίου, παθήσεις ματιών και ωτός. Γενικά υγιής. Έλεγχος εκτροφέα."
+  },
+  {
+    "id": "carolina-dog",
+    "slug": "carolina-dog",
+    "name_en": "Carolina Dog",
+    "name_el": "Καρολίνα Ντογκ",
+    "type": "dog",
+    "origin": "United States",
+    "originCode": "US",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Reserved",
+      "Intelligent",
+      "Loyal",
+      "Adaptable",
+      "Cautious"
+    ],
+    "temperament_el": [
+      "Συνεσταλμένος",
+      "Έξυπνος",
+      "Πιστός",
+      "Προσαρμοστικός",
+      "Προσεκτικός"
+    ],
+    "description_en": "The Carolina Dog is a feral dog type discovered in the American Southeast, believed to have ancient origins. They are primitive in appearance and behavior—reserved, intelligent, and adaptable. They bond with their family but can be shy with strangers. They need patient socialization and secure fencing.",
+    "description_el": "Το Carolina Dog είναι τύπος αγριόσκυλου από τη ΝΑ Αμερική. Πρωτόγονο σε εμφάνιση και συμπεριφορά. Πιστό αλλά συνεσταλμένο με αγνώστους.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Carolina Dogs need daily exercise and a secure yard; they can be escape artists. Short coat is low maintenance. They respond best to positive, patient training. They may have a strong prey drive.",
+    "care_el": "Καθημερινή άσκηση και ασφαλής αυλή. Ελάχιστη φροντίδα. Θετική και υπομονετική εκπαίδευση.",
+    "health_en": "Carolina Dogs are generally healthy and hardy. Few breed-specific issues are well documented. Regular vet care and good nutrition support a long life.",
+    "health_el": "Γενικά υγιή και ανθεκτικό. Λίγες ειδικές παθήσεις. Τακτική φροντίδα και καλή διατροφή."
+  },
+  {
+    "id": "chinook",
+    "slug": "chinook",
+    "name_en": "Chinook",
+    "name_el": "Τσινούκ",
+    "type": "dog",
+    "origin": "United States",
+    "originCode": "US",
+    "images": [],
+    "size": "large",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Friendly",
+      "Patient",
+      "Intelligent",
+      "Loyal",
+      "Calm"
+    ],
+    "temperament_el": [
+      "Φιλικός",
+      "Υπομονετικός",
+      "Έξυπνος",
+      "Πιστός",
+      "Ήρεμος"
+    ],
+    "description_en": "The Chinook is a rare American breed developed for sledding and work in New Hampshire. They are friendly, patient, and intelligent—good with families and other dogs. They have a dense double coat and need regular exercise. The breed is still rare but is gaining recognition.",
+    "description_el": "Το Chinook είναι σπάνια αμερικανική ράτσα για έλξη έλκης. Φιλικό, υπομονετικό και έξυπνο. Πυκνό διπλό τρίχωμα.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 5,
+      "trainability": 5,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Chinooks need daily exercise including pulling or hiking. Coat requires regular brushing. They are eager to please and trainable. They do well in cold weather and enjoy having a job.",
+    "care_el": "Καθημερινή άσκηση και έλξη/πεζοπορία. Τακτικό βούρτσισμα. Εκπαιδεύσιμο και ευχάριστο. Ευδοκιμούν στο κρύο.",
+    "health_en": "Chinooks can be prone to hip dysplasia and eye issues. Epilepsy has been reported in some lines. Responsible breeders screen for genetic conditions. Overall a healthy, long-lived breed.",
+    "health_el": "Πιθανή δυσπλασία ισχίου και παθήσεις ματιών. Έλεγχος εκτροφέα. Γενικά υγιής και μακρόβιος."
+  },
+  {
+    "id": "catahoula-leopard-dog",
+    "slug": "catahoula-leopard-dog",
+    "name_en": "Catahoula Leopard Dog",
+    "name_el": "Καταχούλα Λεοπάρδαλη",
+    "type": "dog",
+    "origin": "United States",
+    "originCode": "US",
+    "images": [],
+    "size": "large",
+    "lifespan": "10-14 years",
+    "temperament_en": [
+      "Energetic",
+      "Independent",
+      "Loyal",
+      "Protective",
+      "Intelligent"
+    ],
+    "temperament_el": [
+      "Ενεργητικός",
+      "Ανεξάρτητος",
+      "Πιστός",
+      "Προστατευτικός",
+      "Έξυπνος"
+    ],
+    "description_en": "The Catahoula Leopard Dog is a working breed from Louisiana, used for herding and hunting. They are known for their striking coat patterns and often heterochromatic eyes. They are energetic, independent, and need an experienced owner who can provide structure and plenty of exercise.",
+    "description_el": "Το Catahoula Leopard Dog είναι εργατική ράτσα από τη Λουιζιάνα. Ενεργητικό και ανεξάρτητο. Χαρακτηριστικά μάτια και δέρμα.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 1,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Catahoulas need substantial daily exercise and mental stimulation. Short coat is easy to maintain. They require early socialization and consistent training. They can be dog-aggressive; secure fencing is important.",
+    "care_el": "Σημαντική άσκηση και νοητική διέγερση. Πρώιμη κοινωνικοποίηση. Πιθανή επιθετικότητα προς σκυλιά.",
+    "health_en": "Catahoulas can be prone to hip dysplasia, deafness (especially in double merle), and eye issues. Responsible breeding avoids double merle. Overall a hardy working breed.",
+    "health_el": "Πιθανή δυσπλασία ισχίου, κώφωση, παθήσεις ματιών. Αποφυγή double merle. Ανθεκτική εργατική ράτσα."
+  },
+  {
+    "id": "drentsche-patrijshond",
+    "slug": "drentsche-patrijshond",
+    "name_en": "Drentsche Patrijshond",
+    "name_el": "Ντρεντσέ Πατρίσχοντ",
+    "type": "dog",
+    "origin": "Netherlands",
+    "originCode": "NL",
+    "images": [],
+    "size": "medium",
+    "lifespan": "11-14 years",
+    "temperament_en": [
+      "Friendly",
+      "Loyal",
+      "Intelligent",
+      "Willing",
+      "Gentle"
+    ],
+    "temperament_el": [
+      "Φιλικός",
+      "Πιστός",
+      "Έξυπνος",
+      "Πρόθυμος",
+      "Ήπιος"
+    ],
+    "description_en": "The Drentsche Patrijshond is a Dutch gundog used for pointing and retrieving. They are friendly, loyal family dogs that work well in the field. They have a moderate energy level and get along with children and other pets. The breed is still primarily found in the Netherlands.",
+    "description_el": "Ο Drentsche Patrijshond είναι ολλανδικό κυνηγετικό. Φιλικός και πιστός. Μέτρια ενέργεια. Καλός με παιδιά.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 5,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Drents need regular exercise and enjoy outdoor activities like hiking or field work. Coat requires weekly brushing. They are trainable and good-natured. They do well in active families.",
+    "care_el": "Τακτική άσκηση και δραστηριότητες στη φύση. Εβδομαδιαίο βούρτσισμα. Εκπαιδεύσιμο και ευγενικό.",
+    "health_en": "Drentsche Patrijshonds are generally healthy. Hip dysplasia may occur. Few breed-specific issues are well documented. Regular vet care is recommended.",
+    "health_el": "Γενικά υγιή. Πιθανή δυσπλασία ισχίου. Τακτική κτηνιατρική φροντίδα."
+  },
+  {
+    "id": "english-coonhound",
+    "slug": "english-coonhound",
+    "name_en": "English Coonhound",
+    "name_el": "Αγγλικό Coonhound",
+    "type": "dog",
+    "origin": "United States",
+    "originCode": "US",
+    "images": [],
+    "size": "large",
+    "lifespan": "11-12 years",
+    "temperament_en": [
+      "Friendly",
+      "Energetic",
+      "Vocal",
+      "Loyal",
+      "Determined"
+    ],
+    "temperament_el": [
+      "Φιλικός",
+      "Ενεργητικός",
+      "Φωνακλάς",
+      "Πιστός",
+      "Αποφασιστικός"
+    ],
+    "description_en": "The English Coonhound is an American breed developed for trailing and treeing raccoons. They are friendly, energetic, and known for their distinctive baying voice. They need plenty of exercise and a secure yard. They get along with people and can do well with other dogs when socialized.",
+    "description_el": "Το English Coonhound αναπτύχθηκε για κυνήγι ρακούν. Φιλικό και ενεργητικό. Διακριτικό γαύγισμα. Χρειάζεται άσκηση και ασφαλή αυλή.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 1,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "English Coonhounds need substantial daily exercise. Short coat is low maintenance. They can be vocal; training can help manage barking. They have a strong scent drive and should be kept on leash or in a secure area.",
+    "care_el": "Σημαντική καθημερινή άσκηση. Μπορεί να γαβγίζει πολύ. Ισχυρό ένστικτο οσμής—λουρί ή ασφαλής χώρος.",
+    "health_en": "English Coonhounds can be prone to hip dysplasia and ear infections (floppy ears). Eye conditions may occur. Generally a robust breed. Regular ear cleaning is important.",
+    "health_el": "Πιθανή δυσπλασία ισχίου και ωτίτιδα. Γενικά ανθεκτικό. Σημαντικός καθαρισμός αυτιών."
+  },
+  {
+    "id": "estrela-mountain-dog",
+    "slug": "estrela-mountain-dog",
+    "name_en": "Estrela Mountain Dog",
+    "name_el": "Σκύλος Βουνών Εστρέλα",
+    "type": "dog",
+    "origin": "Portugal",
+    "originCode": "PT",
+    "images": [],
+    "size": "giant",
+    "lifespan": "10-12 years",
+    "temperament_en": [
+      "Loyal",
+      "Protective",
+      "Calm",
+      "Independent",
+      "Gentle"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Προστατευτικός",
+      "Ήρεμος",
+      "Ανεξάρτητος",
+      "Ήπιος"
+    ],
+    "description_en": "The Estrela Mountain Dog is a Portuguese livestock guardian from the Estrela Mountains. They are large, loyal, and protective—devoted to their family and territory. They can be reserved with strangers and need early socialization. They require space and moderate exercise.",
+    "description_el": "Ο Σκύλος Βουνών Εστρέλα είναι πορτογαλικός φύλακας προβάτων. Μεγάλος, πιστός και προστατευτικός. Χρειάζεται χώρο και κοινωνικοποίηση.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 3,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Estrela Mountain Dogs need a large yard and regular brushing. They are calm indoors but need daily walks. Training should be consistent and firm but kind. They are natural guardians and may be wary of strangers.",
+    "care_el": "Μεγάλη αυλή και τακτικό βούρτσισμα. Καθημερινές βόλτες. Φυσικοί φύλακες.",
+    "health_en": "Estrela Mountain Dogs can be prone to hip dysplasia, bloat, and heart conditions. Regular vet checkups and a quality diet support health. Responsible breeders screen for joint and cardiac issues.",
+    "health_el": "Πιθανή δυσπλασία ισχίου, φούσκωμα, καρδιακά. Έλεγχος αρθρώσεων και καρδιάς."
+  },
+  {
+    "id": "formosan-mountain-dog",
+    "slug": "formosan-mountain-dog",
+    "name_en": "Formosan Mountain Dog",
+    "name_el": "Σκύλος Βουνών Φορμόζα",
+    "type": "dog",
+    "origin": "Taiwan",
+    "originCode": "TW",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Loyal",
+      "Alert",
+      "Reserved",
+      "Intelligent",
+      "Adaptable"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Επαγρύπνος",
+      "Συνεσταλμένος",
+      "Έξυπνος",
+      "Προσαρμοστικός"
+    ],
+    "description_en": "The Formosan Mountain Dog is a primitive breed from Taiwan, used for hunting and guarding. They are loyal, alert, and adaptable—often reserved with strangers but devoted to their family. They are relatively rare outside Taiwan. They need exercise and early socialization.",
+    "description_el": "Ο Σκύλος Βουνών Φορμόζα είναι πρωτόγονος από την Ταϊβάν. Πιστός και επαγρύπνων. Σπάνιο εκτός Ταϊβάν.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Formosan Mountain Dogs need daily exercise and a secure area. Short coat is low maintenance. They respond well to positive training. They can be escape artists; secure fencing is important.",
+    "care_el": "Καθημερινή άσκηση και ασφαλής χώρος. Ελάχιστη φροντίδα. Θετική εκπαίδευση. Ασφαλής περιφραγή.",
+    "health_en": "Formosan Mountain Dogs are generally healthy and hardy. Few breed-specific conditions are well documented. Regular vet care supports a long life.",
+    "health_el": "Γενικά υγιή και ανθεκτικό. Τακτική φροντίδα για μακρά ζωή."
+  },
+  {
+    "id": "koolie",
+    "slug": "koolie",
+    "name_en": "Koolie",
+    "name_el": "Κούλι",
+    "type": "dog",
+    "origin": "Australia",
+    "originCode": "AU",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Energetic",
+      "Intelligent",
+      "Loyal",
+      "Hardworking",
+      "Alert"
+    ],
+    "temperament_el": [
+      "Ενεργητικός",
+      "Έξυπνος",
+      "Πιστός",
+      "Εργατικός",
+      "Επαγρύπνος"
+    ],
+    "description_en": "The Koolie is an Australian working dog used for herding. They are energetic, intelligent, and highly trainable. They come in various sizes and coat types. Without sufficient exercise and a job, they can develop behavioral issues. They bond closely with their owners.",
+    "description_el": "Το Koolie είναι αυστραλιανό εργατικό σκυλί. Ενεργητικό και πολύ έξυπνο. Χρειάζεται άσκηση και δουλειά.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 5,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Koolies need substantial daily exercise and mental stimulation—herding, agility, or advanced obedience. Coat care depends on coat type. They do best with active owners who can provide structure and activity.",
+    "care_el": "Σημαντική άσκηση και νοητική διέγερση. Ιδανικά για ενεργούς ιδιοκτήτες με δομή και δραστηριότητα.",
+    "health_en": "Koolies are generally healthy. They can be prone to hip dysplasia and eye conditions. Collie eye anomaly may occur in some lines. Responsible breeders screen for these.",
+    "health_el": "Γενικά υγιή. Πιθανή δυσπλασία ισχίου και παθήσεις ματιών. Έλεγχος εκτροφέα."
+  },
+  {
+    "id": "labradoodle",
+    "slug": "labradoodle",
+    "name_en": "Labradoodle",
+    "name_el": "Λαμπραντούντλ",
+    "type": "dog",
+    "origin": "Australia",
+    "originCode": "AU",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Friendly",
+      "Intelligent",
+      "Playful",
+      "Social",
+      "Trainable"
+    ],
+    "temperament_el": [
+      "Φιλικός",
+      "Έξυπνος",
+      "Παιχνιδιάρης",
+      "Κοινωνικός",
+      "Εκπαιδεύσιμος"
+    ],
+    "description_en": "The Labradoodle is a cross between the Labrador Retriever and Poodle, originally developed in Australia for hypoallergenic guide dogs. They come in various sizes and coat types—curly coats tend to shed less. They are friendly, intelligent, and popular as family and therapy dogs. Not all are low-shedding; coat type varies.",
+    "description_el": "Το Labradoodle είναι διασταύρωση Λαμπραντόρ και Κανίς. Φιλικό και έξυπνο. Διαφορετικά είδη τριχώματος—τα σγουρά τριχώνουν λιγότερο.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 4,
+      "friendliness": 5,
+      "trainability": 5,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Labradoodles need regular exercise and grooming—curly coats require brushing and clipping. They are sociable and generally good with children and other pets. Training is usually straightforward due to intelligence and eagerness to please.",
+    "care_el": "Τακτική άσκηση και grooming. Σγουρό τρίχωμα απαιτεί βούρτσισμα και κούρεμα. Κοινωνικό και εκπαιδεύσιμο.",
+    "health_en": "Labradoodles can inherit conditions from both parent breeds—hip dysplasia, eye issues, and skin problems. Reputable breeders health-test both parents. Coat and size vary widely depending on generation and breeding.",
+    "health_el": "Πιθανές κληρονομικές παθήσεις από γονείς. Έλεγχος υγείας γονέων. Ποικίλεια τριχώματος και μεγέθους."
+  },
+  {
+    "id": "lapponian-herder",
+    "slug": "lapponian-herder",
+    "name_en": "Lapponian Herder",
+    "name_el": "Λαππούνιος Ποιμενικός",
+    "type": "dog",
+    "origin": "Finland",
+    "originCode": "FI",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Energetic",
+      "Loyal",
+      "Intelligent",
+      "Alert",
+      "Friendly"
+    ],
+    "temperament_el": [
+      "Ενεργητικός",
+      "Πιστός",
+      "Έξυπνος",
+      "Επαγρύπνος",
+      "Φιλικός"
+    ],
+    "description_en": "The Lapponian Herder is a Finnish reindeer herding dog. They are energetic, loyal, and intelligent—used for herding in Lapland. They need plenty of exercise and mental stimulation. They are friendly with people and generally good with other dogs when socialized.",
+    "description_el": "Ο Lapponian Herder είναι φινλανδικό ποιμενικό για ταράνδους. Ενεργητικό, πιστό και έξυπνο. Χρειάζεται άσκηση και διέγερση.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 2,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Lapponian Herders need substantial daily exercise and a job or activity. Coat requires regular brushing. They do well in cold climates and enjoy outdoor work. Early socialization is recommended.",
+    "care_el": "Σημαντική άσκηση και δραστηριότητα. Τακτικό βούρτσισμα. Ευδοκιμούν στο κρύο. Πρώιμη κοινωνικοποίηση.",
+    "health_en": "Lapponian Herders are generally healthy. Hip dysplasia and eye conditions may occur. Responsible breeders screen for genetic issues. Overall a robust working breed.",
+    "health_el": "Γενικά υγιή. Πιθανή δυσπλασία ισχίου και ματιών. Έλεγχος εκτροφέα. Ανθεκτική εργατική ράτσα."
+  },
+  {
+    "id": "mountain-cur",
+    "slug": "mountain-cur",
+    "name_en": "Mountain Cur",
+    "name_el": "Mountain Cur",
+    "type": "dog",
+    "origin": "United States",
+    "originCode": "US",
+    "images": [],
+    "size": "medium",
+    "lifespan": "10-16 years",
+    "temperament_en": [
+      "Loyal",
+      "Energetic",
+      "Protective",
+      "Intelligent",
+      "Hardworking"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Ενεργητικός",
+      "Προστατευτικός",
+      "Έξυπνος",
+      "Εργατικός"
+    ],
+    "description_en": "The Mountain Cur is an American working breed used for hunting and farm work in the Appalachian region. They are loyal, energetic, and protective—good guardians and hunters. They need plenty of exercise and a job. They can be reserved with strangers.",
+    "description_el": "Το Mountain Cur είναι αμερικανική εργατική ράτσα. Πιστό, ενεργητικό και προστατευτικό. Χρειάζεται άσκηση και δουλειά.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 1,
+      "friendliness": 2,
+      "trainability": 4,
+      "cost_index": 1
+    },
+    "cost_annual_usd": "$500-800",
+    "care_en": "Mountain Curs need substantial daily exercise and mental stimulation. Short coat is low maintenance. They do best with active owners who can provide hunting, hiking, or other work. Early socialization is important.",
+    "care_el": "Σημαντική άσκηση και διέγερση. Ελάχιστη φροντίδα. Πρώιμη κοινωνικοποίηση. Ιδανικά για ενεργούς ιδιοκτήτες.",
+    "health_en": "Mountain Curs are generally healthy and long-lived. Few breed-specific issues are well documented. Regular vet care and good nutrition support health.",
+    "health_el": "Γενικά υγιή και μακρόβιοι. Τακτική φροντίδα και καλή διατροφή."
+  },
+  {
+    "id": "peruvian-inca-orchid",
+    "slug": "peruvian-inca-orchid",
+    "name_en": "Peruvian Inca Orchid",
+    "name_el": "Περούβιανικο Όρχιδέα Ίνκα",
+    "type": "dog",
+    "origin": "Peru",
+    "originCode": "PE",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Reserved",
+      "Loyal",
+      "Intelligent",
+      "Elegant",
+      "Alert"
+    ],
+    "temperament_el": [
+      "Συνεσταλμένος",
+      "Πιστός",
+      "Έξυπνος",
+      "Κομψός",
+      "Επαγρύπνος"
+    ],
+    "description_en": "The Peruvian Inca Orchid is a hairless breed from Peru, existing in small, medium, and large sizes. They are reserved with strangers but loyal to their family. Hairless dogs need sun protection and may need clothing in cold weather. They are elegant and relatively rare outside Peru.",
+    "description_el": "Το Peruvian Inca Orchid είναι άτριχο σκυλί από το Περού. Συνεσταλμένο αλλά πιστό. Χρειάζεται προστασία από ήλιο και κρύο.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 2,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Hairless varieties need sunscreen and protection from cold; coated variety exists and needs minimal grooming. They are sensitive to temperature extremes. They need moderate exercise and positive training. Dental care is important for hairless dogs.",
+    "care_el": "Άτριχα χρειάζονται αντιηλιακό και ζεστασιά. Ευαίσθητα σε ακραίες θερμοκρασίες. Φροντίδα δοντιών σημαντική.",
+    "health_en": "Peruvian Inca Orchids can have dental issues (common in hairless breeds), skin sensitivity, and injury to exposed skin. They are generally healthy otherwise. Sunburn and cold injury must be prevented.",
+    "health_el": "Πιθανά δοντολογικά, ευαισθησία δέρματος. Γενικά υγιή. Πρόληψη ηλίασης και κρυοπαγήματος."
+  },
+  {
+    "id": "silken-windhound",
+    "slug": "silken-windhound",
+    "name_en": "Silken Windhound",
+    "name_el": "Σίλκεν Γουίντχαουντ",
+    "type": "dog",
+    "origin": "United States",
+    "originCode": "US",
+    "images": [],
+    "size": "medium",
+    "lifespan": "14-18 years",
+    "temperament_en": [
+      "Gentle",
+      "Friendly",
+      "Affectionate",
+      "Playful",
+      "Graceful"
+    ],
+    "temperament_el": [
+      "Ήπιος",
+      "Φιλικός",
+      "Στοργικός",
+      "Παιχνιδιάρης",
+      "Κομψός"
+    ],
+    "description_en": "The Silken Windhound is a relatively new American breed, a smaller sighthound with a silky coat. They are gentle, friendly, and affectionate—good family dogs. They enjoy running in safe areas and relaxing at home. They are generally healthy and long-lived.",
+    "description_el": "Το Silken Windhound είναι νέα αμερικανική ράτσα λυκόμυαλος. Ήπιο, φιλικό και στοργικό. Υγιή και μακρόβιο.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 2,
+      "friendliness": 5,
+      "trainability": 4,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Silken Windhounds need daily exercise including safe off-leash runs. Silky coat requires regular brushing. They are adaptable and generally good with children and other dogs. They are sensitive to cold.",
+    "care_el": "Καθημερινή άσκηση και ασφαλές τρέξιμο. Τακτικό βούρτσισμα. Προσαρμοστικό. Ευαίσθητο στο κρύο.",
+    "health_en": "Silken Windhounds are generally very healthy and long-lived. Few breed-specific issues; responsible breeders screen for cardiac and eye conditions. A relatively new breed with a small gene pool.",
+    "health_el": "Γενικά πολύ υγιή και μακρόβιοι. Λίγες ειδικές παθήσεις. Έλεγχος καρδιάς και ματιών."
+  },
+  {
+    "id": "telomian",
+    "slug": "telomian",
+    "name_en": "Telomian",
+    "name_el": "Τελομίαν",
+    "type": "dog",
+    "origin": "Malaysia",
+    "originCode": "MY",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Alert",
+      "Intelligent",
+      "Reserved",
+      "Loyal",
+      "Agile"
+    ],
+    "temperament_el": [
+      "Επαγρύπνος",
+      "Έξυπνος",
+      "Συνεσταλμένος",
+      "Πιστός",
+      "Ευκίνητος"
+    ],
+    "description_en": "The Telomian is a primitive breed from Malaysia, traditionally kept by the Orang Asli. They are known for their ability to climb and for a distinctive howl. They are alert, intelligent, and reserved with strangers. They are rare outside Malaysia and need patient socialization.",
+    "description_el": "Το Telomian είναι πρωτόγονος από τη Μαλαισία. Γνωστό για την αναρρίχηση και το διακριτικό ουρλιαχτό. Επαγρύπνων και έξυπνο. Σπάνιο.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Telomians need daily exercise and secure fencing—they can climb. Short coat is low maintenance. They respond to positive, patient training. They may be vocal and have a strong prey drive.",
+    "care_el": "Καθημερινή άσκηση και ασφαλής περιφραγή—μπορούν να σκαρφαλώσουν. Ελάχιστη φροντίδα. Θετική εκπαίδευση.",
+    "health_en": "Telomians are generally healthy with few documented breed-specific issues. As a primitive breed with limited numbers, health data is sparse. Regular vet care is recommended.",
+    "health_el": "Γενικά υγιή. Λίγα τεκμηριωμένα ειδικά προβλήματα. Τακτική κτηνιατρική φροντίδα."
+  },
+  {
+    "id": "transylvanian-hound",
+    "slug": "transylvanian-hound",
+    "name_en": "Transylvanian Hound",
+    "name_el": "Τρανσυλβανικός Χάουντ",
+    "type": "dog",
+    "origin": "Romania",
+    "originCode": "RO",
+    "images": [],
+    "size": "medium",
+    "lifespan": "10-12 years",
+    "temperament_en": [
+      "Loyal",
+      "Courageous",
+      "Energetic",
+      "Determined",
+      "Friendly"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Θαρραλέος",
+      "Ενεργητικός",
+      "Αποφασιστικός",
+      "Φιλικός"
+    ],
+    "description_en": "The Transylvanian Hound is a Hungarian-Romanian scent hound used for hunting. They come in short- and long-legged varieties. They are loyal, courageous, and energetic—needing plenty of exercise. They are friendly with their family and can be good with other dogs when socialized.",
+    "description_el": "Ο Τρανσυλβανικός Χάουντ είναι οσφραντικό κυνηγετικό. Πιστό, θαρραλέο και ενεργητικό. Χρειάζεται άσκηση.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Transylvanian Hounds need substantial daily exercise. Coat requires regular brushing. They have a strong scent drive and should be kept on leash or in a secure area. They are vocal when on trail.",
+    "care_el": "Σημαντική άσκηση. Τακτικό βούρτσισμα. Ισχυρό ένστικτο οσμής—λουρί ή ασφαλής χώρος. Φωνακλά στο μονοπάτι.",
+    "health_en": "Transylvanian Hounds are generally healthy. Hip dysplasia and ear infections may occur. Regular ear cleaning is important. Overall a robust hunting breed.",
+    "health_el": "Γενικά υγιή. Πιθανή δυσπλασία ισχίου και ωτίτιδα. Καθαρισμός αυτιών. Ανθεκτική κυνηγετική ράτσα."
+  },
+  {
+    "id": "wirehaired-vizsla",
+    "slug": "wirehaired-vizsla",
+    "name_en": "Wirehaired Vizsla",
+    "name_el": "Σκληρότριχο Βίζλα",
+    "type": "dog",
+    "origin": "Hungary",
+    "originCode": "HU",
+    "images": [],
+    "size": "large",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Loyal",
+      "Energetic",
+      "Affectionate",
+      "Intelligent",
+      "Trainable"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Ενεργητικός",
+      "Στοργικός",
+      "Έξυπνος",
+      "Εκπαιδεύσιμος"
+    ],
+    "description_en": "The Wirehaired Vizsla is a Hungarian gundog with a wiry coat, developed for work in harsh terrain and cold water. They are loyal, energetic, and affectionate—versatile hunting and family dogs. They need regular exercise and mental stimulation. The coat requires stripping or clipping.",
+    "description_el": "Το Wirehaired Vizsla είναι ουγγρικό κυνηγετικό με σκληρό τρίχωμα. Πιστό, ενεργητικό και στοργικό. Ευέλικτο για κυνήγι και οικογένεια.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 5,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Wirehaired Vizslas need regular exercise and mental challenges. Their wiry coat requires stripping or regular clipping. They excel in field work, agility, and obedience. They are generally good with children when socialized.",
+    "care_el": "Τακτική άσκηση και νοητικές προκλήσεις. Σκληρό τρίχωμα απαιτεί stripping ή κούρεμα. Εξαιρετικό στο πεδίο και αθλήματα.",
+    "health_en": "Wirehaired Vizslas can be prone to hip dysplasia, eye conditions, and epilepsy. Ear infections may occur. Responsible breeders screen for genetic issues. Overall a healthy, athletic breed.",
+    "health_el": "Πιθανή δυσπλασία ισχίου, παθήσεις ματιών, επιληψία. Έλεγχος εκτροφέα. Υγιής και αθλητική ράτσα."
+  }
+]

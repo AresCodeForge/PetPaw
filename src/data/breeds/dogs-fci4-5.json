@@ -1,0 +1,1242 @@
+[
+  {
+    "id": "akita",
+    "slug": "akita",
+    "name_en": "Akita",
+    "name_el": "Ακίτα",
+    "type": "dog",
+    "origin": "Japan",
+    "originCode": "JP",
+    "images": [],
+    "size": "large",
+    "lifespan": "10-13 years",
+    "temperament_en": [
+      "Loyal",
+      "Dignified",
+      "Courageous",
+      "Reserved",
+      "Independent"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Αξιοπρεπής",
+      "Θαρραλέος",
+      "Συνεσταλμένος",
+      "Ανεξάρτητος"
+    ],
+    "description_en": "The Akita is a powerful, dignified breed from Japan, originally bred for guarding nobility and hunting large game. They are deeply loyal to their families and famously devoted—the story of Hachikō exemplifies their devotion. Akitas are reserved with strangers and can be dominant with other dogs; early socialization is essential. Their thick double coat and substantial build reflect their northern heritage.",
+    "description_el": "Το Ακίτα είναι μια ισχυρή, αξιοπρεπής ράτσα από την Ιαπωνία, αρχικά εκτρεφόταν για φύλαξη ευγενών και κυνήγι μεγάλων θηραμάτων. Είναι βαθιά πιστά στις οικογένειές τους και διάσημα αφοσιωμένα—η ιστορία του Hachikō ενσαρκώνει την αφοσίωσή τους. Τα Ακίτα είναι συνεσταλμένα με αγνώστους και μπορεί να είναι κυρίαρχα με άλλα σκυλιά· η πρώιμη κοινωνικοποίηση είναι απαραίτητη. Το παχύ διπλό τρίχωμα και η στιβαρή σωματική διάπλασή τους αντικατοπτρίζουν τη βόρεια κληρονομιά τους.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 3,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Akitas need moderate daily exercise and mental stimulation. Their dense coat requires regular brushing, especially during seasonal shedding. They do best with experienced owners who can provide consistent, calm leadership. Secure fencing is important as they have a strong prey drive. They prefer cooler climates and should be supervised in heat.",
+    "care_el": "Τα Ακίτα χρειάζονται μέτρια καθημερινή άσκηση και νοητική διέγερση. Το πυκνό τρίχωμά τους απαιτεί τακτικό βούρτσισμα, ειδικά κατά την εποχιακή αλλαγή τριχώματος. Τα πάνε καλύτερα με έμπειρους ιδιοκτήτες που μπορούν να παρέχουν σταθερή, ήρεμη ηγεσία. Ασφαλής περιφραγή είναι σημαντική καθώς έχουν ισχυρό ένστικτο θηραμάτων. Προτιμούν δροσερότερα κλίματα και πρέπει να επιβλέπονται στη ζέστη.",
+    "health_en": "Akitas can be prone to hip dysplasia, hypothyroidism, progressive retinal atrophy, and autoimmune conditions. Bloat is a concern in large, deep-chested dogs. Some lines may have sensitivity to certain medications. Regular veterinary checkups and health screening by breeders are recommended.",
+    "health_el": "Τα Ακίτα μπορεί να είναι επιρρεπή σε δυσπλασία ισχίου, υποθυρεοειδισμό, προοδευτική ατροφία αμφιβληστροειδούς και αυτοάνοσες παθήσεις. Το φούσκωμα είναι ανησυχία σε μεγάλα σκυλιά με βαθύ θώρακα. Οι τακτικοί κτηνιατρικοί έλεγχοι και ο έλεγχος υγείας από τους εκτροφείς συνιστώνται."
+  },
+  {
+    "id": "alaskan-malamute",
+    "slug": "alaskan-malamute",
+    "name_en": "Alaskan Malamute",
+    "name_el": "Αλάσκαν Μαλαμούτ",
+    "type": "dog",
+    "origin": "United States",
+    "originCode": "US",
+    "images": [],
+    "size": "large",
+    "lifespan": "10-14 years",
+    "temperament_en": [
+      "Affectionate",
+      "Loyal",
+      "Playful",
+      "Dignified",
+      "Strong-willed"
+    ],
+    "temperament_el": [
+      "Στοργικός",
+      "Πιστός",
+      "Παιχνιδιάρης",
+      "Αξιοπρεπής",
+      "Πεισματάρης"
+    ],
+    "description_en": "The Alaskan Malamute is one of the oldest Arctic sled dogs, bred by the Mahlemut people of Alaska for hauling heavy freight. They are powerful, enduring, and affectionate with their families but need plenty of exercise and a job to do. Malamutes are pack-oriented and can be dominant with other dogs; they are not one-person dogs but bond with the whole family. Their thick coat and sturdy build are built for cold climates.",
+    "description_el": "Το Αλάσκαν Μαλαμούτ είναι ένα από τα παλαιότερα αρκτικά σκυλιά έλξης, εκτρεφόταν από τον λαό Mahlemut της Αλάσκας για μεταφορά βαριών φορτίων. Είναι ισχυρά, ανθεκτικά και στοργικά με τις οικογένειές τους αλλά χρειάζονται πολλή άσκηση και δουλειά. Τα Μαλαμούτ είναι αγελαιοκεντρικά και μπορεί να είναι κυρίαρχα με άλλα σκυλιά· δεν είναι σκύλοι ενός ατόμου αλλά δένονται με όλη την οικογένεια. Το παχύ τρίχωμα και η στέρεη σωματική διάπλασή τους είναι φτιαγμένα για κρύα κλίματα.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 4,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Alaskan Malamutes require substantial daily exercise—long walks, hiking, or cart-pulling. Their heavy coat needs regular brushing and blows seasonally. They are escape artists and need secure fencing. They thrive in cooler climates and can overheat easily in heat. Consistent training and early socialization are important.",
+    "care_el": "Τα Αλάσκαν Μαλαμούτ απαιτούν σημαντική καθημερινή άσκηση—μακριές βόλτες, πεζοπορία ή έλξη αμαξιού. Το βαριό τρίχωμά τους χρειάζεται τακτικό βούρτσισμα και αλλάζει εποχιακά. Είναι ειδήμονες στην απόδραση και χρειάζονται ασφαλή περιφραγή. Ευδοκιμούν σε δροσερότερα κλίματα και μπορούν εύκολα να υπερθερμαίνονται. Σημαντική είναι η σταθερή εκπαίδευση και η πρώιμη κοινωνικοποίηση.",
+    "health_en": "Alaskan Malamutes can be prone to hip dysplasia, inherited polyneuropathy, chondrodysplasia, and eye conditions. Bloat is a risk. They may also develop hypothyroidism. Responsible breeders screen for genetic conditions. Regular exercise and weight management support joint health.",
+    "health_el": "Τα Αλάσκαν Μαλαμούτ μπορεί να είναι επιρρεπή σε δυσπλασία ισχίου, κληρονομική πολυνευροπάθεια, χονδροδυσπλασία και παθήσεις ματιών. Το φούσκωμα είναι κίνδυνος. Οι υπεύθυνοι εκτροφείς ελέγχουν για γενετικές παθήσεις. Η τακτική άσκηση και η διαχείριση βάρους υποστηρίζουν την υγεία των αρθρώσεων."
+  },
+  {
+    "id": "american-eskimo-dog",
+    "slug": "american-eskimo-dog",
+    "name_en": "American Eskimo Dog",
+    "name_el": "Αμερικανικός Εσκιμώος Σκύλος",
+    "type": "dog",
+    "origin": "United States",
+    "originCode": "US",
+    "images": [],
+    "size": "medium",
+    "lifespan": "13-15 years",
+    "temperament_en": [
+      "Intelligent",
+      "Friendly",
+      "Alert",
+      "Playful",
+      "Adaptable"
+    ],
+    "temperament_el": [
+      "Έξυπνος",
+      "Φιλικός",
+      "Επαγρύπνος",
+      "Παιχνιδιάρης",
+      "Προσαρμοστικός"
+    ],
+    "description_en": "The American Eskimo Dog descends from German Spitz breeds brought to the United States. They come in toy, miniature, and standard sizes and are known for their brilliant white coat and expressive face. Eskies are highly intelligent, eager to please, and excel in obedience and agility. They are alert watchdogs and affectionate family companions. Their fluffy appearance and lively personality have made them popular in circus acts and as pets.",
+    "description_el": "Ο Αμερικανικός Εσκιμώος Σκύλος κατάγεται από γερμανικές ράτσες Σπιτς που ήρθαν στις Ηνωμένες Πολιτείες. Έρχονται σε μεγέθη toy, miniature και standard και είναι γνωστοί για το λαμπρό λευκό τρίχωμα και το εκφραστικό πρόσωπό τους. Είναι πολύ έξυπνοι, πρόθυμοι να ευχαριστούν και διαπρέπουν στην υπακοή και την ευκινησία. Είναι επαγρύπνων φύλακες και στοργικοί οικογενειακοί σύντροφοι. Η χνουδωτή εμφάνισή τους και η ζωντανή προσωπικότητά τους τους έχουν κάνει δημοφιλείς σε τσιρκ και ως κατοικίδια.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 4,
+      "friendliness": 4,
+      "trainability": 5,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "American Eskimo Dogs need daily exercise and mental challenges to prevent boredom. Their double coat requires regular brushing to prevent matting and to manage shedding. They can be barkers, so training to manage vocalization is helpful. They do well in various living situations with enough activity and companionship.",
+    "care_el": "Οι Αμερικανικοί Εσκιμώοι Σκύλοι χρειάζονται καθημερινή άσκηση και νοητικές προκλήσεις για να αποφευχθεί η πλήξη. Το διπλό τρίχωμά τους απαιτεί τακτικό βούρτσισμα για να αποφευχθούν οι κόμποι και η τριχόπτωση. Μπορεί να γαβγίζουν πολύ, οπότε η εκπαίδευση για τον έλεγχο της φωνής είναι χρήσιμη. Τα πάνε καλά σε διάφορες συνθήκες διαβίωσης με αρκετή δραστηριότητα και συντροφιά.",
+    "health_en": "American Eskimo Dogs are generally healthy. They may be prone to hip dysplasia, luxating patella (especially in smaller sizes), and progressive retinal atrophy. Dental care is important. Some may develop allergies. Regular veterinary checkups and good nutrition support a long life.",
+    "health_el": "Οι Αμερικανικοί Εσκιμώοι Σκύλοι είναι γενικά υγιείς. Μπορεί να είναι επιρρεπείς σε δυσπλασία ισχίου, εξάρθρωση επιγονατίδας (ειδικά στα μικρότερα μεγέθη) και προοδευτική ατροφία αμφιβληστροειδούς. Η φροντίδα των δοντιών είναι σημαντική. Οι τακτικοί κτηνιατρικοί έλεγχοι και η καλή διατροφή υποστηρίζουν μακρά ζωή."
+  },
+  {
+    "id": "basenji",
+    "slug": "basenji",
+    "name_en": "Basenji",
+    "name_el": "Μπασένζι",
+    "type": "dog",
+    "origin": "Democratic Republic of the Congo",
+    "originCode": "CD",
+    "images": [],
+    "size": "medium",
+    "lifespan": "13-14 years",
+    "temperament_en": [
+      "Independent",
+      "Alert",
+      "Curious",
+      "Affectionate",
+      "Energetic"
+    ],
+    "temperament_el": [
+      "Ανεξάρτητος",
+      "Επαγρύπνος",
+      "Περίεργος",
+      "Στοργικός",
+      "Ενεργητικός"
+    ],
+    "description_en": "The Basenji is an ancient African breed known as the 'barkless dog' because they produce unusual yodel-like sounds rather than typical barks. They are clean, cat-like in habits, and independent thinkers. Basenjis are agile, curious, and have a strong prey drive—they need secure containment. They form strong bonds with their families but can be aloof with strangers. Their short coat and elegant build require minimal grooming.",
+    "description_el": "Το Μπασένζι είναι μια αρχαία αφρικανική ράτσα γνωστή ως ο 'σκύλος χωρίς γαύγισμα' επειδή παράγουν ασυνήθιστα ήχους σαν γιοντέλ αντί για τυπικό γαύγισμα. Είναι καθαρά, με συνήθειες σαν γάτα και ανεξάρτητοι στοχαστές. Τα Μπασένζι είναι ευκίνητα, περίεργα και έχουν ισχυρό ένστικτο θηραμάτων—χρειάζονται ασφαλή περιοχή. Δημιουργούν ισχυρούς δεσμούς με τις οικογένειές τους αλλά μπορεί να είναι απόμακρα με αγνώστους. Το κοντό τρίχωμα και η κομψή σωματική διάπλασή τους απαιτούν ελάχιστη περιποίηση.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Basenjis need daily exercise and mental stimulation. They are escape artists and must be in secure, fenced areas or on leash. They groom themselves like cats and have minimal doggy odor. Training requires patience as they are independent; positive reinforcement works best. They can be destructive if bored.",
+    "care_el": "Τα Μπασένζι χρειάζονται καθημερινή άσκηση και νοητική διέγερση. Είναι ειδήμονες στην απόδραση και πρέπει να βρίσκονται σε ασφαλείς, περιφραγμένες περιοχές ή σε λουρί. Περιποιούν τον εαυτό τους σαν γάτες και έχουν ελάχιστη μυρωδιά. Η εκπαίδευση απαιτεί υπομονή καθώς είναι ανεξάρτητα· η θετική ενίσχυση λειτουργεί καλύτερα. Μπορεί να γίνουν καταστροφικά αν βαρεθούν.",
+    "health_en": "Basenjis can be prone to Fanconi syndrome (kidney disorder), progressive retinal atrophy, and hypothyroidism. Hemolytic anemia (Basenji enteropathy) occurs in some lines. Responsible breeders screen for genetic conditions. They are generally long-lived and robust with proper care.",
+    "health_el": "Τα Μπασένζι μπορεί να είναι επιρρεπή στο σύνδρομο Fanconi (νεφρική διαταραχή), προοδευτική ατροφία αμφιβληστροειδούς και υποθυρεοειδισμό. Η αιμολυτική αναιμία εμφανίζεται σε ορισμένες σειρές. Οι υπεύθυνοι εκτροφείς ελέγχουν για γενετικές παθήσεις. Είναι γενικά μακρόβια και ανθεκτικά με κατάλληλη φροντίδα."
+  },
+  {
+    "id": "chow-chow",
+    "slug": "chow-chow",
+    "name_en": "Chow Chow",
+    "name_el": "Τσάου Τσάου",
+    "type": "dog",
+    "origin": "China",
+    "originCode": "CN",
+    "images": [],
+    "size": "medium",
+    "lifespan": "8-12 years",
+    "temperament_en": [
+      "Independent",
+      "Loyal",
+      "Reserved",
+      "Dignified",
+      "Quiet"
+    ],
+    "temperament_el": [
+      "Ανεξάρτητος",
+      "Πιστός",
+      "Συνεσταλμένος",
+      "Αξιοπρεπής",
+      "Ήσυχος"
+    ],
+    "description_en": "The Chow Chow is one of the most ancient and distinctive dog breeds in the world, with archaeological evidence and Chinese artifacts suggesting they have existed for over 2,000 years. Originating in northern China, where they were known as 'Songshi Quan' (puffy-lion dog), Chow Chows served multiple roles including guarding temples, pulling sleds, herding livestock, and accompanying nobility. They are immediately identifiable by their unique blue-black tongue (shared only with the Shar-Pei among dog breeds), their dense lion-like mane, deep-set almond eyes, and distinctive stilted gait caused by unusually straight rear legs. Chow Chows come in two coat varieties — rough (thick and dense) and smooth (shorter and sleeker) — in colors including red, black, blue, cinnamon, and cream. They weigh 20–32 kg and have a compact, powerful build. Chow Chows are famously independent and cat-like in their demeanor — they are clean, often fastidious about grooming, loyal to their chosen people, but reserved and aloof with strangers. Sigmund Freud notably kept a Chow Chow named Jofi in his office during psychotherapy sessions, believing the dog had a calming effect on patients.",
+    "description_el": "Το Τσάου Τσάου είναι μία από τις αρχαιότερες ράτσες στον κόσμο, με αρχαιολογικά στοιχεία που υποδεικνύουν ύπαρξη 2.000+ ετών. Από τη βόρεια Κίνα, υπηρέτησε ως φύλακας ναών, ελκυστικό σκυλί και σύντροφος ευγενών. Αναγνωρίζεται αμέσως από τη μοναδική γαλαζομαύρη γλώσσα, τη λεοντοειδή χαίτη και το ιδιαίτερο βάδισμα. Έρχεται σε τραχύ και λείο τρίχωμα, 20–32 κιλά. Τα Τσάου είναι ανεξάρτητα και γατοειδή — καθαρά, μεθοδικά, πιστά αλλά αλαζονικά με ξένους. Ο Sigmund Freud κρατούσε ένα Τσάου στο γραφείο του κατά τις ψυχοθεραπείες.",
+    "characteristics": {
+      "energy": 2,
+      "grooming": 4,
+      "friendliness": 2,
+      "trainability": 2,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Chow Chows need moderate daily exercise — about 30–45 minutes of walks — but are not particularly athletic and prefer a dignified pace. Their dense double coat (especially in rough-coated individuals) requires thorough brushing at least three times per week to prevent painful matting, and they blow their undercoat heavily twice per year, requiring daily brushing during these periods. They are very sensitive to heat due to their thick coat and somewhat brachycephalic features — they must be kept cool in warm weather and never exercised in high temperatures. Training is a challenge — Chow Chows are among the most independent and stubborn breeds; they require a calm, patient owner who uses positive methods and respects the dog's dignity. Harsh training backfires completely with this breed. Early, extensive socialization from puppyhood is absolutely essential to prevent excessive suspicion of strangers. They are naturally clean dogs that housebreak easily. They are best suited to calm, adult households and may not tolerate rough handling from young children.",
+    "care_el": "Τα Τσάου Τσάου χρειάζονται μέτρια καθημερινή άσκηση — 30–45 λεπτά βόλτων. Το πυκνό τρίχωμα απαιτεί βούρτσισμα τουλάχιστον 3 φορές την εβδομάδα. Είναι πολύ ευαίσθητα στη ζέστη. Η εκπαίδευση είναι πρόκληση — ανεξάρτητα και πεισματάρικα, απαιτούν ήρεμο ιδιοκτήτη με θετικές μεθόδους. Η σκληρή εκπαίδευση αποτυγχάνει. Η πρώιμη κοινωνικοποίηση είναι απολύτως απαραίτητη. Είναι φυσικά καθαρά σκυλιά. Ταιριάζουν σε ήρεμα νοικοκυριά ενηλίκων.",
+    "health_en": "Chow Chows have a typical lifespan of 8–12 years. Hip dysplasia and elbow dysplasia are significant orthopedic concerns — OFA screening is strongly recommended. Entropion (inward rolling of the eyelids causing irritation to the cornea) is very common in the breed and may require surgical correction. Patellar luxation can occur. Hypothyroidism is common and manageable with medication. Autoimmune conditions including pemphigus and autoimmune thyroiditis occur at higher rates. Brachycephalic airway syndrome can cause breathing difficulties, especially in hot weather. Gastric dilatation-volvulus (bloat) is a risk in the breed. Skin conditions including hot spots and allergies can develop, particularly in rough-coated dogs. Diabetes mellitus has been reported. Melanoma (oral and skin) occurs at elevated rates. Their deep-set eyes are prone to various conditions including glaucoma and cataracts. Responsible breeders screen for hips, elbows, eyes, thyroid, and patellae.",
+    "health_el": "Τα Τσάου Τσάου έχουν τυπική διάρκεια ζωής 8–12 χρόνια. Η δυσπλασία ισχίου και αγκώνα είναι σημαντικές ανησυχίες. Το εντρόπιο είναι πολύ κοινό και μπορεί να απαιτεί χειρουργική διόρθωση. Ο υποθυρεοειδισμός είναι κοινός. Αυτοάνοσες παθήσεις εμφανίζονται σε υψηλότερα ποσοστά. Το βραχυκεφαλικό σύνδρομο αεραγωγών μπορεί να προκαλέσει αναπνευστικές δυσκολίες. Το φούσκωμα είναι κίνδυνος. Δερματικές παθήσεις μπορεί να αναπτυχθούν. Το μελάνωμα εμφανίζεται σε αυξημένα ποσοστά. Οι υπεύθυνοι εκτροφείς ελέγχουν ισχία, αγκώνα, μάτια, θυρεοειδή και επιγονατίδα."
+  },
+  {
+    "id": "cirneco-dell-etna",
+    "slug": "cirneco-dell-etna",
+    "name_en": "Cirneco dell'Etna",
+    "name_el": "Τσιρνέκο ντελ'Έτνα",
+    "type": "dog",
+    "origin": "Italy",
+    "originCode": "IT",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Gentle",
+      "Affectionate",
+      "Alert",
+      "Independent",
+      "Energetic"
+    ],
+    "temperament_el": [
+      "Ήπιος",
+      "Στοργικός",
+      "Επαγρύπνος",
+      "Ανεξάρτητος",
+      "Ενεργητικός"
+    ],
+    "description_en": "The Cirneco dell'Etna is an ancient Sicilian sighthound with origins stretching back over 2,500 years, descended from the coursing dogs of ancient Egypt that were brought to Sicily by Phoenician traders. They have hunted rabbits and small game on the volcanic slopes of Mount Etna for millennia, developing remarkable endurance, heat tolerance, and the ability to navigate rocky, inhospitable terrain while hunting by sight, scent, and hearing — a rare combination among sighthounds. They are elegant, slender dogs standing 42–50 cm tall and weighing 8–12 kg, with distinctive large, erect, triangular ears, a fine short coat in shades of tan (from light sand to rich chestnut), and an athletic, graceful build. Coins minted in the ancient Sicilian city of Segesta around 500 BC depict dogs that are virtually identical to today's Cirneco, attesting to the breed's remarkable consistency over millennia. Cirnechi are gentle, affectionate, and playful at home but transform into focused, tenacious hunters in the field. They are intelligent, independent, and adaptable dogs that bond closely with their families while retaining a dignified, cat-like self-sufficiency. The breed remains relatively rare outside Italy but has been gaining recognition worldwide.",
+    "description_el": "Το Τσιρνέκο ντελ'Έτνα είναι αρχαίο σικελιανό κυνηγόσκυλο με ιστορία 2.500+ ετών, κατάγεται από αρχαιοαιγυπτιακά σκυλιά. Κυνηγούσαν κουνέλια στις πλαγιές του Αίτνα για χιλιετίες, αναπτύσσοντας αξιοσημείωτη αντοχή και ανοχή στη ζέστη. Είναι κομψά σκυλιά 42–50 εκ. και 8–12 κιλά, με χαρακτηριστικά μεγάλα όρθια αυτιά. Νομίσματα του 500 π.Χ. απεικονίζουν σκυλιά πανομοιότυπα με τα σημερινά Τσιρνέκο. Είναι ήπια και στοργικά στο σπίτι αλλά εστιασμένα κυνηγόσκυλα στο πεδίο. Έξυπνα, ανεξάρτητα και γατοειδή. Σχετικά σπάνια εκτός Ιταλίας.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Cirnechi dell'Etna need regular daily exercise — about 45–60 minutes of walks, runs, and play — and they particularly enjoy lure coursing, agility, and opportunities to run freely in large, securely fenced areas. They have a strong prey drive and should never be trusted off-leash in unfenced areas — they will chase and are remarkably fast. Their short, fine coat is extremely low-maintenance, requiring only occasional brushing with a soft brush. They are Mediterranean dogs that love warmth and sunshine but are sensitive to cold — they may need a coat in winter and appreciate warm bedding. Training should be positive and patient — they are intelligent but have the independent, somewhat aloof nature typical of primitive breeds; harsh methods will not work. Early socialization with people, dogs, and various environments helps develop their naturally balanced temperament. They are clean, quiet dogs that adapt well to apartment living with sufficient exercise. They can be reserved with strangers but are affectionate and playful with their families.",
+    "care_el": "Τα Τσιρνέκο χρειάζονται τακτική καθημερινή άσκηση — 45–60 λεπτά — και απολαμβάνουν lure coursing και τρέξιμο σε ασφαλείς χώρους. Έχουν ισχυρό ένστικτο θήρας — ποτέ χωρίς λουρί σε ανοιχτούς χώρους. Το κοντό τρίχωμα είναι πολύ εύκολο στη συντήρηση. Αγαπούν τη ζέστη και είναι ευαίσθητα στο κρύο. Η εκπαίδευση πρέπει να είναι θετική — ανεξάρτητα αλλά έξυπνα. Η πρώιμη κοινωνικοποίηση βοηθά. Προσαρμόζονται σε διαμέρισμα.",
+    "health_en": "Cirnechi dell'Etna are generally an exceptionally healthy breed with a typical lifespan of 12–14 years, benefiting from millennia of natural selection in the harsh Sicilian environment. They have very few documented breed-specific health concerns, making them one of the healthiest purebred dogs. Minor skin sensitivities and allergies may occur. Like many sighthounds, they can be sensitive to anesthesia and certain medications — it is important to inform your veterinarian about this breed characteristic before any procedures. Muscle and soft tissue injuries can occur during high-speed running. Dental disease should be monitored as they age. Hip dysplasia is rare but can occur. Due to the breed's relative rarity outside Italy, comprehensive health data is limited, but the breed is generally considered to have excellent genetic health due to its ancient, naturally evolved origins. Their lean build means they have low body fat, making them sensitive to temperature extremes. Responsible breeders screen for hips, eyes, and general soundness.",
+    "health_el": "Τα Τσιρνέκο είναι γενικά εξαιρετικά υγιή ράτσα με τυπική διάρκεια ζωής 12–14 χρόνια, επωφελούμενα από χιλιετίες φυσικής επιλογής. Ελάχιστα τεκμηριωμένα προβλήματα υγείας. Δερματικές ευαισθησίες μπορεί να εμφανιστούν. Όπως πολλά κυνηγόσκυλα, ευαίσθητα σε αναισθησία — ενημερώστε τον κτηνίατρο. Μυϊκοί τραυματισμοί μπορεί να εμφανιστούν σε γρήγορο τρέξιμο. Η οδοντική νόσος πρέπει να παρακολουθείται. Η δυσπλασία ισχίου είναι σπάνια. Θεωρείται ράτσα με εξαιρετική γενετική υγεία."
+  },
+  {
+    "id": "eurasier",
+    "slug": "eurasier",
+    "name_en": "Eurasier",
+    "name_el": "Ευρασιέ",
+    "type": "dog",
+    "origin": "Germany",
+    "originCode": "DE",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-16 years",
+    "temperament_en": [
+      "Calm",
+      "Reserved",
+      "Loyal",
+      "Alert",
+      "Family-oriented"
+    ],
+    "temperament_el": [
+      "Ήρεμος",
+      "Συνεσταλμένος",
+      "Πιστός",
+      "Επαγρύπνος",
+      "Οικογενειακός"
+    ],
+    "description_en": "The Eurasier is a relatively modern breed developed in Germany in the 1960s by Julius Wipfel, who meticulously crossed the Chow Chow with the Wolfspitz (Keeshond) to create a balanced family companion, later introducing Samoyed blood to broaden the gene pool and soften the temperament. The breeding program's explicit goal was to produce a calm, even-tempered, family-oriented dog that combined the best qualities of its Asian and European spitz ancestors — loyalty and dignity from the Chow, friendliness and alertness from the Wolfspitz, and gentle sociability from the Samoyed. Eurasiers are medium-sized dogs (18–32 kg) with a beautiful medium-length double coat that comes in all colors except liver and pure white, often with a distinctive dark face mask. They are characterized by their remarkably balanced temperament — reserved and watchful with strangers (never aggressive or shy), but deeply affectionate, loyal, and devoted to their families. Eurasiers require exceptionally close human contact and form intense bonds with their family members; they become deeply distressed when separated from their people for extended periods. They are quiet, clean, and dignified dogs that are gaining popularity worldwide as ideal family companions.",
+    "description_el": "Το Ευρασιέ είναι σχετικά σύγχρονη ράτσα, αναπτυγμένη στη Γερμανία τη δεκαετία του 1960 από τον Julius Wipfel, που διασταύρωσε Τσάου Τσάου, Wolfspitz και αργότερα Σαμογιέντ. Στόχος ήταν ένας ήρεμος, ισορροπημένος οικογενειακός σύντροφος. Μεσαία σκυλιά (18–32 κιλά) με όμορφο μεσαίου μήκους τρίχωμα σε πολλά χρώματα. Χαρακτηρίζονται από αξιοσημείωτα ισορροπημένη ιδιοσυγκρασία — επιφυλακτικά με ξένους αλλά βαθιά στοργικά με τις οικογένειές τους. Απαιτούν στενή ανθρώπινη επαφή και δένονται έντονα — δυσφορούν όταν χωρίζονται από τους ανθρώπους τους. Ήσυχα, καθαρά σκυλιά που κερδίζουν δημοτικότητα παγκοσμίως.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Eurasiers need moderate daily exercise — about 45–60 minutes of walks and play — and they particularly enjoy off-leash time in safe areas, hiking, and interactive family activities. Their medium-length double coat requires regular brushing two to three times per week and daily brushing during the heavy seasonal shedding periods that occur twice a year. They are highly sensitive, intelligent dogs that respond best to gentle, positive training methods — they should never be trained with harsh corrections, which will damage their trust and bond with their handler. Early socialization with various people and environments is important because of their natural reserve with strangers, but this should never be forced — let the dog approach at its own pace. They must live indoors as part of the family and cannot be relegated to a kennel or yard — isolation causes severe anxiety and behavioral problems. They generally get along well with other dogs and can live with cats when raised together. They are quiet dogs that rarely bark unnecessarily.",
+    "care_el": "Τα Ευρασιέ χρειάζονται μέτρια καθημερινή άσκηση — 45–60 λεπτά. Το τρίχωμα απαιτεί βούρτσισμα 2–3 φορές την εβδομάδα και καθημερινά κατά την αλλαγή τριχώματος. Είναι ευαίσθητα σκυλιά που ανταποκρίνονται σε ήπια, θετική εκπαίδευση — ποτέ σκληρές μεθόδους. Η πρώιμη κοινωνικοποίηση είναι σημαντική. Πρέπει να ζουν εσωτερικά ως μέρος της οικογένειας — η απομόνωση προκαλεί σοβαρά προβλήματα. Τα πάνε καλά με σκυλιά και γάτες. Ήσυχα σκυλιά.",
+    "health_en": "Eurasiers are generally a healthy breed with a typical lifespan of 12–16 years. Hip dysplasia can occur and OFA screening by breeders is recommended. Patellar luxation (slipping kneecaps) is an orthopedic concern in the breed. Hypothyroidism can develop and is manageable with daily medication. Eye conditions including distichiasis (abnormal eyelash growth), ectropion, and progressive retinal atrophy have been documented. Autoimmune conditions may occur, possibly inherited from their Chow Chow ancestry. Exocrine pancreatic insufficiency (EPI) has been reported in the breed. Allergies and skin conditions can develop. Dandy-Walker malformation (a brain condition) has been documented in rare cases. The breed's relatively careful, science-based breeding program has helped maintain good overall health. Due to the breed's relative rarity, health data is more limited than for common breeds, but the international Eurasier community maintains health registries. Responsible breeders test for hips, patellae, eyes, and thyroid.",
+    "health_el": "Τα Ευρασιέ είναι γενικά υγιή ράτσα με τυπική διάρκεια ζωής 12–16 χρόνια. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Η εξάρθρωση επιγονατίδας είναι ανησυχία. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Οφθαλμικές παθήσεις έχουν τεκμηριωθεί. Αυτοάνοσες παθήσεις μπορεί να εμφανιστούν. Η ανεπάρκεια εξωκρινούς παγκρέατος έχει αναφερθεί. Το προσεκτικό πρόγραμμα εκτροφής βοηθά στη διατήρηση καλής υγείας. Οι υπεύθυνοι εκτροφείς ελέγχουν ισχία, επιγονατίδα, μάτια και θυρεοειδή."
+  },
+  {
+    "id": "finnish-spitz",
+    "slug": "finnish-spitz",
+    "name_en": "Finnish Spitz",
+    "name_el": "Φινλανδικό Σπιτς",
+    "type": "dog",
+    "origin": "Finland",
+    "originCode": "FI",
+    "images": [],
+    "size": "medium",
+    "lifespan": "13-15 years",
+    "temperament_en": [
+      "Vocal",
+      "Friendly",
+      "Playful",
+      "Loyal",
+      "Independent"
+    ],
+    "temperament_el": [
+      "Φωνακλάς",
+      "Φιλικός",
+      "Παιχνιδιάρης",
+      "Πιστός",
+      "Ανεξάρτητος"
+    ],
+    "description_en": "The Finnish Spitz is the national dog of Finland, known in its homeland as 'Suomenpystykorva' (Finnish Pricked Ear) or affectionately as 'Finkie.' This ancient breed has been used for centuries by Finnish hunters to track and indicate game birds — particularly capercaillie and black grouse — using their unique 'bark pointing' technique, where they locate a bird, mesmerize it with rhythmic barking and tail wagging while the hunter approaches, then bark more rapidly as the hunter gets closer. In Finland, there are still national 'King of Barkers' competitions where dogs are judged on their bark-pointing ability. Finnish Spitz have a striking fox-like appearance — standing 39–50 cm tall and weighing 9–14 kg — with a luxurious golden-red coat that ranges from pale honey to deep auburn, erect pointed ears, dark almond-shaped eyes, and a plumed tail that curls jauntily over the back. They are lively, playful, and friendly dogs with a characteristic independent, almost cat-like personality — they think for themselves and make decisions based on their own assessment of situations. They are loyal and affectionate with their families but can be reserved with strangers. Their vocal nature (they can bark up to 160 times per minute) is a cherished working trait in Finland but can be challenging in suburban neighborhoods.",
+    "description_el": "Το Φινλανδικό Σπιτς είναι ο εθνικός σκύλος της Φινλανδίας, γνωστό ως «Suomenpystykorva». Χρησιμοποιείται εδώ και αιώνες για κυνήγι πτηνών με μοναδική τεχνική «γαύγισμα δείκτη» — εντοπίζουν πουλί και γαβγίζουν ρυθμικά ενώ ο κυνηγός πλησιάζει. Στη Φινλανδία διεξάγονται διαγωνισμοί «Βασιλιάς Γαυγιστών». Έχουν εντυπωσιακή αλεπούδικη εμφάνιση (39–50 εκ., 9–14 κιλά) με χρυσοκόκκινο τρίχωμα. Είναι ζωηρά, παιχνιδιάρικα με ανεξάρτητη, γατοειδή προσωπικότητα. Μπορούν να γαβγίζουν 160 φορές το λεπτό — αγαπητό χαρακτηριστικό στη Φινλανδία αλλά πρόκληση στα προάστια.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Finnish Spitz need regular daily exercise — about 45–60 minutes of walks, play, and mental stimulation — and they particularly enjoy activities that engage their natural hunting instincts such as tracking, nose work, and interactive games. Their beautiful double coat is surprisingly easy to maintain — weekly brushing suffices most of the year, with more frequent brushing during the twice-yearly shedding seasons. Barking is the most significant behavioral consideration — Finnish Spitz are one of the most vocal dog breeds and will bark at anything they consider noteworthy; training a 'quiet' command early and consistently is essential, especially in urban environments. Training should be positive, engaging, and respect their independent nature — repetitive drills bore them quickly and they may simply refuse to comply; varied, game-like training sessions with treats produce the best results. Early socialization is important, particularly with other animals, as they have a prey drive. They generally get along well with other dogs. They are clean, naturally tidy dogs that adapt well to various living situations but are not ideal for noise-sensitive neighbors.",
+    "care_el": "Τα Φινλανδικά Σπιτς χρειάζονται τακτική καθημερινή άσκηση — 45–60 λεπτά. Το τρίχωμα είναι εκπληκτικά εύκολο στη συντήρηση — εβδομαδιαίο βούρτσισμα. Το γαύγισμα είναι η σημαντικότερη συμπεριφορική πρόκληση — ανάμεσα στα πιο φωνακλά σκυλιά. Η εκπαίδευση πρέπει να είναι θετική και ποικίλη — η επανάληψη τα βαριέται. Η πρώιμη κοινωνικοποίηση είναι σημαντική. Τα πάνε καλά με σκυλιά. Καθαρά σκυλιά αλλά όχι ιδανικά για ευαίσθητους στο θόρυβο γείτονες.",
+    "health_en": "Finnish Spitz are generally a healthy, robust breed with a typical lifespan of 13–15 years. Hip dysplasia can occur and OFA screening is recommended for breeding dogs. Patellar luxation (slipping kneecaps) is an orthopedic concern. Epilepsy has been documented in the breed and is considered a significant health concern. Elbow dysplasia has been reported in some lines. Hypothyroidism can develop with age. Diabetes mellitus has been noted at higher rates in Finnish Spitz than in some other breeds. Pemphigus foliaceus (an autoimmune skin condition) has been documented. Progressive retinal atrophy (PRA) and cataracts are eye conditions that should be screened for. Allergies and skin conditions can develop. The breed's relatively isolated genetic background from Finland has helped maintain overall health. Responsible breeders screen for hips, patellae, eyes, and are aware of epilepsy in their lines.",
+    "health_el": "Τα Φινλανδικά Σπιτς είναι γενικά υγιή ράτσα με τυπική διάρκεια ζωής 13–15 χρόνια. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Η εξάρθρωση επιγονατίδας είναι ανησυχία. Η επιληψία θεωρείται σημαντικό πρόβλημα. Η δυσπλασία αγκώνα έχει αναφερθεί. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Ο σακχαρώδης διαβήτης εμφανίζεται σε υψηλότερα ποσοστά. Η PRA και ο καταρράκτης πρέπει να ελέγχονται. Οι υπεύθυνοι εκτροφείς ελέγχουν ισχία, επιγονατίδα, μάτια και επιληψία."
+  },
+  {
+    "id": "german-spitz-klein",
+    "slug": "german-spitz-klein",
+    "name_en": "German Spitz (Klein)",
+    "name_el": "Γερμανικό Σπιτς (Klein)",
+    "type": "dog",
+    "origin": "Germany",
+    "originCode": "DE",
+    "images": [],
+    "size": "small",
+    "lifespan": "13-15 years",
+    "temperament_en": [
+      "Devoted",
+      "Lively",
+      "Alert",
+      "Trainable",
+      "Companionable"
+    ],
+    "temperament_el": [
+      "Αφοσιωμένος",
+      "Ζωντανός",
+      "Επαγρύπνος",
+      "Εκπαιδεύσιμος",
+      "Συνεργάσιμος"
+    ],
+    "description_en": "The German Spitz (Klein) is the small variety (23–29 cm, 5–8 kg) of the ancient German Spitz family, one of the oldest dog types in Central Europe with a history stretching back to at least the 1400s when they were valued by German farmers and tradesmen as alert, vocal watchdogs and cheerful companions. The German Spitz family includes five size varieties: Wolfspitz (Keeshond), Gross (Giant), Mittel (Medium), Klein (Small), and Zwerg (Toy/Pomeranian), all sharing the same spitz-type characteristics but differing in size. Klein Spitz have a beautiful, profuse double coat that stands off from the body in a distinctive puff, a foxy face with bright, intelligent eyes, pointed erect ears, and a plumed tail that curls over the back. They come in an impressive variety of colors including white, black, brown, orange, grey-shaded, and other shades. Klein Spitz are devoted, lively, and alert companions that bond deeply with their families and make surprisingly effective watchdogs despite their small size — their keen hearing and willingness to bark at anything unusual makes them excellent alarm dogs. They are adaptable, cheerful little dogs with a personality that is much bigger than their physical stature suggests.",
+    "description_el": "Το Γερμανικό Σπιτς (Klein) είναι η μικρή ποικιλία (23–29 εκ., 5–8 κιλά) της αρχαίας οικογένειας Γερμανικών Σπιτς, με ιστορία από τον 15ο αιώνα ως φύλακες και σύντροφοι. Η οικογένεια Σπιτς περιλαμβάνει 5 μεγέθη: Wolfspitz, Gross, Mittel, Klein και Zwerg (Πομεράνιαν). Τα Klein Σπιτς έχουν όμορφο φουντωτό τρίχωμα, αλεπούδικο πρόσωπο και σγουρή ουρά. Έρχονται σε πολλά χρώματα. Είναι αφοσιωμένα, ζωηρά με εκπληκτικά αποτελεσματική φυλακτική ικανότητα. Προσαρμοστικά, ευχάριστα σκυλάκια με μεγαλύτερη προσωπικότητα από το μέγεθός τους.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 1
+    },
+    "cost_annual_usd": "$500-800",
+    "care_en": "German Spitz Klein need moderate daily exercise — about 30–40 minutes of walks, play, and mental stimulation — and they enjoy learning tricks, agility, and interactive games. Their profuse double coat requires regular brushing two to three times per week to prevent matting and tangles, with more frequent attention during seasonal shedding. The coat should not be clipped or shaved, as this can damage the coat texture permanently. They can be vocal and prone to excessive barking — early training of a 'quiet' command is important, particularly in apartments. They are intelligent, eager to please, and very trainable for a small spitz breed — positive training with treats produces excellent results. Early socialization with various people, environments, and other animals helps develop their naturally confident, friendly temperament. They bond intensely with their owners and can develop separation anxiety if left alone too often. They are excellent apartment dogs due to their small size and adaptable nature. Dental care is particularly important in small breeds.",
+    "care_el": "Τα Klein Σπιτς χρειάζονται μέτρια καθημερινή άσκηση — 30–40 λεπτά. Το φουντωτό τρίχωμα απαιτεί βούρτσισμα 2–3 φορές την εβδομάδα. Δεν πρέπει να κουρεύεται — μπορεί να καταστρέψει μόνιμα την υφή. Μπορεί να γαβγίζουν πολύ — πρώιμη εκπαίδευση σημαντική. Είναι έξυπνα και πρόθυμα. Η πρώιμη κοινωνικοποίηση βοηθά. Δένονται έντονα και μπορεί να αναπτύξουν άγχος αποχωρισμού. Εξαιρετικά σκυλιά διαμερίσματος. Η οδοντική φροντίδα είναι σημαντική.",
+    "health_en": "German Spitz Klein are generally a healthy, long-lived breed with a typical lifespan of 13–15 years. Patellar luxation (slipping kneecaps) is the most common orthopedic concern in the breed. Dental disease is a significant issue in small breeds — regular tooth brushing and professional cleanings are important. Progressive retinal atrophy (PRA) and other eye conditions should be screened for. Collapsed trachea can occur in small dogs, particularly those that pull on leashes — a harness is recommended. Epilepsy has been reported in some lines. Hypothyroidism can develop. Alopecia X (black skin disease) — a cosmetic condition causing coat loss — can occur in spitz breeds. Dental malocclusion may be an issue. They can be sensitive to anesthesia due to their small size. Heart conditions including mitral valve disease should be monitored in older dogs. Obesity can be a concern if diet and exercise are not properly managed. Responsible breeders screen for patellae, eyes, and cardiac function.",
+    "health_el": "Τα Klein Σπιτς είναι γενικά υγιή, μακρόβια ράτσα με τυπική διάρκεια ζωής 13–15 χρόνια. Η εξάρθρωση επιγονατίδας είναι η πιο κοινή ανησυχία. Η οδοντική νόσος είναι σημαντικό ζήτημα. PRA πρέπει να ελέγχεται. Η κατάρρευση τραχείας μπορεί να εμφανιστεί. Η επιληψία έχει αναφερθεί. Η αλωπεκία X μπορεί να εμφανιστεί σε σπιτς ράτσες. Η παχυσαρκία μπορεί να είναι ανησυχία. Οι υπεύθυνοι εκτροφείς ελέγχουν επιγονατίδα, μάτια και καρδιά."
+  },
+  {
+    "id": "german-spitz-mittel",
+    "slug": "german-spitz-mittel",
+    "name_en": "German Spitz (Mittel)",
+    "name_el": "Γερμανικό Σπιτς (Mittel)",
+    "type": "dog",
+    "origin": "Germany",
+    "originCode": "DE",
+    "images": [],
+    "size": "medium",
+    "lifespan": "13-15 years",
+    "temperament_en": [
+      "Devoted",
+      "Lively",
+      "Alert",
+      "Trainable",
+      "Companionable"
+    ],
+    "temperament_el": [
+      "Αφοσιωμένος",
+      "Ζωντανός",
+      "Επαγρύπνος",
+      "Εκπαιδεύσιμος",
+      "Συνεργάσιμος"
+    ],
+    "description_en": "The German Spitz (Mittel) is the medium-sized variety (30–38 cm, 7–11 kg) of the ancient German Spitz family, sharing the same rich heritage as its smaller and larger relatives. The Mittel (meaning 'medium' in German) represents the middle ground of the five German Spitz sizes and is perhaps the closest to the original farm and household Spitz that was ubiquitous across Germany for centuries. Like all German Spitz varieties, they feature a profuse, stand-off double coat, a foxy face with bright alert eyes, pointed erect ears, and a plumed tail that arches over the back. Historically, they served as versatile farm dogs — watching over property, alerting to intruders, and serving as cheerful family companions. Mittel Spitz were particularly valued by German tradesmen and traveling merchants as reliable guardians of goods and wagons. They come in all spitz colors including white, black, brown, orange, grey-shaded, and cream. The Mittel is arguably the best all-rounder of the German Spitz family — large enough to be a robust companion for active families yet compact enough for apartment living, with a devoted, lively personality that makes them excellent family dogs and alert watchdogs.",
+    "description_el": "Το Γερμανικό Σπιτς (Mittel) είναι η μεσαία ποικιλία (30–38 εκ., 7–11 κιλά) της αρχαίας οικογένειας Γερμανικών Σπιτς, αντιπροσωπεύοντας το μεσαίο μέγεθος ανάμεσα στα πέντε μεγέθη. Ιστορικά υπηρέτησαν ως ευέλικτα αγροτικά σκυλιά — φυλάσσοντας περιουσίες και εμπόρους. Έχουν φουντωτό τρίχωμα, αλεπούδικο πρόσωπο και σγουρή ουρά. Εκτιμήθηκαν ιδιαίτερα από Γερμανούς εμπόρους. Θεωρείται ο καλύτερος 'all-rounder' της οικογένειας Σπιτς — αρκετά μεγάλο για ενεργές οικογένειες αλλά κατάλληλο και για διαμέρισμα, με αφοσιωμένη, ζωηρή προσωπικότητα.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "German Spitz Mittel need regular daily exercise — about 45–60 minutes of walks, play, and mental stimulation — and they enjoy agility, obedience, tricks, and interactive family activities. Their profuse double coat requires regular brushing two to three times per week to prevent matting, with more frequent attention during seasonal shedding. Like the Klein, the coat should not be clipped or shaved. They can be vocal and prone to barking at perceived intrusions — training a 'quiet' command early is important, especially in residential areas. They are intelligent, eager to please, and respond excellently to positive training methods — they enjoy learning and can be trained to a high level. Early socialization with people, other dogs, and environments helps develop their naturally confident, friendly temperament. They bond deeply with their families and prefer to be involved in family activities. They can develop separation anxiety if left alone frequently. They are adaptable to various living situations including apartments with sufficient exercise.",
+    "care_el": "Τα Mittel Σπιτς χρειάζονται τακτική καθημερινή άσκηση — 45–60 λεπτά. Το τρίχωμα απαιτεί βούρτσισμα 2–3 φορές την εβδομάδα. Δεν πρέπει να κουρεύεται. Μπορεί να γαβγίζουν — πρώιμη εκπαίδευση σημαντική. Είναι έξυπνα και πρόθυμα. Η πρώιμη κοινωνικοποίηση βοηθά. Δένονται βαθιά με τις οικογένειές τους. Μπορεί να αναπτύξουν άγχος αποχωρισμού. Προσαρμόζονται σε διαμέρισμα.",
+    "health_en": "German Spitz Mittel are generally a healthy, long-lived breed with a typical lifespan of 13–15 years. Patellar luxation (slipping kneecaps) can occur and should be screened for. Hip dysplasia may develop, particularly in the larger individuals. Progressive retinal atrophy (PRA) and cataracts are eye conditions that should be monitored. Dental disease can be a concern — regular dental care is important. Epilepsy has been reported in some lines. Hypothyroidism can develop with age. Alopecia X (black skin disease), a cosmetic condition causing hair loss, can occur in spitz breeds. Allergies and skin conditions may develop. Heart conditions including mitral valve disease should be monitored in older dogs. The breed's generally robust health and long lifespan are characteristic of the spitz type. Responsible breeders screen for patellae, hips, eyes, and cardiac function.",
+    "health_el": "Τα Mittel Σπιτς είναι γενικά υγιή, μακρόβια ράτσα με τυπική διάρκεια ζωής 13–15 χρόνια. Η εξάρθρωση επιγονατίδας μπορεί να εμφανιστεί. Η δυσπλασία ισχίου μπορεί να αναπτυχθεί. PRA και καταρράκτης πρέπει να ελέγχονται. Η οδοντική νόσος είναι ανησυχία. Η επιληψία έχει αναφερθεί. Η αλωπεκία X μπορεί να εμφανιστεί. Αλλεργίες μπορεί να αναπτυχθούν. Καρδιακές παθήσεις πρέπει να παρακολουθούνται. Οι υπεύθυνοι εκτροφείς ελέγχουν επιγονατίδα, ισχία, μάτια και καρδιά."
+  },
+  {
+    "id": "hokkaido",
+    "slug": "hokkaido",
+    "name_en": "Hokkaido",
+    "name_el": "Χοκκάιντο",
+    "type": "dog",
+    "origin": "Japan",
+    "originCode": "JP",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Brave",
+      "Devoted",
+      "Dignified",
+      "Alert",
+      "Strong-willed"
+    ],
+    "temperament_el": [
+      "Θαρραλέος",
+      "Αφοσιωμένος",
+      "Αξιοπρεπής",
+      "Επαγρύπνος",
+      "Πεισματάρης"
+    ],
+    "description_en": "The Hokkaido (also known as Hokkaido-Ken, Ainu-Ken, or Ainu Dog) is one of Japan's six native spitz-type breeds, originating on the northern island of Hokkaido where they were developed by the indigenous Ainu people for hunting large, dangerous game including brown bears (Ussuri bears), deer, and wild boar in the island's harsh, snowy mountain terrain. Standing 46–52 cm and weighing 20–30 kg, the Hokkaido is a medium-sized, powerfully built dog with a thick, harsh double coat that provided essential insulation against Hokkaido's severe winters. They possess remarkable endurance, courage, and an almost supernatural ability to navigate through dense forest and deep snow to find their way home — a trait highly prized by the Ainu hunters. The breed was designated a Natural Monument of Japan in 1937 by the Japanese government. Hokkaidos are brave, alert, and intensely devoted to their families — they form extremely strong bonds with their primary handler — but are typically reserved and dignified with strangers. They are one of the rarer Japanese breeds outside Japan, though they gained some international recognition through the 'SoftBank dog' advertising campaign in Japan, where a white Hokkaido became one of the country's most famous dogs.",
+    "description_el": "Το Χοκκάιντο (γνωστό και ως Ainu-Ken) είναι μία από τις έξι εγγενείς ιαπωνικές ράτσες σπιτς, από το βόρειο νησί Χοκκάιντο, αναπτυγμένο από τους Αϊνού για κυνήγι καφέ αρκούδων και αγριόχοιρων σε σκληρό ορεινό έδαφος. 46–52 εκ. και 20–30 κιλά, δυνατά χτισμένο με παχύ τρίχωμα για τους αυστηρούς χειμώνες. Χαρακτηρίζεται από αξιοσημείωτη αντοχή, θάρρος και ικανότητα πλοήγησης σε πυκνά δάση. Ανακηρύχθηκε Φυσικό Μνημείο της Ιαπωνίας το 1937. Θαρραλέα, αφοσιωμένα στην οικογένεια, συνεσταλμένα με αγνώστους. Ένα από τα σπανιότερα ιαπωνικά σκυλιά εκτός Ιαπωνίας.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Hokkaidos need substantial daily exercise — at least 1 to 1.5 hours of vigorous activity including long walks, hikes, running, or structured play — and they particularly excel at outdoor activities in cooler weather. Their thick double coat requires regular brushing two to three times per week, with daily attention during the heavy seasonal shedding periods in spring and fall. They have very strong prey drive and excellent hunting instincts — secure, high fencing is essential, and they should never be off-leash in unenclosed areas. Early, extensive socialization is critically important for this breed — without it, they can become overly suspicious of strangers and reactive toward other dogs. Training requires patience, consistency, and a calm, confident handler — they are intelligent but have an independent, primitive temperament. They respond best to positive reinforcement but need a firm, fair leader. They thrive in cool to cold climates and can suffer in extreme heat. They are not recommended for first-time dog owners and do best with experienced handlers who understand spitz-type breeds.",
+    "care_el": "Τα Χοκκάιντο χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1–1,5 ώρες. Το παχύ τρίχωμα απαιτεί βούρτσισμα 2–3 φορές την εβδομάδα. Έχουν πολύ ισχυρό κυνηγετικό ένστικτο — ασφαλής περίφραξη απαραίτητη. Η πρώιμη κοινωνικοποίηση είναι κρίσιμη. Η εκπαίδευση απαιτεί υπομονή και σταθερότητα. Ευδοκιμούν σε δροσερά κλίματα και υποφέρουν στη ζέστη. Δεν συνιστώνται για αρχάριους ιδιοκτήτες.",
+    "health_en": "Hokkaidos are generally a robust, hardy breed with a typical lifespan of 12–15 years, benefiting from centuries of natural selection in harsh conditions. Hip dysplasia is a concern in the breed — OFA screening by breeders is recommended. Patellar luxation can occur and should be evaluated. Idiopathic epilepsy has been reported in some lines and may require lifelong medication management. Collie eye anomaly (CEA), an unusual finding in a non-collie breed, has been documented in Hokkaidos — eye screening by a veterinary ophthalmologist is recommended. Heart murmurs and cardiac conditions may develop. Psychogenic polydipsia (excessive water drinking without medical cause) has been observed in some individuals, potentially related to stress or anxiety. Cryptorchidism (undescended testicles) can occur in males. Allergies and skin conditions may develop. The breed's overall genetic health benefits from its relatively natural development without extreme selective breeding. Responsible breeders screen for hips, eyes, patellae, and cardiac function.",
+    "health_el": "Τα Χοκκάιντο είναι γενικά ανθεκτική ράτσα με τυπική διάρκεια ζωής 12–15 χρόνια. Η δυσπλασία ισχίου πρέπει να ελέγχεται. Η εξάρθρωση επιγονατίδας μπορεί να εμφανιστεί. Η ιδιοπαθής επιληψία έχει αναφερθεί. Η ανωμαλία ματιού Collie (CEA) έχει τεκμηριωθεί. Η ψυχογενής πολυδιψία παρατηρείται μερικές φορές. Αλλεργίες μπορεί να αναπτυχθούν. Η γενετική υγεία ωφελείται από τη φυσική ανάπτυξη χωρίς ακραία επιλεκτική εκτροφή. Οι υπεύθυνοι εκτροφείς ελέγχουν ισχία, μάτια, επιγονατίδα και καρδιά."
+  },
+  {
+    "id": "ibizan-hound",
+    "slug": "ibizan-hound",
+    "name_en": "Ibizan Hound",
+    "name_el": "Ιμπιζάν Χάουντ",
+    "type": "dog",
+    "origin": "Spain",
+    "originCode": "ES",
+    "images": [],
+    "size": "large",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Elegant",
+      "Independent",
+      "Gentle",
+      "Active",
+      "Reserved"
+    ],
+    "temperament_el": [
+      "Κομψός",
+      "Ανεξάρτητος",
+      "Ήπιος",
+      "Δραστήριος",
+      "Συνεσταλμένος"
+    ],
+    "description_en": "The Ibizan Hound (Podenco Ibicenco) is an elegant, athletic sighthound with roots tracing back thousands of years to the ancient Mediterranean. Genetic studies and artistic depictions on Egyptian tombs and artifacts from 3000 BC suggest the breed's ancestors were among the oldest domesticated hunting dogs in the world — the Ibizan closely resembles Anubis, the jackal-headed Egyptian god of the afterlife. The breed developed on the Balearic Islands (particularly Ibiza and Formentera) where Phoenician traders brought their dogs, and centuries of isolated island breeding for rabbit hunting created the specialized hunter we know today. Standing 56–74 cm and weighing 20–29 kg, Ibizan Hounds are lean, deer-like dogs with strikingly large, erect ears, a long narrow head, and amber or caramel eyes that give them an exotic, regal appearance. They come in two coat varieties — smooth and wire — in red, white, or red-and-white. They hunt using a unique combination of sight, sound, and scent (unlike most sighthounds that rely primarily on vision), and can jump extraordinary heights from a standstill — clearing 1.5 meters with ease. At home, they are gentle, even-tempered, quiet, and clean dogs that enjoy the company of their families.",
+    "description_el": "Το Ιμπιζάν Χάουντ (Podenco Ibicenco) είναι κομψό λυγγοκύνηγο με ρίζες χιλιάδες χρόνια στη Μεσόγειο. Μοιάζει με τον Άνουβι, τον αρχαίο αιγυπτιακό θεό. Αναπτύχθηκε στα Βαλεαρίδες νησιά όπου Φοίνικες έμποροι έφεραν τα σκυλιά τους. 56–74 εκ. και 20–29 κιλά, λεπτά με εντυπωσιακά μεγάλα αυτιά και εξωτική εμφάνιση. Σε λείο και σκληρό τρίχωμα, κόκκινο και λευκό. Κυνηγούν με συνδυασμό όρασης, ακοής και όσφρησης. Πηδούν εξαιρετικά ύψη. Στο σπίτι, είναι ήπια, ήρεμα, καθαρά σκυλιά.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Ibizan Hounds need substantial daily exercise — at least 1 hour of running, play, or vigorous activity — and they absolutely must have access to a securely fenced area for off-leash running. Their extraordinary jumping ability means fencing must be at least 1.8 meters high, and even then they are capable escape artists who can find surprising ways out — underground barriers may be needed for diggers. They should never be trusted off-leash in unfenced areas due to their powerful prey drive. Their coat (both smooth and wire varieties) is low-maintenance, requiring only weekly brushing and occasional bathing. They are sensitive, gentle dogs that respond best to calm, positive training methods — harsh corrections will cause them to shut down. Lure coursing is an ideal sport that channels their natural hunting drive. They enjoy warmth and can be sensitive to cold due to their lean build and low body fat — a coat may be needed in cold weather. They are calm and quiet indoors when properly exercised. They coexist well with other dogs but should not be trusted with small animals.",
+    "care_el": "Τα Ιμπιζάν χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1 ώρα. Πρέπει να έχουν ασφαλή περίφραξη τουλάχιστον 1,8 μέτρα λόγω εξαιρετικής ικανότητας πηδήματος. Δεν πρέπει ποτέ χωρίς λουρί σε ανοιχτές περιοχές. Το τρίχωμα είναι χαμηλής συντήρησης. Είναι ευαίσθητα — θετική εκπαίδευση μόνο. Το lure coursing είναι ιδανικό. Μπορεί να κρυώνουν λόγω αδύνατης σωματικής κατασκευής. Ήρεμα στο σπίτι όταν ασκούνται.",
+    "health_en": "Ibizan Hounds are generally a healthy, long-lived breed with a typical lifespan of 11–14 years. Like all sighthounds, they have sensitivity to anesthesia and certain medications including barbiturates and some flea/tick preventatives — veterinarians experienced with sighthounds should be consulted. Deafness (congenital) has been reported in some lines, particularly in predominantly white dogs. Axonal dystrophy, a neurological condition, has been documented in the breed. Hip dysplasia can occur though it is less common than in many breeds. Eye conditions including cataracts and retinal dysplasia may develop. Autoimmune thyroiditis and hypothyroidism have been reported. Seizure disorders can occur. They are sensitive to cold and can develop hypothermia more quickly than heavily coated breeds. Allergies and skin sensitivities may affect some individuals. Their lean build means they have low body fat reserves and can be sensitive to toxins. Responsible breeders screen for hips, eyes, thyroid, and hearing (BAER testing).",
+    "health_el": "Τα Ιμπιζάν είναι γενικά υγιή, μακρόβια ράτσα με τυπική διάρκεια ζωής 11–14 χρόνια. Ευαίσθητα στην αναισθησία όπως όλα τα λυγγοκύνηγα. Η κώφωση έχει αναφερθεί σε λευκά σκυλιά. Η αξονική δυστροφία έχει τεκμηριωθεί. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Οφθαλμικές παθήσεις πρέπει να ελέγχονται. Ο υποθυρεοειδισμός αναφέρθηκε. Η αδύνατη κατασκευή σημαίνει ευαισθησία σε τοξίνες. Οι εκτροφείς ελέγχουν ισχία, μάτια, θυρεοειδή και ακοή."
+  },
+  {
+    "id": "jindo",
+    "slug": "jindo",
+    "name_en": "Jindo",
+    "name_el": "Τζίντο",
+    "type": "dog",
+    "origin": "South Korea",
+    "originCode": "KR",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Loyal",
+      "Brave",
+      "Clean",
+      "Independent",
+      "Reserved"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Θαρραλέος",
+      "Καθαρόζωος",
+      "Ανεξάρτητος",
+      "Συνεσταλμένος"
+    ],
+    "description_en": "The Korean Jindo Dog (also spelled Jindo-gae) is a spitz-type hunting dog originating from Jindo Island off the southwestern coast of South Korea, where it developed in relative isolation for centuries. Designated as Korea's 53rd National Treasure in 1962 and protected by Korean Cultural Properties Protection Act, the Jindo is deeply woven into Korean culture and national identity. Standing 45–55 cm and weighing 15–23 kg, Jindos are athletic, well-proportioned dogs with a double coat, triangular erect ears, and a curled or sickle-shaped tail. They are renowned worldwide for their extraordinary loyalty and remarkable homing instinct — the most famous example being a Jindo named Baekgu who, after being sold to a new owner 300 km away, escaped and walked back to her original owner over seven months, a journey that was made into a Korean TV movie. Jindos are exceptionally clean dogs that housebreak naturally and groom themselves almost cat-like. They are intensely loyal to one primary person, reserved and dignified with strangers, and can be aggressive toward unfamiliar dogs. They were historically used for hunting deer, boar, and rabbits in packs and are also used as guard dogs.",
+    "description_el": "Το Κορεάτικο Τζίντο (Jindo-gae) είναι κυνηγετικό σπιτς από το νησί Τζίντο στη νοτιοδυτική Κορέα, αναπτυγμένο σε απομόνωση για αιώνες. Ανακηρύχθηκε 53ο Εθνικό Θησαυρός της Κορέας το 1962. 45–55 εκ. και 15–23 κιλά, αθλητικά με διπλό τρίχωμα και σγουρή ουρά. Φημίζονται για εξαιρετική αφοσίωση και αξιοσημείωτο ένστικτο επιστροφής — η διάσημη Μπέκγκου περπάτησε 300 χλμ. για να επιστρέψει. Εξαιρετικά καθαρά σκυλιά. Πιστά σε ένα πρόσωπο, συνεσταλμένα με αγνώστους. Χρησιμοποιούνταν για κυνήγι ελαφιών και αγριόχοιρων.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Jindos need substantial daily exercise — at least 1 hour of walks, runs, or hiking — and they excel at outdoor activities. Secure, high fencing (at least 1.8 meters) is absolutely essential — Jindos are legendary escape artists capable of climbing, jumping, and digging under fences, driven by their powerful homing instinct and independent nature. They should never be trusted off-leash in unfenced areas. Their double coat requires weekly brushing, with daily attention during the heavy twice-yearly shedding. They are exceptionally clean dogs that naturally avoid soiling their living space. Training requires tremendous patience and an experienced handler — Jindos are highly intelligent but extremely independent and will not blindly follow commands. They respond to fair, consistent, positive training and require a strong bond of mutual respect with their handler. Early, extensive socialization is critical — without it, they can become overly suspicious and reactive. They typically bond intensely with one person and may be aloof with other family members. Same-sex aggression with other dogs is common.",
+    "care_el": "Τα Τζίντο χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1 ώρα. Ασφαλής περίφραξη (1,8+ μέτρα) είναι απολύτως απαραίτητη — θρυλικοί δραπέτες. Ποτέ χωρίς λουρί σε ανοιχτές περιοχές. Εβδομαδιαίο βούρτσισμα. Εξαιρετικά καθαρά. Η εκπαίδευση απαιτεί υπομονή — πολύ ανεξάρτητα. Πρώιμη κοινωνικοποίηση κρίσιμη. Δένονται έντονα με ένα πρόσωπο. Επιθετικότητα ίδιου φύλου με άλλα σκυλιά.",
+    "health_en": "Jindos are generally a very healthy, robust breed with a typical lifespan of 12–15 years, benefiting from centuries of natural selection on Jindo Island. Hypothyroidism is the most commonly reported health condition in the breed and is manageable with daily medication. Hip dysplasia can occur — OFA screening by breeders is recommended. Allergies and skin conditions can develop, particularly environmental allergies. Patellar luxation has been reported. Eye conditions should be monitored. Discoid lupus erythematosus (a skin autoimmune condition) has been documented. The breed can be sensitive to anesthesia and certain medications. Gastric concerns including food sensitivities may occur — many Jindos do best on high-quality, limited-ingredient diets. Their genetic health is generally excellent due to the breed's natural development without extreme artificial selection. The Korean government maintains breeding programs on Jindo Island to preserve the breed's purity and health. Responsible breeders screen for hips, thyroid, and eyes.",
+    "health_el": "Τα Τζίντο είναι γενικά πολύ υγιή ράτσα με τυπική διάρκεια ζωής 12–15 χρόνια. Ο υποθυρεοειδισμός είναι η πιο κοινή πάθηση. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Αλλεργίες μπορεί να αναπτυχθούν. Εξάρθρωση επιγονατίδας αναφέρθηκε. Μπορεί να είναι ευαίσθητα στην αναισθησία. Η γενετική υγεία ωφελείται από τη φυσική ανάπτυξη στο νησί Τζίντο. Η κορεατική κυβέρνηση διατηρεί εκτροφικά προγράμματα. Οι εκτροφείς ελέγχουν ισχία, θυρεοειδή και μάτια."
+  },
+  {
+    "id": "kai-ken",
+    "slug": "kai-ken",
+    "name_en": "Kai Ken",
+    "name_el": "Κάι Κεν",
+    "type": "dog",
+    "origin": "Japan",
+    "originCode": "JP",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Brave",
+      "Loyal",
+      "Alert",
+      "Agile",
+      "Reserved"
+    ],
+    "temperament_el": [
+      "Θαρραλέος",
+      "Πιστός",
+      "Επαγρύπνος",
+      "Ευκίνητος",
+      "Συνεσταλμένος"
+    ],
+    "description_en": "The Kai Ken (also called Kai Tora-Ken, meaning 'Kai Tiger Dog') is one of the six native Japanese breeds and one of the rarest and most primitive, originating in the mountainous Kai province (now Yamanashi Prefecture) of Japan where it was developed for hunting deer, wild boar, and even bear in the rugged, heavily forested terrain. Designated a Natural Monument of Japan in 1934, the Kai Ken was historically prized for its exceptional agility, bravery, and ability to navigate steep, rocky mountain terrain — they are perhaps the most athletic and sure-footed of all Japanese breeds. Standing 43–56 cm and weighing 14–18 kg, they are medium-sized, lean, and muscular with a distinctive brindle coat that comes in three variations: Aka-Tora (red brindle), Chu-Tora (medium brindle), and Kuro-Tora (black brindle) — puppies are often born solid black and develop their brindle pattern as they mature. Kai Kens are fiercely loyal to their families, often described as 'one-person dogs' who form an extraordinarily deep bond with their primary handler. They are intelligent, alert, and retain strong primitive instincts including excellent hunting ability and a natural wariness of unfamiliar situations and people.",
+    "description_el": "Το Κάι Κεν (Kai Tora-Ken, «Σκυλί Τίγρη του Κάι») είναι μία από τις σπανιότερες ιαπωνικές ράτσες, από την ορεινή επαρχία Κάι, αναπτυγμένο για κυνήγι ελαφιών, αγριόχοιρων και αρκούδων. Ανακηρύχθηκε Φυσικό Μνημείο το 1934. 43–56 εκ. και 14–18 κιλά, αθλητικό με χαρακτηριστικό brindle τρίχωμα σε τρεις παραλλαγές: Aka-Tora, Chu-Tora και Kuro-Tora — τα κουτάβια γεννιούνται μαύρα και αναπτύσσουν το μοτίβο. Εξαιρετικά πιστά, «σκυλιά ενός ατόμου». Έξυπνα, επαγρύπνα με ισχυρά πρωτόγονα ενστίκτα.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Kai Kens need substantial daily exercise — at least 1 to 1.5 hours of vigorous activity including hiking, running, and play — and they particularly thrive with outdoor activities in natural settings that engage their hunting instincts. They are natural climbers and jumpers, so secure fencing of at least 1.8 meters is necessary; some Kai Kens have been known to climb trees and chain-link fences. Their double coat is relatively easy to maintain with weekly brushing, though they shed heavily during seasonal coat changes. They are intelligent and learn quickly but retain strong independence — training should be positive, patient, and varied, as they bore with repetition. Early, extensive socialization is absolutely essential for this naturally cautious breed — without it, they can become excessively timid or reactive around new people and situations. They typically bond intensely with one person and may be reserved with others. They can coexist with other dogs if raised together but have strong prey drive. They are naturally clean dogs. They do best in homes with experienced owners who appreciate primitive breeds.",
+    "care_el": "Τα Κάι Κεν χρειάζονται σημαντική καθημερινή άσκηση — 1–1,5 ώρες. Ευδοκιμούν σε εξωτερικές δραστηριότητες. Φυσικοί αναρριχητές — ασφαλής περίφραξη απαραίτητη. Εβδομαδιαίο βούρτσισμα. Έξυπνα αλλά ανεξάρτητα. Η πρώιμη κοινωνικοποίηση είναι απολύτως απαραίτητη. Δένονται με ένα πρόσωπο. Ισχυρό κυνηγετικό ένστικτο. Φυσικά καθαρά. Καλύτερα με έμπειρους ιδιοκτήτες.",
+    "health_en": "Kai Kens are generally a very healthy, robust breed with a typical lifespan of 12–15 years, benefiting from their natural development in an isolated mountain environment without extreme artificial selection. Hip dysplasia can occur, though it is less common than in many breeds — screening is recommended. Patellar luxation has been reported. Epilepsy (idiopathic seizures) has been documented in some lines. Progressive retinal atrophy (PRA) and other eye conditions should be screened for. Allergies and skin conditions can develop in some individuals. Hypothyroidism may occur. Due to the breed's rarity (even in Japan, the population is estimated at only a few thousand), maintaining genetic diversity is a primary concern for breed preservation — inbreeding depression is a potential risk if breeding is not carefully managed. The breed benefits from relatively few genetic health problems compared to many more heavily bred dogs. Responsible breeders screen for hips, patellae, eyes, and focus on maintaining genetic diversity.",
+    "health_el": "Τα Κάι Κεν είναι γενικά πολύ υγιή ράτσα με τυπική διάρκεια ζωής 12–15 χρόνια. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Εξάρθρωση επιγονατίδας αναφέρθηκε. Η επιληψία τεκμηριώθηκε. PRA πρέπει να ελέγχεται. Αλλεργίες μπορεί να αναπτυχθούν. Λόγω σπανιότητας, η γενετική ποικιλομορφία είναι πρωταρχική ανησυχία. Η ράτσα ωφελείται από σχετικά λίγα γενετικά προβλήματα. Οι εκτροφείς ελέγχουν ισχία, επιγονατίδα, μάτια."
+  },
+  {
+    "id": "karelian-bear-dog",
+    "slug": "karelian-bear-dog",
+    "name_en": "Karelian Bear Dog",
+    "name_el": "Καρελιανό Σκύλος Αρκούδας",
+    "type": "dog",
+    "origin": "Finland",
+    "originCode": "FI",
+    "images": [],
+    "size": "medium",
+    "lifespan": "11-13 years",
+    "temperament_en": [
+      "Brave",
+      "Tenacious",
+      "Reserved",
+      "Independent",
+      "Loyal"
+    ],
+    "temperament_el": [
+      "Θαρραλέος",
+      "Επίμονος",
+      "Συνεσταλμένος",
+      "Ανεξάρτητος",
+      "Πιστός"
+    ],
+    "description_en": "The Karelian Bear Dog (Karjalankarhukoira) is a fearless Finnish spitz-type breed developed specifically for hunting large, dangerous game including brown bears, moose, wild boar, and wolves in the dense boreal forests of Finland and Russia's Karelia region. Standing 49–60 cm and weighing 20–23 kg, they are medium-sized, powerfully built dogs with a distinctive jet-black coat marked with white patches on the head, neck, chest, and legs. The breed descends from ancient laika-type dogs that accompanied Finno-Ugric peoples in northeastern Europe for thousands of years. Karelian Bear Dogs hunt by finding and baying (barking at) large game, holding the animal at bay until the hunter arrives — they are remarkably brave and will fearlessly confront animals many times their size. In modern times, they have found a unique role in wildlife management programs across North America, where they are used to aversively condition nuisance bears away from human settlements — a non-lethal approach called 'bear shepherding' that has been highly successful in Yosemite, Glacier, and other national parks. They are one of Finland's top ten most popular breeds and are considered a national treasure.",
+    "description_el": "Ο Καρελιανός Σκύλος Αρκούδας (Karjalankarhukoira) είναι ατρόμητη φινλανδική ράτσα σπιτς, αναπτυγμένη για κυνήγι αρκούδων, αλκών και αγριόχοιρων στα βόρεια δάση. 49–60 εκ. και 20–23 κιλά, με χαρακτηριστικό μαύρο τρίχωμα με λευκές κηλίδες. Κατάγεται από αρχαίους σκύλους λάικα. Κυνηγούν βρίσκοντας και γαβγίζοντας στα μεγάλα θηράματα. Σήμερα χρησιμοποιούνται σε προγράμματα διαχείρισης αρκούδων σε εθνικά πάρκα — μη θανατηφόρα μέθοδος εξαιρετικά επιτυχής. Ένα από τα δέκα δημοφιλέστερα σκυλιά στη Φινλανδία.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 2,
+      "friendliness": 2,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Karelian Bear Dogs need extensive daily exercise — at least 1.5 to 2 hours of vigorous activity including long hikes, running, or working tasks — and they absolutely must have a purpose or job to channel their intense drive and energy. Without adequate physical and mental outlets, they become destructive, vocal, and extremely difficult to manage. Their dense double coat is relatively easy to maintain with weekly brushing, with more attention during seasonal shedding. Secure, high fencing is essential — they have strong prey drive and will pursue animals with single-minded determination. They can be aggressive toward other dogs, particularly same-sex dogs, and early socialization is critically important though it may not fully eliminate dog-aggression in this breed. Training requires an experienced, confident handler — they are intelligent but extremely independent and tenacious. They are not recommended for first-time dog owners, apartment dwellers, or families with small pets. They are vocal dogs that bark, howl, and use a variety of vocalizations. They thrive in rural settings with experienced hunters or active outdoor enthusiasts.",
+    "care_el": "Οι Καρελιανοί χρειάζονται εκτενή καθημερινή άσκηση — 1,5–2 ώρες — και πρέπει να έχουν σκοπό/εργασία. Χωρίς κατάλληλες εξόδους γίνονται καταστροφικά. Εβδομαδιαίο βούρτσισμα. Ασφαλής περίφραξη απαραίτητη. Μπορεί να είναι επιθετικά με σκυλιά ίδιου φύλου. Η εκπαίδευση απαιτεί εμπειρία. Δεν συνιστώνται για αρχάριους ή διαμερίσματα. Είναι φωνακλά. Ευδοκιμούν σε αγροτικές περιοχές με κυνηγούς.",
+    "health_en": "Karelian Bear Dogs are generally a healthy, hardy breed with a typical lifespan of 11–13 years, having been developed through natural selection for working ability in harsh conditions. Hip dysplasia is the most significant orthopedic concern — OFA screening by breeders is recommended. Eye conditions including progressive retinal atrophy (PRA) and cataracts should be screened for. Hypothyroidism can develop. Patellar luxation has been reported. Dental disease can be a concern — regular dental care is recommended. Cryptorchidism may occur in males. Allergies and skin conditions may develop. Bloat (gastric dilatation-volvulus) is possible in active, deep-chested dogs. The breed's overall health is generally excellent due to continued breeding for working function rather than appearance. In Finland, where the breed is most popular, breeders maintain careful health screening programs. Responsible breeders screen for hips, eyes, and patellae.",
+    "health_el": "Οι Καρελιανοί είναι γενικά υγιής, ανθεκτική ράτσα με τυπική διάρκεια ζωής 11–13 χρόνια. Η δυσπλασία ισχίου είναι η σημαντικότερη ανησυχία. Οφθαλμικές παθήσεις πρέπει να ελέγχονται. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Εξάρθρωση επιγονατίδας αναφέρθηκε. Η οδοντική νόσος μπορεί να είναι ανησυχία. Η γενική υγεία είναι εξαιρετική λόγω εκτροφής για εργασία. Οι εκτροφείς ελέγχουν ισχία, μάτια και επιγονατίδα."
+  },
+  {
+    "id": "keeshond",
+    "slug": "keeshond",
+    "name_en": "Keeshond",
+    "name_el": "Κίσχονντ",
+    "type": "dog",
+    "origin": "Netherlands",
+    "originCode": "NL",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Friendly",
+      "Outgoing",
+      "Alert",
+      "Intelligent",
+      "Companionable"
+    ],
+    "temperament_el": [
+      "Φιλικός",
+      "Εξωστρεφής",
+      "Επαγρύπνος",
+      "Έξυπνος",
+      "Συνεργάσιμος"
+    ],
+    "description_en": "The Keeshond (plural Keeshonden, pronounced 'KAYZ-hawnd') is the largest variety of the German Spitz, also known as the Wolfsspitz, and serves as the national dog of the Netherlands where it has been a beloved companion and barge dog for centuries. Named after Cornelis (Kees) de Gyselaer, a Dutch patriot who led the 18th-century rebellion against the House of Orange, the Keeshond became the symbol of the Dutch Patriots political party — making it one of the few dog breeds with a political history. Standing 43–46 cm and weighing 16–20 kg, Keeshonden are sturdy, plush dogs famous for their spectacular silver-gray and black coat, their distinctive 'spectacles' — unique dark markings and shading around the eyes that give them an intelligent, attentive expression — and their luxuriant ruff and plumed tail. For centuries, they served as watchdogs and companions on the barges (rivieraken) that traveled the Dutch canals and rivers. Keeshonden are exceptionally people-oriented, friendly, and outgoing — they are known as the 'Smiling Dutchman' for their characteristic grin-like expression and their eagerness to interact with everyone they meet. They are one of the most empathetic dog breeds, often used as therapy and comfort dogs.",
+    "description_el": "Το Κίσχονντ (Wolfsspitz) είναι η μεγαλύτερη ποικιλία Γερμανικού Σπιτς και εθνικό σκυλί της Ολλανδίας. Πήρε το όνομα από τον Κορνέλιους ντε Γκισελάρ, Ολλανδό πατριώτη — ένα από τα λίγα σκυλιά με πολιτική ιστορία. 43–46 εκ. και 16–20 κιλά, με εντυπωσιακό ασημί-γκρι τρίχωμα, χαρακτηριστικά «γυαλιά» γύρω από τα μάτια και πλούσια ουρά. Υπηρέτησε ως φύλακας και σύντροφος στις φορτηγίδες των ολλανδικών καναλιών. Εξαιρετικά ανθρωποκεντρικά, φιλικά — γνωστά ως «Χαμογελαστός Ολλανδός». Συχνά χρησιμοποιούνται ως σκύλοι θεραπείας.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 4,
+      "friendliness": 5,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Keeshonden need moderate daily exercise — about 45–60 minutes of walks, play, and mental stimulation — and they particularly enjoy activities that involve interaction with their family, such as obedience, agility, rally, and therapy work. Their spectacular coat requires regular brushing at least two to three times per week to prevent matting and keep the undercoat healthy; they blow their thick undercoat twice yearly, requiring daily brushing during these periods. The coat should never be shaved or clipped short, as this can permanently damage the coat texture and impair their insulation. They are extremely people-oriented dogs that thrive on human companionship — they can develop severe separation anxiety if left alone for extended periods and should not be relegated to outdoor living. Training is a pleasure — Keeshonden are intelligent, eager to please, and highly responsive to positive methods, making them excellent for first-time dog owners and families. They can be vocal and prone to alarm barking — training a 'quiet' command is recommended. They get along wonderfully with children, other dogs, and even cats when properly socialized.",
+    "care_el": "Τα Κίσχονντ χρειάζονται μέτρια καθημερινή άσκηση — 45–60 λεπτά. Το θεαματικό τρίχωμα απαιτεί βούρτσισμα 2–3 φορές την εβδομάδα. Δεν πρέπει να κουρεύεται. Εξαιρετικά ανθρωποκεντρικά — μπορεί να αναπτύξουν άγχος αποχωρισμού. Η εκπαίδευση είναι ευχαρίστηση — πρόθυμα και ανταποκρίνονται. Μπορεί να γαβγίζουν. Τα πάνε υπέροχα με παιδιά και άλλα ζώα. Εξαιρετικά για αρχάριους ιδιοκτήτες.",
+    "health_en": "Keeshonden are generally a healthy breed with a typical lifespan of 12–15 years. Primary hyperparathyroidism (PHPT) is a breed-specific condition that causes elevated calcium levels — a DNA test is available and all breeding dogs should be tested. Hip dysplasia can occur — OFA screening is recommended. Patellar luxation (slipping kneecaps) should be evaluated. Epilepsy (idiopathic seizures) has been documented in some lines. Hypothyroidism can develop. Cardiac conditions including mitral valve disease and subvalvular aortic stenosis should be screened for. Progressive retinal atrophy (PRA) and cataracts are eye concerns. Addison's disease (hypoadrenocorticism) has been reported. Diabetes mellitus and Cushing's disease can occur. Skin conditions and allergies may develop, particularly when coat care is neglected. Von Willebrand's disease has been documented in some lines. Responsible breeders screen for PHPT (DNA test), hips, patellae, eyes, cardiac function, and thyroid.",
+    "health_el": "Τα Κίσχονντ είναι γενικά υγιή ράτσα με τυπική διάρκεια ζωής 12–15 χρόνια. Ο πρωτογενής υπερπαραθυρεοειδισμός (PHPT) είναι ειδική πάθηση — διαθέσιμο DNA τεστ. Η δυσπλασία ισχίου πρέπει να ελέγχεται. Εξάρθρωση επιγονατίδας αξιολογείται. Η επιληψία τεκμηριώθηκε. Καρδιακές παθήσεις πρέπει να ελέγχονται. PRA και καταρράκτης είναι ανησυχίες. Η νόσος Addison αναφέρθηκε. Δερματικές παθήσεις μπορεί να αναπτυχθούν. Οι εκτροφείς ελέγχουν PHPT, ισχία, επιγονατίδα, μάτια, καρδιά, θυρεοειδή."
+  },
+  {
+    "id": "kishu-ken",
+    "slug": "kishu-ken",
+    "name_en": "Kishu Ken",
+    "name_el": "Κίσου Κεν",
+    "type": "dog",
+    "origin": "Japan",
+    "originCode": "JP",
+    "images": [],
+    "size": "medium",
+    "lifespan": "11-13 years",
+    "temperament_en": [
+      "Silent",
+      "Loyal",
+      "Brave",
+      "Reserved",
+      "Dignified"
+    ],
+    "temperament_el": [
+      "Ήσυχος",
+      "Πιστός",
+      "Θαρραλέος",
+      "Συνεσταλμένος",
+      "Αξιοπρεπής"
+    ],
+    "description_en": "The Kishu Ken (Kishu-Inu) is one of Japan's six native breeds and one of the oldest, with origins tracing back thousands of years to the mountainous Kishu region (now Wakayama and Mie Prefectures) on the Kii Peninsula. Designated a Natural Monument of Japan in 1934, the Kishu was developed for hunting wild boar and deer in the rugged, forested mountains — a task requiring exceptional bravery, stamina, and intelligence. Standing 43–55 cm and weighing 14–27 kg, Kishu Kens are medium-sized, well-muscled dogs with a compact, athletic build, erect triangular ears, a curled or sickle tail, and a harsh double coat. While they originally came in various colors including red, brindle, and sesame, modern Kishu Kens are predominantly white — a preference that developed because hunters could more easily distinguish their white dogs from the dark-colored game during hunts. The Kishu is distinctive among Japanese breeds for its remarkably silent hunting style — rather than barking to alert the hunter, they stalk and hold game silently, giving them the reputation as 'silent hunters.' They are dignified, calm, loyal, and somewhat aloof dogs that form deep bonds with their owners.",
+    "description_el": "Το Κίσου Κεν (Kishu-Inu) είναι μία από τις αρχαιότερες ιαπωνικές ράτσες, από την ορεινή περιοχή Κίσου. Ανακηρύχθηκε Φυσικό Μνημείο το 1934. Αναπτύχθηκε για κυνήγι αγριόχοιρου σε δύσβατο ορεινό έδαφος. 43–55 εκ. και 14–27 κιλά, αθλητικό με διπλό τρίχωμα. Τα σύγχρονα Κίσου είναι κυρίως λευκά — οι κυνηγοί τα διέκριναν ευκολότερα. Χαρακτηριστικά μεταξύ ιαπωνικών ράτσων για το σιωπηλό στυλ κυνηγιού — «σιωπηλοί κυνηγοί». Αξιοπρεπή, ήρεμα, πιστά αλλά επιφυλακτικά.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Kishu Kens need substantial daily exercise — at least 1 to 1.5 hours of walks, hikes, or vigorous play — and they particularly excel at hiking and trail activities in natural settings that engage their hunting instincts. Secure fencing is essential — they have a strong prey drive and are capable hunters that will pursue small animals with determination. Their harsh double coat is relatively low-maintenance, requiring weekly brushing with more frequent attention during the twice-yearly shedding of their undercoat. They are naturally clean and quiet dogs that housebreak easily — they rarely bark without reason, making them surprisingly good apartment candidates for experienced owners. Training requires patience and understanding of their primitive temperament — they are intelligent but independent and will not respond well to harsh methods. Positive, consistent training with a firm but fair handler produces the best results. Early, extensive socialization is essential to prevent excessive wariness of strangers. They typically bond deeply with one person and can be reserved with other family members. Same-sex aggression with other dogs is common.",
+    "care_el": "Τα Κίσου Κεν χρειάζονται σημαντική καθημερινή άσκηση — 1–1,5 ώρες. Ασφαλής περίφραξη απαραίτητη λόγω κυνηγετικού ενστίκτου. Εβδομαδιαίο βούρτσισμα. Φυσικά καθαρά και ήσυχα — σπάνια γαβγίζουν χωρίς λόγο. Η εκπαίδευση απαιτεί υπομονή. Πρώιμη κοινωνικοποίηση απαραίτητη. Δένονται βαθιά με ένα πρόσωπο. Επιθετικότητα ίδιου φύλου με σκυλιά κοινή.",
+    "health_en": "Kishu Kens are generally a healthy, hardy breed with a typical lifespan of 11–13 years. Hip dysplasia can occur — screening is recommended, though the breed has lower rates than many. Patellar luxation has been reported. Hypothyroidism may develop with age. Allergies and skin conditions can affect some individuals. Eye conditions should be monitored. Entropion (inward-rolling eyelids) has been occasionally documented. Autoimmune conditions have been reported at low frequency. Due to the breed's extreme rarity (estimated at only around 10,000–14,000 dogs even in Japan), maintaining genetic diversity is a critical concern for breed preservation. The Japanese Nihon Ken Hozonkai (NIPPO) organization carefully manages breeding programs to maintain the breed's health and character. The breed's overall genetic health is good due to centuries of natural selection. Responsible breeders focus on health screening, genetic diversity, and temperament testing.",
+    "health_el": "Τα Κίσου Κεν είναι γενικά υγιής, ανθεκτική ράτσα με τυπική διάρκεια ζωής 11–13 χρόνια. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Εξάρθρωση επιγονατίδας αναφέρθηκε. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Αλλεργίες μπορεί να εμφανιστούν. Λόγω ακραίας σπανιότητας (10.000–14.000 σκυλιά στην Ιαπωνία), η γενετική ποικιλομορφία είναι κρίσιμη ανησυχία. Η NIPPO διαχειρίζεται εκτροφικά προγράμματα. Η γενική υγεία είναι καλή λόγω φυσικής επιλογής."
+  },
+  {
+    "id": "norrbottenspets",
+    "slug": "norrbottenspets",
+    "name_en": "Norrbottenspets",
+    "name_el": "Νορμποττενσπετς",
+    "type": "dog",
+    "origin": "Sweden",
+    "originCode": "SE",
+    "images": [],
+    "size": "medium",
+    "lifespan": "14-17 years",
+    "temperament_en": [
+      "Energetic",
+      "Friendly",
+      "Alert",
+      "Fearless",
+      "Loyal"
+    ],
+    "temperament_el": [
+      "Ενεργητικός",
+      "Φιλικός",
+      "Επαγρύπνος",
+      "Ατρόμητος",
+      "Πιστός"
+    ],
+    "description_en": "The Norrbottenspets (Nordic Spitz) is a small, agile spitz-type breed from the Norrbotten province in northern Sweden, one of the oldest Scandinavian breeds with origins tracing back to the small hunting dogs of the Finno-Ugric peoples who inhabited the region thousands of years ago. Standing 40–47 cm and weighing 8–15 kg, the Norrbottenspets is a compact, athletic dog primarily used for hunting grouse (capercaillie and black grouse) and other small game — they work by finding and treeing the bird, then barking to hold its attention while the hunter approaches. The breed was declared extinct in 1948 by the Swedish Kennel Club, but a handful of working dogs were discovered still being used by hunters in the remote Norrbotten province, and dedicated breeders revived the breed. They have a short, dense double coat that is surprisingly easy to care for, typically white with red or tan markings. Norrbottenspets are remarkably versatile — energetic, fearless, and intense in the field, yet friendly, calm, and affectionate at home. They are among the healthiest and longest-lived of all dog breeds, with lifespans commonly reaching 14–17 years.",
+    "description_el": "Το Νορμποττενσπετς (Nordic Spitz) είναι μικρό, ευκίνητο σπιτς από την επαρχία Norrbotten της βόρειας Σουηδίας, μία από τις αρχαιότερες σκανδιναβικές ράτσες. 40–47 εκ. και 8–15 κιλά, χρησιμοποιείται κυρίως για κυνήγι αγριόκουρκων. Κηρύχθηκε εξαφανισμένο το 1948 αλλά ανακαλύφθηκαν εργαζόμενα σκυλιά σε απομακρυσμένες περιοχές. Κοντό, εύκολο τρίχωμα, λευκό με κόκκινα σημάδια. Εξαιρετικά ευέλικτα — ενεργητικά στο πεδίο, φιλικά στο σπίτι. Μία από τις πιο υγιείς και μακρόβιες ράτσες, 14–17 χρόνια.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Norrbottenspets need substantial daily exercise — at least 45–60 minutes of vigorous activity — and they particularly thrive with outdoor activities including hiking, running, and activities that engage their hunting instincts. Their short, dense coat is remarkably low-maintenance, requiring only weekly brushing; they shed moderately year-round with heavier shedding during seasonal coat changes. They are vocal dogs that use barking as their primary hunting tool — training a 'quiet' command early is important, especially in residential areas. They are intelligent, eager to please, and respond well to positive training methods — they are among the most trainable of the Nordic hunting breeds. Early socialization helps them develop their naturally friendly, confident temperament. They are excellent family dogs that get along well with children and other dogs when properly socialized. They can coexist with cats if raised together, but their prey drive may make them unreliable around small animals. They are adaptable to various living situations but need adequate outdoor exercise.",
+    "care_el": "Τα Νορμποττενσπετς χρειάζονται σημαντική καθημερινή άσκηση — 45–60 λεπτά. Κοντό τρίχωμα χαμηλής συντήρησης. Φωνακλά — το γάβγισμα είναι εργαλείο κυνηγιού, πρώιμη εκπαίδευση σημαντική. Έξυπνα και πρόθυμα. Εξαιρετικά οικογενειακά σκυλιά. Κυνηγετικό ένστικτο μπορεί να τα κάνει αναξιόπιστα με μικρά ζώα. Προσαρμοστικά αλλά χρειάζονται άσκηση.",
+    "health_en": "Norrbottenspets are one of the healthiest dog breeds with remarkably few hereditary health issues and an exceptional lifespan of 14–17 years. Patellar luxation is the most commonly reported orthopedic concern. Hip dysplasia can occur but is relatively rare. Dental disease should be monitored — regular dental care is important for small breeds. Eye conditions should be screened for periodically. The breed's genetic health benefits enormously from its continued use as a working hunting dog — breeding has traditionally prioritized function and health over appearance. The small gene pool resulting from the near-extinction in the 1940s is a concern for long-term breed health, and responsible breeders work to maintain genetic diversity. Allergies and skin conditions can occasionally develop. Overall, the Norrbottenspets is considered one of the most naturally healthy dog breeds in existence. Responsible breeders screen for patellae, eyes, and cardiac function.",
+    "health_el": "Τα Νορμποττενσπετς είναι μία από τις πιο υγιείς ράτσες με εξαιρετική διάρκεια ζωής 14–17 χρόνια. Εξάρθρωση επιγονατίδας είναι η πιο κοινή ανησυχία. Δυσπλασία ισχίου σπάνια. Η οδοντική φροντίδα σημαντική. Η γενετική υγεία ωφελείται από τη χρήση ως εργαζόμενο σκυλί. Η μικρή γενετική δεξαμενή λόγω σχεδόν εξαφάνισης είναι ανησυχία. Θεωρείται μία από τις πιο φυσικά υγιείς ράτσες. Οι εκτροφείς ελέγχουν επιγονατίδα, μάτια, καρδιά."
+  },
+  {
+    "id": "norwegian-elkhound",
+    "slug": "norwegian-elkhound",
+    "name_en": "Norwegian Elkhound",
+    "name_el": "Νορβηγικό Ελκχάουντ",
+    "type": "dog",
+    "origin": "Norway",
+    "originCode": "NO",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Bold",
+      "Friendly",
+      "Dependable",
+      "Energetic",
+      "Loyal"
+    ],
+    "temperament_el": [
+      "Τολμηρός",
+      "Φιλικός",
+      "Αξιόπιστος",
+      "Ενεργητικός",
+      "Πιστός"
+    ],
+    "description_en": "The Norwegian Elkhound (Norsk Elghund Grå) is one of the most ancient dog breeds in existence, with archaeological evidence of dogs virtually identical to today's Elkhound found in Norwegian Viking graves dating back over 6,000 years. This is Norway's national dog, a versatile hunter that was bred to track and hold at bay the massive Scandinavian moose (elk) — an animal that can weigh up to 700 kg — by circling and barking to keep the moose stationary until the hunter arrived. Standing 49–52 cm and weighing 20–24 kg, the Norwegian Elkhound is a compact, powerful spitz-type dog with a distinctive silver-gray double coat tipped with black, a tightly curled tail, and a bold, confident expression. They accompanied the Vikings on their expeditions and served as hunters, guardians, herders, and companions throughout Scandinavian history. Norwegian Elkhounds are bold, friendly, loyal, and remarkably dependable — they are equally at home tracking moose through the Norwegian wilderness as they are relaxing with their families. They have an exceptionally keen sense of smell and can detect game at distances of several kilometers.",
+    "description_el": "Το Νορβηγικό Ελκχάουντ (Norsk Elghund Grå) είναι μία από τις αρχαιότερες ράτσες, με αρχαιολογικά στοιχεία 6.000+ ετών σε τάφους Βίκινγκ. Εθνικό σκυλί της Νορβηγίας, ευέλικτος κυνηγός αλκών — ζώα μέχρι 700 κιλά. 49–52 εκ. και 20–24 κιλά, συμπαγές με ασημί-γκρι τρίχωμα. Συνόδευε τους Βίκινγκ στις εκστρατείες τους. Τολμηρά, φιλικά, πιστά και αξιόπιστα. Εξαιρετικά οξεία όσφρηση — ανιχνεύουν θήραμα σε απόσταση χιλιομέτρων.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Norwegian Elkhounds need substantial daily exercise — at least 1 to 1.5 hours of vigorous activity including long walks, hikes, running, and outdoor play — and they thrive with activities that engage their tracking and hunting abilities. Their thick, weather-resistant double coat requires regular brushing two to three times per week, with daily brushing during the heavy twice-yearly shedding; they are prolific shedders. The coat should never be clipped or shaved. They are highly food-motivated and prone to weight gain — portion control and regular exercise are essential to prevent obesity, which can exacerbate joint problems. They are vocal dogs with a deep, carrying bark — training a 'quiet' command is important, especially in residential areas. They are intelligent and willing to learn but can be independent — positive, consistent training works best. They thrive in cold climates and can be uncomfortable in hot weather due to their dense coat. Early socialization helps develop their naturally friendly, confident temperament. They are good with children and make excellent family dogs.",
+    "care_el": "Τα Ελκχάουντ χρειάζονται σημαντική καθημερινή άσκηση — 1–1,5 ώρες. Το παχύ τρίχωμα απαιτεί βούρτσισμα 2–3 φορές την εβδομάδα — πολύ αποτρίχωση. Δεν πρέπει να κουρεύεται. Επιρρεπή σε παχυσαρκία — έλεγχος μερίδων απαραίτητος. Φωνακλά με βαθύ γάβγισμα. Έξυπνα αλλά ανεξάρτητα. Ευδοκιμούν σε κρύα κλίματα. Εξαιρετικά οικογενειακά σκυλιά.",
+    "health_en": "Norwegian Elkhounds are generally a robust breed with a typical lifespan of 12–15 years. Hip dysplasia is a significant orthopedic concern — OFA screening is strongly recommended. Progressive retinal atrophy (PRA) is a known eye condition in the breed — CERF/OFA eye exams are important. Fanconi-like syndrome (renal tubular disorder) has been documented in the breed, causing kidney dysfunction. Hypothyroidism is common and manageable with daily medication. Obesity is a major concern — Elkhounds are very food-driven and gain weight easily, which can worsen joint problems and lead to other health issues. Sebaceous cysts (benign skin lumps) are common. Hot spots and skin conditions can develop, particularly in warm climates. Patellar luxation has been reported. Cardiac conditions should be monitored. Dental disease requires attention. The breed's robust constitution reflects thousands of years of natural selection in harsh Scandinavian conditions. Responsible breeders screen for hips, eyes (PRA), and thyroid function.",
+    "health_el": "Τα Ελκχάουντ είναι γενικά ανθεκτική ράτσα με τυπική διάρκεια ζωής 12–15 χρόνια. Η δυσπλασία ισχίου είναι σημαντική ανησυχία. Η PRA είναι γνωστή οφθαλμική πάθηση. Το σύνδρομο τύπου Fanconi τεκμηριώθηκε. Ο υποθυρεοειδισμός είναι κοινός. Η παχυσαρκία είναι μεγάλη ανησυχία. Δερματικές κύστες κοινές. Δερματικές παθήσεις μπορεί να αναπτυχθούν. Η ανθεκτικότητα αντικατοπτρίζει χιλιάδες χρόνια φυσικής επιλογής. Οι εκτροφείς ελέγχουν ισχία, μάτια, θυρεοειδή."
+  },
+  {
+    "id": "norwegian-lundehund",
+    "slug": "norwegian-lundehund",
+    "name_en": "Norwegian Lundehund",
+    "name_el": "Νορβηγικό Λούντεχουντ",
+    "type": "dog",
+    "origin": "Norway",
+    "originCode": "NO",
+    "images": [],
+    "size": "small",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Energetic",
+      "Alert",
+      "Loyal",
+      "Independent",
+      "Curious"
+    ],
+    "temperament_el": [
+      "Ενεργητικός",
+      "Επαγρύπνος",
+      "Πιστός",
+      "Ανεξάρτητος",
+      "Περίεργος"
+    ],
+    "description_en": "The Norwegian Lundehund (Norsk Lundehund) is one of the world's most unique and anatomically remarkable dog breeds, developed over centuries on the remote islands of northern Norway specifically for hunting Atlantic puffins (lunde) from their nesting burrows on steep, nearly vertical sea cliffs. Standing 31–38 cm and weighing 6–9 kg, this small spitz-type dog possesses a collection of extraordinary physical adaptations found in no other breed: six fully functioning toes on each foot (polydactyly) providing superior grip on slippery rock faces; extremely flexible shoulder joints that allow the front legs to extend perpendicular to the body; the ability to tip the head backward until it touches the spine; ear canals that can be folded shut to protect against debris and water; and an extraordinarily elastic neck. These unique traits allowed the Lundehund to climb into narrow puffin burrows on cliff faces and extract the birds, which were an essential food source for coastal Norwegian communities. The breed nearly went extinct twice — first when puffin hunting was banned and the dogs lost their traditional purpose, and again during World War II when distemper swept through the remaining population. By 1963, only six dogs remained on the island of Værøy, and the entire modern breed descends from this tiny founder population.",
+    "description_el": "Το Νορβηγικό Λούντεχουντ είναι μία από τις πιο μοναδικές ράτσες, αναπτυγμένο για κυνήγι θαλασσοπαπαγάλων σε απόκρημνους βράχους βόρειας Νορβηγίας. 31–38 εκ. και 6–9 κιλά, με εξαιρετικές φυσικές προσαρμογές: 6 λειτουργικά δάχτυλα σε κάθε πόδι, εξαιρετικά ευέλικτες αρθρώσεις ώμου, κεφάλι που γέρνει μέχρι τη σπονδυλική στήλη, αυτιά που κλείνουν. Σχεδόν εξαφανίστηκε δύο φορές — το 1963 απέμειναν μόλις 6 σκυλιά στο νησί Værøy. Ολόκληρη η σύγχρονη ράτσα κατάγεται από αυτό το μικρό ιδρυτικό πληθυσμό.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Norwegian Lundehunds need moderate daily exercise — about 30–45 minutes of walks, play, and mental stimulation — and they enjoy puzzle toys, scent work, and exploration. Their double coat is relatively easy to maintain with weekly brushing, increasing to several times per week during seasonal shedding. Housetraining can be notably challenging with this breed — many Lundehund owners find that housebreaking takes significantly longer than with other breeds. They are curious, inventive escape artists — secure fencing and supervision are important. Training requires patience and a sense of humor — they are intelligent but can be independent and stubborn. Positive methods with food rewards work best. Early socialization is important to build confidence, as some can be timid. Diet management is particularly critical for this breed due to the high prevalence of gastrointestinal issues (Lundehund Syndrome) — many do best on easily digestible, low-fat, grain-free diets with careful monitoring. They may need regular veterinary check-ups including blood work to monitor protein levels and intestinal function.",
+    "care_el": "Τα Λούντεχουντ χρειάζονται μέτρια καθημερινή άσκηση — 30–45 λεπτά. Εβδομαδιαίο βούρτσισμα. Η εκπαίδευση τουαλέτας μπορεί να είναι πρόκληση. Περίεργα, εφευρετικά δραπέτες. Η εκπαίδευση απαιτεί υπομονή. Η διαχείριση δίαιτας είναι κρίσιμη λόγω γαστρεντερικών ζητημάτων. Πολλά πάνε καλύτερα με εύπεπτες δίαιτες χαμηλού λιπαρού. Τακτικοί κτηνιατρικοί έλεγχοι απαραίτητοι.",
+    "health_en": "Norwegian Lundehunds have a typical lifespan of 12–15 years but face a significant breed-specific health challenge: Lundehund Syndrome (Lundehund gastroenteropathy), a complex of intestinal disorders including intestinal lymphangiectasia, protein-losing enteropathy, and inflammatory bowel disease that can affect a large percentage of the breed. This condition causes chronic digestive issues, protein loss, and in severe cases can be life-threatening — lifelong dietary management and veterinary monitoring are essential. The extremely small genetic bottleneck (all modern Lundehunds descend from only 5–6 dogs) means the breed has very low genetic diversity, which contributes to the high prevalence of this condition and makes the breed vulnerable to other genetic health issues. Patellar luxation can occur. Hip dysplasia may develop. Eye conditions should be monitored. Research into Lundehund Syndrome is ongoing, with breeding programs working to reduce its incidence. The breed's unique polydactyl feet generally cause no health problems. Responsible breeders screen for gastrointestinal health, patellae, and work to maintain what genetic diversity remains.",
+    "health_el": "Τα Λούντεχουντ έχουν τυπική διάρκεια ζωής 12–15 χρόνια αλλά αντιμετωπίζουν σημαντική πρόκληση: το Σύνδρομο Lundehund — γαστρεντερικές διαταραχές που μπορεί να επηρεάσουν μεγάλο ποσοστό. Χρόνια πεπτικά ζητήματα και απώλεια πρωτεΐνης. Η εξαιρετικά μικρή γενετική δεξαμενή (5–6 ιδρυτικά σκυλιά) σημαίνει πολύ χαμηλή ποικιλομορφία. Εξάρθρωση επιγονατίδας και δυσπλασία ισχίου μπορεί να εμφανιστούν. Η έρευνα συνεχίζεται. Οι εκτροφείς ελέγχουν γαστρεντερική υγεία και εργάζονται για γενετική ποικιλομορφία."
+  },
+  {
+    "id": "pharaoh-hound",
+    "slug": "pharaoh-hound",
+    "name_en": "Pharaoh Hound",
+    "name_el": "Φαραώ Χάουντ",
+    "type": "dog",
+    "origin": "Malta",
+    "originCode": "MT",
+    "images": [],
+    "size": "large",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Affectionate",
+      "Intelligent",
+      "Playful",
+      "Alert",
+      "Gentle"
+    ],
+    "temperament_el": [
+      "Στοργικός",
+      "Έξυπνος",
+      "Παιχνιδιάρης",
+      "Επαγρύπνος",
+      "Ήπιος"
+    ],
+    "description_en": "The Pharaoh Hound (Kelb tal-Fenek, meaning 'rabbit dog' in Maltese) is the national dog of Malta and one of the oldest domesticated dog breeds, with a striking resemblance to the dogs depicted in ancient Egyptian tomb paintings dating back 4,000–5,000 years. Despite the Egyptian-sounding name (given by British enthusiasts), genetic studies indicate the breed was developed on Malta and Gozo, where Phoenician traders likely brought its ancestors. Standing 53–63 cm and weighing 18–27 kg, the Pharaoh Hound is a graceful, athletic, and powerful sighthound with a sleek, glossy tan coat, large erect ears, and striking amber eyes. They possess one of the most remarkable and endearing traits in the canine world: the ability to 'blush' — when excited or happy, the nose, ears, and eye rims flush a deep rose color, a visible sign of their emotions unique among dog breeds. In Malta, they are still actively used in packs to hunt wild rabbits at night, working by sight, sound, and scent. Pharaoh Hounds are affectionate, playful, and gentle with their families, surprisingly clownish and fun-loving for a breed of such ancient noble appearance.",
+    "description_el": "Το Φαραώ Χάουντ (Kelb tal-Fenek, «σκυλί κουνελιού» στα Μαλτέζικα) είναι ο εθνικός σκύλος της Μάλτας, μία από τις αρχαιότερες ράτσες, μοιάζοντας με σκυλιά σε αιγυπτιακές τοιχογραφίες 4.000–5.000 ετών. Φοίνικες έμποροι πιθανώς έφεραν τους προγόνους. 53–63 εκ. και 18–27 κιλά, κομψό με γυαλιστερό καστανοκόκκινο τρίχωμα και κεχριμπαρένια μάτια. Μοναδική ικανότητα «κοκκινίσματος» — η μύτη και τα αυτιά κοκκινίζουν. Στη Μάλτα χρησιμοποιούνται ακόμα για κυνήγι κουνελιών. Στοργικά, παιχνιδιάρικα και ήπια.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Pharaoh Hounds need substantial daily exercise — at least 1 hour of running, vigorous play, or structured activities — and they must have access to a securely fenced area for off-leash sprinting. Fencing must be at least 1.5–1.8 meters high, as they are excellent jumpers. Their strong prey drive means they should never be off-leash in unfenced areas. Their short, glossy coat is extremely low-maintenance, requiring only a weekly wipe-down or occasional brushing. They are sensitive to cold due to their lean build and thin coat — a dog coat is essential in cold weather. Training should be gentle, positive, and engaging — Pharaoh Hounds are intelligent and willing to learn but are emotionally sensitive and will shut down completely with harsh methods. Lure coursing is an ideal sport. Early socialization is important to build confidence, as they can be reserved with new people and situations. They are playful and clownish at home, wonderful with children, and generally get along well with other dogs. They have a distinctive habit of grinning (pulling their lips back in a smile-like expression) when happy.",
+    "care_el": "Τα Φαραώ Χάουντ χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1 ώρα τρεξίματος. Ασφαλής περίφραξη 1,5–1,8 μέτρα. Ποτέ χωρίς λουρί σε ανοιχτές περιοχές. Κοντό τρίχωμα χαμηλής συντήρησης. Ευαίσθητα στο κρύο — παλτό απαραίτητο. Η εκπαίδευση πρέπει να είναι ήπια και θετική. Παιχνιδιάρικα στο σπίτι, εξαιρετικά με παιδιά. Χαρακτηριστική «χαμογελαστή» έκφραση.",
+    "health_en": "Pharaoh Hounds are generally a healthy, long-lived breed with a typical lifespan of 12–14 years. Like all sighthounds, they have sensitivity to anesthesia and certain medications — a sighthound-experienced veterinarian is recommended. Allergies (environmental and food) are the most commonly reported health issue. Hip dysplasia can occur, though rates are lower than in many breeds. Hypothyroidism has been documented. Eye conditions should be monitored. Patellar luxation may develop. Ear infections can occur due to their large, open ear structure. Their thin skin is prone to cuts and abrasions, and wounds may scar easily. They are sensitive to cold and can develop hypothermia quickly. Dental health requires regular attention. Bloat (GDV) is possible though uncommon. The breed's relatively small gene pool (especially outside Malta) means breeders must carefully manage genetic diversity. Overall, the Pharaoh Hound is considered one of the healthier purebred dogs. Responsible breeders screen for hips, eyes, thyroid, and patellae.",
+    "health_el": "Τα Φαραώ Χάουντ είναι γενικά υγιής, μακρόβια ράτσα με τυπική διάρκεια ζωής 12–14 χρόνια. Ευαίσθητα στην αναισθησία. Οι αλλεργίες είναι το πιο κοινό πρόβλημα. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Ο υποθυρεοειδισμός τεκμηριώθηκε. Το λεπτό δέρμα είναι επιρρεπές σε κοψίματα. Ευαίσθητα στο κρύο. Θεωρείται μία από τις πιο υγιείς καθαρόαιμες ράτσες. Οι εκτροφείς ελέγχουν ισχία, μάτια, θυρεοειδή, επιγονατίδα."
+  },
+  {
+    "id": "podenco-canario",
+    "slug": "podenco-canario",
+    "name_en": "Podenco Canario",
+    "name_el": "Ποντένκο Κανάριο",
+    "type": "dog",
+    "origin": "Spain",
+    "originCode": "ES",
+    "images": [],
+    "size": "large",
+    "lifespan": "11-13 years",
+    "temperament_en": [
+      "Energetic",
+      "Loyal",
+      "Reserved",
+      "Alert",
+      "Independent"
+    ],
+    "temperament_el": [
+      "Ενεργητικός",
+      "Πιστός",
+      "Συνεσταλμένος",
+      "Επαγρύπνος",
+      "Ανεξάρτητος"
+    ],
+    "description_en": "The Podenco Canario is a large, elegant sighthound native to the Canary Islands, where it has been used for centuries to hunt wild rabbits in the volcanic, rocky terrain of the archipelago. Standing 53–64 cm and weighing 20–25 kg, the Podenco Canario is a lean, athletic, and incredibly agile dog with large, mobile erect ears, a narrow head, and a smooth short coat in shades of red and white. The breed's origins likely trace back to ancient Egyptian and North African hunting dogs brought to the Canary Islands by early settlers, and they share ancestry with other Mediterranean podenco/podengo breeds. On the islands, they are prized working dogs that hunt in packs using a remarkable combination of sight, scent, and hearing — they are one of the few hound breeds that truly utilizes all three senses equally. The Canary Islands' volcanic terrain — rough lava fields, dense scrubland, and steep ravines — has produced a dog that is exceptionally tough, agile, and sure-footed. Unfortunately, many working Podencos in Spain and the Canaries are poorly treated and abandoned when their hunting usefulness ends, leading to active rescue organizations in Europe working to rehome these dogs.",
+    "description_el": "Το Ποντένκο Κανάριο είναι μεγάλο, κομψό λυγγοκύνηγο από τις Κανάριες Νήσους, χρησιμοποιούμενο για κυνήγι κουνελιών σε ηφαιστειακό έδαφος. 53–64 εκ. και 20–25 κιλά, αθλητικό με μεγάλα αυτιά και λείο κοντό τρίχωμα. Η καταγωγή ανάγεται σε αρχαία αιγυπτιακά κυνηγετικά σκυλιά. Κυνηγούν σε αγέλες χρησιμοποιώντας εξίσου όραση, οσμή και ακοή. Το ηφαιστειακό έδαφος παρήγαγε εξαιρετικά σκληρό, ευκίνητο σκυλί. Δυστυχώς, πολλά εγκαταλείπονται μετά το κυνήγι, με ενεργές οργανώσεις διάσωσης στην Ευρώπη.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 1,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Podenco Canarios need substantial daily exercise — at least 1 to 1.5 hours of vigorous activity including running, hiking, and active play — and they have enormous stamina built from hunting in demanding terrain. Secure, high fencing (at least 1.8 meters) is absolutely essential — they are exceptional escape artists capable of jumping, climbing, and squeezing through surprisingly small gaps. They should never be off-leash in unfenced areas due to their powerful prey drive. Their smooth, short coat is extremely low-maintenance, requiring only occasional brushing. Training requires patience, consistency, and positive methods — they are intelligent but independent thinkers who may question the purpose of commands. Early socialization is important, particularly for rescued Podencos who may have had limited human contact. Many rescued Podencos adapt wonderfully to home life despite initial shyness. They can coexist with other dogs but should not be trusted with small animals. They are sensitive to cold due to their lean build and thin coat.",
+    "care_el": "Τα Ποντένκο Κανάριο χρειάζονται σημαντική καθημερινή άσκηση — 1–1,5 ώρες. Ασφαλής περίφραξη (1,8+ μέτρα) απολύτως απαραίτητη — εξαιρετικοί δραπέτες. Ποτέ χωρίς λουρί. Κοντό τρίχωμα χαμηλής συντήρησης. Η εκπαίδευση απαιτεί υπομονή. Πρώιμη κοινωνικοποίηση σημαντική, ειδικά για διασωθέντα. Πολλά προσαρμόζονται θαυμάσια στο σπίτι. Ευαίσθητα στο κρύο.",
+    "health_en": "Podenco Canarios are generally a very healthy, hardy breed with a typical lifespan of 11–13 years, their robust constitution shaped by centuries of working in demanding conditions. Like all sighthounds, they have sensitivity to anesthesia and certain medications — a veterinarian experienced with sighthounds is recommended. Their thin skin is prone to cuts, scrapes, and tears — particularly on rough terrain. Hip dysplasia can occur though it is relatively uncommon. Eye conditions should be monitored periodically. Dental disease should be addressed with regular dental care. They can be sensitive to cold weather due to their lean build and minimal body fat. Tick-borne diseases including leishmaniasis are a significant concern in their native Mediterranean environment — appropriate parasite prevention is essential. Allergies may develop. The breed's overall health is generally excellent, benefiting from continued breeding for working function rather than appearance. Responsible breeders focus on overall health and temperament.",
+    "health_el": "Τα Ποντένκο Κανάριο είναι γενικά πολύ υγιής, ανθεκτική ράτσα με τυπική διάρκεια ζωής 11–13 χρόνια. Ευαίσθητα στην αναισθησία. Λεπτό δέρμα επιρρεπές σε κοψίματα. Δυσπλασία ισχίου σπάνια. Η λεϊσμανίαση είναι σημαντική ανησυχία στη Μεσόγειο. Αλλεργίες μπορεί να αναπτυχθούν. Η γενική υγεία είναι εξαιρετική λόγω εκτροφής για εργασία."
+  },
+  {
+    "id": "portuguese-podengo",
+    "slug": "portuguese-podengo",
+    "name_en": "Portuguese Podengo",
+    "name_el": "Πορτογαλικό Ποντένκο",
+    "type": "dog",
+    "origin": "Portugal",
+    "originCode": "PT",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Lively",
+      "Alert",
+      "Intelligent",
+      "Friendly",
+      "Independent"
+    ],
+    "temperament_el": [
+      "Ζωντανός",
+      "Επαγρύπνος",
+      "Έξυπνος",
+      "Φιλικός",
+      "Ανεξάρτητος"
+    ],
+    "description_en": "The Portuguese Podengo (Podengo Português) is one of Portugal's national dog breeds and one of the most versatile hunting dogs in the Iberian Peninsula, coming in three distinct sizes — Pequeno (small, 20–30 cm), Médio (medium, 40–55 cm), and Grande (large, 55–70 cm) — and two coat varieties (smooth and wire-haired). Their origins trace back to ancient primitive dogs brought to the Iberian Peninsula by Phoenician and Roman traders over 2,000 years ago, making them one of the oldest hunting breeds in Europe. The Pequeno (the most popular size internationally) is a small, lively dog that was historically used aboard Portuguese ships as a ratter and on land for flushing rabbits from dense cover and rocky crevices. The Médio and Grande hunt larger game and work in packs. All sizes share the characteristic large, erect, mobile ears, wedge-shaped head, and alert, intelligent expression. They hunt using a combination of sight, scent, and hearing, adapting their hunting style to terrain and quarry. Portuguese Podengos are lively, intelligent, and remarkably adaptable dogs that are equally content as active family companions as they are working hunters.",
+    "description_el": "Το Πορτογαλικό Ποντένκο είναι ένα από τα εθνικά σκυλιά της Πορτογαλίας, σε τρία μεγέθη — Pequeno (μικρό), Médio (μεσαίο), Grande (μεγάλο) — και δύο τριχώματα. Η καταγωγή ανάγεται σε αρχαία σκυλιά Φοινίκων και Ρωμαίων, 2.000+ χρόνια. Το Pequeno χρησιμοποιούνταν σε πορτογαλικά πλοία ως κυνηγός ποντικιών. Όλα τα μεγέθη μοιράζονται μεγάλα αυτιά και ευφυή έκφραση. Κυνηγούν με όραση, οσμή και ακοή. Ζωντανά, έξυπνα και αξιοσημείωτα προσαρμοστικά — εξίσου κατάλληλα ως σύντροφοι και κυνηγοί.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Portuguese Podengos need regular daily exercise appropriate to their size — Pequenos need about 30–45 minutes, while Médios and Grandes need 1–1.5 hours of vigorous activity. All sizes benefit from activities that engage their hunting instincts including scent work, lure coursing, agility, and interactive play. Secure fencing is essential for all sizes — they are athletic, agile, and can jump and climb. Wire-haired varieties need weekly brushing and occasional hand-stripping to maintain coat texture; smooth-coated dogs need only minimal grooming. They are intelligent, eager to please, and respond well to positive training methods — they are more trainable than many other podenco/podengo breeds. They can be vocal and will bark at perceived intrusions. Early socialization helps develop their naturally friendly, confident temperament. They get along well with other dogs and are generally good with children. Pequenos can adapt well to apartment living with sufficient exercise, while larger sizes do better with a yard.",
+    "care_el": "Τα Ποντένκο χρειάζονται άσκηση ανάλογα με το μέγεθος — Pequenos 30–45 λεπτά, Médios/Grandes 1–1,5 ώρες. Ασφαλής περίφραξη απαραίτητη. Σκληρό τρίχωμα χρειάζεται εβδομαδιαίο βούρτσισμα, λείο ελάχιστη φροντίδα. Έξυπνα και πρόθυμα. Μπορεί να γαβγίζουν. Πρώιμη κοινωνικοποίηση βοηθά. Τα πάνε καλά με άλλα σκυλιά και παιδιά. Τα Pequenos προσαρμόζονται σε διαμέρισμα.",
+    "health_en": "Portuguese Podengos are generally a healthy, long-lived breed with typical lifespans of 12–15 years (with Pequenos often living even longer). Patellar luxation is the most common orthopedic concern, particularly in the Pequeno size — screening is recommended. Legg-Calve-Perthes disease (avascular necrosis of the femoral head) has been reported in Pequeno lines. Hip dysplasia may occur in the larger sizes. Eye conditions including progressive retinal atrophy (PRA) should be screened for. Dental disease is a concern in the Pequeno size — regular dental care is important. Hypothyroidism can develop. Allergies and skin conditions may affect some individuals. The breed's overall robust health reflects centuries of natural selection and continued breeding for working function. In Portugal, the breed is still widely used as a working hunting dog, which helps maintain health and vitality in the breeding population. Responsible breeders screen for patellae, eyes, and hips (in larger sizes).",
+    "health_el": "Τα Ποντένκο είναι γενικά υγιής, μακρόβια ράτσα με τυπική διάρκεια ζωής 12–15 χρόνια. Εξάρθρωση επιγονατίδας πιο κοινή στα Pequenos. Η νόσος Legg-Calve-Perthes αναφέρθηκε στα Pequenos. Δυσπλασία ισχίου στα μεγαλύτερα μεγέθη. Οφθαλμικές παθήσεις πρέπει να ελέγχονται. Οδοντική νόσος ανησυχία στα Pequenos. Η γενική υγεία αντικατοπτρίζει αιώνες φυσικής επιλογής. Οι εκτροφείς ελέγχουν επιγονατίδα, μάτια, ισχία."
+  },
+  {
+    "id": "samoyed",
+    "slug": "samoyed",
+    "name_en": "Samoyed",
+    "name_el": "Σαμογιέντ",
+    "type": "dog",
+    "origin": "Russia",
+    "originCode": "RU",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Friendly",
+      "Gentle",
+      "Playful",
+      "Adaptable",
+      "Loyal"
+    ],
+    "temperament_el": [
+      "Φιλικός",
+      "Ήπιος",
+      "Παιχνιδιάρης",
+      "Προσαρμοστικός",
+      "Πιστός"
+    ],
+    "description_en": "The Samoyed is a magnificent, ancient working breed developed by the Samoyedic peoples of Siberia (the Nenets) who depended on these versatile dogs for herding reindeer, pulling sleds, hunting, and — famously — keeping their families warm by sleeping with them in their tents during the brutal Arctic winters, a practice that profoundly shaped the breed's exceptionally gentle, people-loving temperament. Standing 48–60 cm and weighing 16–30 kg, Samoyeds are medium to large dogs with a stunning, brilliant white (or biscuit, cream, or white-and-biscuit) double coat and the characteristic 'Sammy smile' — an upturned mouth created by the slightly curved lip line that prevents drooling and icicle formation in sub-zero temperatures. Several Samoyeds accompanied famous polar expeditions, including Fridtjof Nansen's North Pole attempt and Roald Amundsen's successful South Pole expedition in 1911. The breed nearly perished in the early 20th century, and many modern Samoyeds descend from just twelve dogs brought to England. Samoyeds are quintessentially friendly, gentle, and joyful dogs that genuinely adore people — they have no guarding instinct and greet everyone as a friend, making them among the worst watchdogs but the best companions imaginable.",
+    "description_el": "Το Σαμογιέντ είναι μεγαλοπρεπής, αρχαία ράτσα εργασίας, αναπτυγμένη από τους Σαμοδικούς λαούς της Σιβηρίας για βοσκή ταράνδων, έλξη εξοπλισμού και θέρμανση — κοιμόντουσαν μαζί τους. 48–60 εκ. και 16–30 κιλά, με εκπληκτικό λευκό τρίχωμα και χαρακτηριστικό «Σάμι χαμόγελο» που αποτρέπει σταγονίδια πάγου. Συνόδευσαν πολικές αποστολές Nansen και Amundsen. Ουσιαστικά φιλικά, ήπια και χαρούμενα — αγαπούν τους ανθρώπους και χαιρετούν όλους ως φίλους.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 5,
+      "friendliness": 5,
+      "trainability": 4,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Samoyeds need substantial daily exercise — at least 1 to 1.5 hours of walks, play, hiking, or structured activities — and they particularly enjoy pulling sports (skijoring, carting, weight pulling), agility, herding trials, and anything that involves being active with their people. Their magnificent double coat requires significant grooming commitment — thorough brushing at least three to four times per week with a pin brush and undercoat rake, and daily during the twice-yearly 'blowout' shedding when they lose their entire undercoat over 2–3 weeks. Professional grooming every 6–8 weeks helps maintain coat health. The coat should never be shaved — it provides insulation from both cold and heat. They are extremely social, people-oriented dogs that can develop severe separation anxiety and destructive behavior if left alone for extended periods. Training is enjoyable — they are intelligent and eager to please, though they retain some spitz-type independence. They can be vocal with distinctive barking and howling. They thrive in cold climates but can adapt to warmer conditions with air conditioning and careful management.",
+    "care_el": "Τα Σαμογιέντ χρειάζονται σημαντική καθημερινή άσκηση — 1–1,5 ώρες. Το τρίχωμα απαιτεί σημαντική φροντίδα — 3–4 φορές βούρτσισμα την εβδομάδα. Δεν πρέπει να ξυρίζεται. Εξαιρετικά κοινωνικά — μπορεί να αναπτύξουν άγχος αποχωρισμού. Η εκπαίδευση είναι ευχάριστη. Μπορεί να γαβγίζουν και να ουρλιάζουν. Ευδοκιμούν σε κρύα κλίματα αλλά προσαρμόζονται.",
+    "health_en": "Samoyeds have a typical lifespan of 12–14 years. Hip dysplasia is a significant orthopedic concern — OFA screening is strongly recommended. Progressive retinal atrophy (PRA) is a known eye condition — a DNA test (specifically for XL-PRA or PRA-prcd) is available and all breeding dogs should be tested. Diabetes mellitus affects the breed at higher rates than many others. Hypothyroidism is common. Samoyed hereditary glomerulopathy is a serious breed-specific kidney disease — affected males typically die by 15 months of age, while carrier females may develop slower kidney disease. Glaucoma and cataracts are eye concerns. Subvalvular aortic stenosis and other cardiac conditions should be screened for. Patellar luxation can occur. Allergies and skin conditions (particularly hot spots under the dense coat) may develop. Bloat (GDV) is possible. Sebaceous adenitis (an autoimmune skin condition) has been reported. Responsible breeders screen for hips, eyes (PRA DNA test), cardiac function, and samoyed hereditary glomerulopathy.",
+    "health_el": "Τα Σαμογιέντ έχουν τυπική διάρκεια ζωής 12–14 χρόνια. Η δυσπλασία ισχίου είναι σημαντική ανησυχία. Η PRA είναι γνωστή — διαθέσιμο DNA τεστ. Ο διαβήτης εμφανίζεται σε υψηλότερα ποσοστά. Η κληρονομική σπειραματοπάθεια Σαμογιέντ είναι σοβαρή νεφρική νόσος. Γλαύκωμα και καταρράκτης ανησυχίες. Καρδιακές παθήσεις πρέπει να ελέγχονται. Αλλεργίες μπορεί να αναπτυχθούν. Οι εκτροφείς ελέγχουν ισχία, μάτια (PRA DNA), καρδιά, κληρονομική νεφροπάθεια."
+  },
+  {
+    "id": "shiba-inu",
+    "slug": "shiba-inu",
+    "name_en": "Shiba Inu",
+    "name_el": "Σίμπα Ίνου",
+    "type": "dog",
+    "origin": "Japan",
+    "originCode": "JP",
+    "images": [],
+    "size": "small",
+    "lifespan": "13-16 years",
+    "temperament_en": [
+      "Alert",
+      "Independent",
+      "Loyal",
+      "Bold",
+      "Good-natured"
+    ],
+    "temperament_el": [
+      "Επαγρύπνος",
+      "Ανεξάρτητος",
+      "Πιστός",
+      "Τολμηρός",
+      "Καλόκαρδος"
+    ],
+    "description_en": "The Shiba Inu is the smallest and most ancient of Japan's six native breeds, with origins dating back at least 3,000 years as a hunting dog in the dense underbrush of Japan's mountainous interior — the name 'Shiba' may refer to 'brushwood' (the terrain where they hunted) or the old Japanese word for 'small.' Standing 33–43 cm and weighing 8–11 kg, the Shiba is a compact, well-muscled dog with a fox-like appearance, distinctive 'urajiro' (cream to white ventral coloring), triangular erect ears, and a curled or sickle tail. They come in red (the most popular), sesame, black-and-tan, and cream. The breed was nearly lost during World War II from bombing raids and a post-war distemper epidemic, and was saved by cross-breeding the three surviving bloodlines (Shinshu, Mino, and San'in Shibas). Today, the Shiba Inu is by far the most popular companion dog in Japan and has exploded in global popularity, becoming an internet phenomenon through the 'Doge' meme. Shibas are famously cat-like in their behavior — they are fastidiously clean, independent, proud, and can be dramatically expressive, particularly through the distinctive 'Shiba scream,' a high-pitched vocalization they emit when excited, distressed, or displeased.",
+    "description_el": "Το Σίμπα Ίνου είναι η μικρότερη και αρχαιότερη ιαπωνική ράτσα, με καταγωγή 3.000+ ετών. 33–43 εκ. και 8–11 κιλά, συμπαγές με αλεπούδικη εμφάνιση, χαρακτηριστικό 'urajiro' και σγουρή ουρά. Σε κόκκινο, σησαμί, μαύρο-καφέ, κρεμ. Σχεδόν χάθηκε στον Β' ΠΠ, σώθηκε από τρεις γραμμές αίματος. Δημοφιλέστερο σκυλί στην Ιαπωνία, παγκόσμια δημοτικότητα μέσω 'Doge' meme. Γατοειδή συμπεριφορά — καθαρά, ανεξάρτητα, δραματικά εκφραστικά με χαρακτηριστική «κραυγή Σίμπα».",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 1
+    },
+    "cost_annual_usd": "$500-800",
+    "care_en": "Shiba Inus need moderate daily exercise — about 45–60 minutes of walks, play, and mental stimulation — and they enjoy hiking and outdoor exploration. Their dense double coat requires weekly brushing and dramatically more during the twice-yearly coat blowout, when they shed enormous amounts of undercoat. They should never be trusted off-leash in unfenced areas — they have strong prey drive and, despite their small size, are remarkably fast and determined escape artists who can climb fences, squeeze through small gaps, and bolt through open doors. Training is the breed's greatest challenge — Shibas are highly intelligent but extraordinarily independent, willful, and resistant to doing things they see no purpose in. Positive methods with high-value rewards work best, but owners must accept that a Shiba will never have the eager-to-please attitude of a retriever. They can be possessive of food, toys, and space (resource guarding). Early, extensive socialization is essential to prevent shyness or aggression. They are naturally clean dogs that housebreak easily. They can be vocal — the 'Shiba scream' can alarm neighbors.",
+    "care_el": "Τα Σίμπα χρειάζονται μέτρια καθημερινή άσκηση — 45–60 λεπτά. Εβδομαδιαίο βούρτσισμα, δραματική αποτρίχωση δύο φορές ετησίως. Ποτέ χωρίς λουρί — δραπέτες. Η εκπαίδευση είναι πρόκληση — πολύ ανεξάρτητα. Μπορεί να φυλάσσουν πόρους. Πρώιμη κοινωνικοποίηση απαραίτητη. Φυσικά καθαρά. Η «κραυγή Σίμπα» μπορεί να ανησυχήσει γείτονες.",
+    "health_en": "Shiba Inus are generally a healthy, long-lived breed with a typical lifespan of 13–16 years. Patellar luxation is the most common orthopedic concern — screening is recommended. Hip dysplasia can occur. Allergies (environmental, food, and contact) are very common in the breed and can cause significant skin problems. Glaucoma is a serious eye condition in Shibas — regular ophthalmologic exams are essential. Cataracts and progressive retinal atrophy (PRA) also occur. Hypothyroidism can develop. Epilepsy has been reported in some lines. GM1 gangliosidosis (a fatal neurological storage disease) exists in the breed — a DNA test is available and all breeding dogs should be tested. Chylothorax (fluid accumulation in the chest cavity) occurs at higher rates than in many breeds. Anxiety-related disorders and behavior issues (including aggression and resource guarding) can be significant. Dental disease requires attention. Responsible breeders screen for patellae, hips, eyes, thyroid, and GM1 gangliosidosis (DNA test).",
+    "health_el": "Τα Σίμπα είναι γενικά υγιής, μακρόβια ράτσα με τυπική διάρκεια ζωής 13–16 χρόνια. Εξάρθρωση επιγονατίδας πιο κοινή ανησυχία. Αλλεργίες πολύ κοινές. Το γλαύκωμα είναι σοβαρή πάθηση. Η GM1 γαγγλιοσίδωση υπάρχει — DNA τεστ διαθέσιμο. Ο χυλοθώρακας εμφανίζεται σε υψηλότερα ποσοστά. Συμπεριφορικά ζητήματα μπορεί να είναι σημαντικά. Οι εκτροφείς ελέγχουν επιγονατίδα, ισχία, μάτια, θυρεοειδή, GM1."
+  },
+  {
+    "id": "shikoku",
+    "slug": "shikoku",
+    "name_en": "Shikoku",
+    "name_el": "Σικόκου",
+    "type": "dog",
+    "origin": "Japan",
+    "originCode": "JP",
+    "images": [],
+    "size": "medium",
+    "lifespan": "10-12 years",
+    "temperament_en": [
+      "Brave",
+      "Loyal",
+      "Alert",
+      "Reserved",
+      "Energetic"
+    ],
+    "temperament_el": [
+      "Θαρραλέος",
+      "Πιστός",
+      "Επαγρύπνος",
+      "Συνεσταλμένος",
+      "Ενεργητικός"
+    ],
+    "description_en": "The Shikoku (Shikoku-Ken or Kochi-Ken) is one of Japan's six native breeds, originating from the rugged, mountainous interior of Shikoku, the smallest of Japan's four main islands. Designated a Natural Monument of Japan in 1937, the Shikoku was bred primarily for hunting Japanese wild boar (inoshishi) in the island's steep, densely forested mountains — a dangerous task requiring exceptional bravery, agility, and endurance. Standing 43–55 cm and weighing 16–25 kg, the Shikoku is a medium-sized, athletic, wolf-like dog that is often considered the most primitive-looking and wild-spirited of the Japanese breeds. They have a harsh double coat in sesame (red-fawn with black-tipped hairs), black sesame, or red, with the characteristic urajiro (light cream ventral coloring). Three historical bloodlines existed: Awa, Hata, and Hongawa — the Hongawa line, from the most remote mountain areas, is considered the most genetically pure and closest to the original breed. The Shikoku is sometimes described as a 'middle ground' between the smaller, more independent Shiba and the larger, more aloof Akita — they combine the Shiba's liveliness with greater trainability and a deeper bond with their handler.",
+    "description_el": "Το Σικόκου (Shikoku-Ken) είναι μία από τις έξι ιαπωνικές ράτσες, από το ορεινό εσωτερικό του νησιού Σικόκου. Ανακηρύχθηκε Φυσικό Μνημείο το 1937. Αναπτύχθηκε για κυνήγι αγριόχοιρου — 43–55 εκ. και 16–25 κιλά, αθλητικό, λυκοειδές, το πιο πρωτόγονο ιαπωνικό σκυλί. Σκληρό τρίχωμα σε σησαμί. Τρεις ιστορικές γραμμές αίματος — η Hongawa θεωρείται η πιο γενετικά αγνή. Περιγράφεται ως «μέσος δρόμος» μεταξύ Σίμπα και Ακίτα — ζωηρότητα με μεγαλύτερη εκπαιδευσιμότητα.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Shikokus need substantial daily exercise — at least 1 to 1.5 hours of vigorous activity including long hikes, running, and active play — and they particularly excel at outdoor activities in natural settings. Secure fencing is essential — they are athletic, agile, and capable of climbing and jumping. Their harsh double coat is relatively easy to maintain with weekly brushing, with more attention during seasonal shedding. Training requires an experienced handler who understands primitive breeds — they are intelligent and more responsive to training than most Japanese breeds but still retain significant independence. Positive methods with a firm, fair, and consistent approach work best. Early, extensive socialization is critical to prevent excessive wariness or reactivity. They can be dominant or aggressive toward other dogs, particularly same-sex dogs — careful management is needed in multi-dog households. They have strong prey drive and should not be trusted with small animals. They bond deeply with their families and prefer to be close to their people. They are not recommended for first-time dog owners.",
+    "care_el": "Τα Σικόκου χρειάζονται σημαντική καθημερινή άσκηση — 1–1,5 ώρες. Ασφαλής περίφραξη απαραίτητη. Εβδομαδιαίο βούρτσισμα. Η εκπαίδευση απαιτεί εμπειρία — πιο ανταποκρίνονται από τις περισσότερες ιαπωνικές ράτσες αλλά ανεξάρτητα. Πρώιμη κοινωνικοποίηση κρίσιμη. Μπορεί να είναι επιθετικά με σκυλιά ίδιου φύλου. Ισχυρό κυνηγετικό ένστικτο. Δεν συνιστώνται για αρχάριους.",
+    "health_en": "Shikokus are generally a robust breed with a typical lifespan of 10–12 years. Hip dysplasia can occur — OFA screening is recommended. Patellar luxation has been reported and should be evaluated. Epilepsy (idiopathic seizures) has been documented in some lines. Eye conditions including cataracts should be monitored. Hypothyroidism may develop. Allergies can affect some individuals. Due to the breed's extreme rarity outside Japan (and relative rarity even within Japan), comprehensive health data is limited, and maintaining genetic diversity is a significant concern. The breed's health benefits from its continued use as a working hunting dog in Japan, where breeding prioritizes function. The Japanese NIPPO organization maintains breed standards and health guidelines. Intestinal conditions have been occasionally reported. Responsible breeders screen for hips, patellae, eyes, and focus on maintaining genetic diversity and working ability.",
+    "health_el": "Τα Σικόκου είναι γενικά ανθεκτική ράτσα με τυπική διάρκεια ζωής 10–12 χρόνια. Δυσπλασία ισχίου μπορεί να εμφανιστεί. Εξάρθρωση επιγονατίδας αναφέρθηκε. Η επιληψία τεκμηριώθηκε. Λόγω ακραίας σπανιότητας, τα δεδομένα υγείας είναι περιορισμένα. Η υγεία ωφελείται από τη χρήση ως κυνηγετικό σκυλί. Η NIPPO διατηρεί πρότυπα ράτσας. Οι εκτροφείς ελέγχουν ισχία, επιγονατίδα, μάτια."
+  },
+  {
+    "id": "swedish-elkhound",
+    "slug": "swedish-elkhound",
+    "name_en": "Swedish Elkhound",
+    "name_el": "Σουηδικό Ελκχάουντ",
+    "type": "dog",
+    "origin": "Sweden",
+    "originCode": "SE",
+    "images": [],
+    "size": "medium",
+    "lifespan": "11-13 years",
+    "temperament_en": [
+      "Calm",
+      "Courageous",
+      "Energetic",
+      "Loyal",
+      "Alert"
+    ],
+    "temperament_el": [
+      "Ήρεμος",
+      "Θαρραλέος",
+      "Ενεργητικός",
+      "Πιστός",
+      "Επαγρύπνος"
+    ],
+    "description_en": "The Swedish Elkhound (Jämthund, also known as the Swedish Moosehound) is Sweden's national dog breed and the largest of the Scandinavian elkhounds, developed in the Jämtland province of central Sweden for hunting European moose in the vast boreal forests. Standing 52–65 cm and weighing 25–30 kg, the Jämthund is a powerful, enduring spitz-type dog that is larger, more heavily built, and lighter in color than the closely related Norwegian Elkhound. Their light gray, wolf-like double coat with lighter underside and characteristic cream-colored markings helped them blend into the snowy Scandinavian landscape. The Jämthund hunts independently — ranging far from the hunter to find moose, then barking to hold the enormous animal at bay while circling to evade the moose's dangerous hooves and antlers, a task requiring exceptional courage and intelligence. The breed was only officially recognized as distinct from the Norwegian Elkhound by the FCI in 1946, despite having been a distinct working type for centuries. At home, the Jämthund is remarkably calm and gentle, forming deep bonds with their family — a stark contrast to their fierce courage and intensity in the field.",
+    "description_el": "Το Σουηδικό Ελκχάουντ (Jämthund) είναι ο εθνικός σκύλος της Σουηδίας, το μεγαλύτερο σκανδιναβικό ελκχάουντ, από την επαρχία Jämtland για κυνήγι ευρωπαϊκών αλκών. 52–65 εκ. και 25–30 κιλά, ισχυρό σπιτς με ανοιχτό γκρι λυκοειδές τρίχωμα. Κυνηγά ανεξάρτητα — βρίσκει τη βεραμάν και γαβγίζει κρατώντας τη σε απόσταση. Αναγνωρίστηκε επίσημα ξεχωριστά από το Νορβηγικό Ελκχάουντ μόλις το 1946. Στο σπίτι αξιοσημείωτα ήρεμο — αντίθεση με τη ζωηρότητα στο πεδίο.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Swedish Elkhounds need substantial daily exercise — at least 1.5 hours of vigorous activity including long hikes, running, and outdoor exploration — and they are at their best when given a job or purpose. Their dense double coat requires regular brushing two to three times per week, with daily attention during the heavy seasonal shedding. They thrive in cold climates and are uncomfortable in hot weather. They are vocal dogs with a deep, carrying bark and characteristic baying — training a 'quiet' command is important, especially in residential areas. They are intelligent and willing to work with their handler but retain spitz-type independence — consistent, fair training with positive methods works best. Early socialization is important to develop balanced temperament. They are generally good with children and can be gentle family dogs when their exercise needs are met. They can be territorial and may show dog-aggression, particularly with same-sex dogs. They need a large, securely fenced yard and are not suited to apartment living.",
+    "care_el": "Τα Jämthund χρειάζονται σημαντική καθημερινή άσκηση — 1,5+ ώρες. Βούρτσισμα 2–3 φορές την εβδομάδα. Ευδοκιμούν σε κρύα κλίματα. Φωνακλά με βαθύ γάβγισμα. Έξυπνα αλλά ανεξάρτητα. Πρώιμη κοινωνικοποίηση σημαντική. Γενικά καλά με παιδιά. Μπορεί να είναι εδαφικά. Δεν κατάλληλα για διαμέρισμα.",
+    "health_en": "Swedish Elkhounds are generally a robust breed with a typical lifespan of 11–13 years. Hip dysplasia is the most significant orthopedic concern — OFA screening is strongly recommended. Elbow dysplasia may also occur. Progressive retinal atrophy (PRA) and cataracts should be screened for. Hypothyroidism can develop with age. Obesity is a concern — like the Norwegian Elkhound, they are food-motivated and gain weight easily. Dental disease requires attention. Bloat (GDV) is possible in this deep-chested breed. Epilepsy has been reported occasionally. Allergies and skin conditions can develop. The breed's robust constitution reflects centuries of natural selection for working ability in harsh Scandinavian conditions. In Sweden, the Swedish Kennel Club maintains strict breeding guidelines including mandatory hip and eye evaluations. Responsible breeders screen for hips, elbows, eyes, and overall working ability.",
+    "health_el": "Τα Jämthund είναι γενικά ανθεκτική ράτσα με τυπική διάρκεια ζωής 11–13 χρόνια. Η δυσπλασία ισχίου είναι η σημαντικότερη ανησυχία. Δυσπλασία αγκώνα μπορεί επίσης. PRA πρέπει να ελέγχεται. Η παχυσαρκία είναι ανησυχία. Το φούσκωμα δυνατό. Η ανθεκτικότητα αντικατοπτρίζει αιώνες φυσικής επιλογής. Ο Σουηδικός Kennel Club διατηρεί αυστηρές οδηγίες. Οι εκτροφείς ελέγχουν ισχία, αγκώνα, μάτια."
+  },
+  {
+    "id": "thai-bangkaew",
+    "slug": "thai-bangkaew",
+    "name_en": "Thai Bangkaew",
+    "name_el": "Ταϊλανδέζικο Μπανγκκαέου",
+    "type": "dog",
+    "origin": "Thailand",
+    "originCode": "TH",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Loyal",
+      "Alert",
+      "Reserved",
+      "Intelligent",
+      "Protective"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Επαγρύπνος",
+      "Συνεσταλμένος",
+      "Έξυπνος",
+      "Προστατευτικός"
+    ],
+    "description_en": "The Thai Bangkaew Dog is a spitz-type breed originating from the Bangkaew village in the Phitsanulok Province of central Thailand, where legend says the breed developed from the cross between a local domestic dog belonging to a Buddhist abbot named Luang Phu Maak Metharee and a now-extinct wild canid (possibly a jackal or dhole) around the early 20th century. Standing 41–55 cm and weighing 16–20 kg, the Thai Bangkaew is a medium-sized, well-proportioned dog with a striking double coat that features a prominent mane and ruff around the neck, plumed tail, and feathering on the legs — their coat comes in white with various colored patches. They have a square, sturdy build, alert expression, and erect or semi-erect triangular ears. In Thailand, the Bangkaew is popular as a household guard dog and loyal family companion — they are instinctively protective, alert, and deeply devoted to their families. The breed is relatively rare outside Thailand and only recently gained FCI provisional recognition. Thai Bangkaews are intelligent, energetic dogs with a strong territorial instinct.",
+    "description_el": "Το Ταϊλανδέζικο Μπανγκκαέου είναι ράτσα σπιτς από το χωριό Bangkaew στην κεντρική Ταϊλάνδη, όπου ο θρύλος λέει ότι αναπτύχθηκε από διασταύρωση τοπικού σκύλου με άγριο κανιδέ. 41–55 εκ. και 16–20 κιλά, με εντυπωσιακό διπλό τρίχωμα, χαίτη, φουντωτή ουρά, λευκό με χρωματιστές κηλίδες. Στην Ταϊλάνδη δημοφιλές ως φύλακας σπιτιού και πιστός σύντροφος — ενστικτωδώς προστατευτικά. Σπάνια εκτός Ταϊλάνδης, πρόσφατη προσωρινή αναγνώριση FCI. Έξυπνα, ενεργητικά με ισχυρό εδαφικό ένστικτο.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Thai Bangkaews need substantial daily exercise — at least 1 hour of vigorous activity including walks, running, and play — and they have considerable energy and stamina. Their thick double coat requires regular brushing at least two to three times per week, with more frequent attention during seasonal shedding when they lose their undercoat heavily. Secure fencing is essential — they are territorial and protective, and may roam if not contained. Early, extensive socialization is critically important for this breed — without it, they can become overly suspicious, reactive, or aggressive toward strangers and other dogs. Training requires a confident, experienced handler — they are intelligent but can be strong-willed and dominant. They are protective and alert watchdogs that will bark at any perceived intrusion. They can be aggressive toward unfamiliar dogs, particularly same-sex dogs — careful management and introductions are necessary. They bond very strongly with their families and can be affectionate and playful at home. They are not recommended for first-time dog owners or homes with very young children.",
+    "care_el": "Τα Μπανγκκαέου χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1 ώρα. Βούρτσισμα 2–3 φορές την εβδομάδα. Ασφαλής περίφραξη απαραίτητη. Η πρώιμη κοινωνικοποίηση είναι κρίσιμη. Η εκπαίδευση απαιτεί εμπειρία. Προστατευτικά φύλακες. Μπορεί να είναι επιθετικά με άγνωστα σκυλιά. Δένονται πολύ δυνατά με τις οικογένειες. Δεν για αρχάριους ιδιοκτήτες.",
+    "health_en": "Thai Bangkaews are generally a healthy breed with a typical lifespan of 12–14 years. Hip dysplasia is the most commonly reported orthopedic concern — screening is recommended. Patellar luxation has been observed. Eye conditions should be monitored. Allergies and skin conditions can develop, particularly in warm, humid climates. Dental disease requires attention. As a relatively rare breed with limited international breeding, comprehensive health data is still being gathered. The breed's genetic health benefits from its relatively recent development without extreme artificial selection. Tick-borne diseases are a concern in Thailand's tropical climate — appropriate parasite prevention is essential. Ear infections may occur, especially in humid conditions. Obesity should be monitored as they can gain weight if under-exercised. The Thai Kennel Club and breeders in Thailand are working to establish comprehensive health screening protocols. Responsible breeders screen for hips, eyes, and general health.",
+    "health_el": "Τα Μπανγκκαέου είναι γενικά υγιής ράτσα με τυπική διάρκεια ζωής 12–14 χρόνια. Δυσπλασία ισχίου πιο κοινή ανησυχία. Εξάρθρωση επιγονατίδας παρατηρήθηκε. Αλλεργίες μπορεί να αναπτυχθούν στο ζεστό κλίμα. Ως σπάνια ράτσα, τα δεδομένα υγείας συλλέγονται ακόμα. Η γενετική υγεία ωφελείται από πρόσφατη ανάπτυξη. Μολύνσεις αυτιών πιθανές. Οι εκτροφείς ελέγχουν ισχία, μάτια."
+  },
+  {
+    "id": "thai-ridgeback",
+    "slug": "thai-ridgeback",
+    "name_en": "Thai Ridgeback",
+    "name_el": "Ταϊλανδέζικο Ριντζμπάκ",
+    "type": "dog",
+    "origin": "Thailand",
+    "originCode": "TH",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-13 years",
+    "temperament_en": [
+      "Loyal",
+      "Independent",
+      "Protective",
+      "Intelligent",
+      "Reserved"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Ανεξάρτητος",
+      "Προστατευτικός",
+      "Έξυπνος",
+      "Συνεσταλμένος"
+    ],
+    "description_en": "The Thai Ridgeback (Thai: ไทยหลังอาน) is one of only three dog breeds in the world that possess a distinctive dorsal ridge — a strip of hair growing in the opposite direction along the spine, shared only with the Rhodesian Ridgeback and the Phu Quoc Ridgeback. This ancient, primitive breed developed in eastern Thailand over hundreds of years in relative isolation, serving as a versatile village dog used for hunting (cobras, wild boar, and deer), guarding homes, and escorting carts. Standing 51–61 cm and weighing 23–34 kg, the Thai Ridgeback is a muscular, athletic, medium-to-large dog with a smooth, short coat in solid colors of blue (the rarest and most prized), black, red, or fawn. Their ridge can form eight distinct patterns, with the crown (whorl) pattern being most desirable. Thai Ridgebacks have wrinkled foreheads (especially when alert), sickle or sword-shaped tails, and remarkably cat-like characteristics — they are exceptionally clean, dislike water and getting wet, and can jump vertically to remarkable heights. They are one of the most primitive domesticated dog breeds, retaining strong survival instincts from centuries of natural selection in rural Thailand.",
+    "description_el": "Το Ταϊλανδέζικο Ριντζμπάκ είναι μία από τρεις μόνο ράτσες με χαρακτηριστική ράχη — λωρίδα τριχών αντίθετης κατεύθυνσης στη σπονδυλική στήλη. Αρχαία, πρωτόγονη ράτσα από την ανατολική Ταϊλάνδη, χρησιμοποιούνταν για κυνήγι κόμπρας, αγριόχοιρων και φύλαξη. 51–61 εκ. και 23–34 κιλά, μυώδες σε μπλε (σπανιότερο), μαύρο, κόκκινο ή φάουν. Γατοειδή χαρακτηριστικά — καθαρά, αποφεύγουν το νερό, πηδούν σε αξιοσημείωτα ύψη. Ένα από τα πιο πρωτόγονα οικόσιτα σκυλιά.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 1,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Thai Ridgebacks need substantial daily exercise — at least 1 hour of vigorous activity including running, hiking, and active play — and they have remarkable athletic ability including impressive vertical jumping. Secure, high fencing (at least 1.8 meters) is absolutely essential — they can jump extraordinary heights and are capable escape artists. Their short, smooth coat is extremely low-maintenance, requiring only occasional brushing. They are extremely sensitive to cold due to their thin coat and tropical origins — a coat is necessary in cold weather. Training is a significant challenge — they are highly intelligent but exceptionally independent and strong-willed, requiring an experienced handler who can establish respect-based leadership without harsh methods. Early, extensive socialization is absolutely critical — without it, Thai Ridgebacks can become fearful, reactive, or aggressive with strangers and other animals. They can be aggressive toward other dogs, particularly same-sex dogs. They have strong prey drive and may be unreliable with small animals. They bond intensely with their family but may be aloof or suspicious with strangers. They are emphatically not a breed for first-time dog owners.",
+    "care_el": "Τα Ριντζμπάκ χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1 ώρα. Ασφαλής ψηλή περίφραξη απαραίτητη — πηδούν εξαιρετικά ύψη. Κοντό τρίχωμα χαμηλής συντήρησης. Ευαίσθητα στο κρύο. Η εκπαίδευση είναι σημαντική πρόκληση. Η πρώιμη κοινωνικοποίηση απολύτως κρίσιμη. Μπορεί να είναι επιθετικά με σκυλιά. Ισχυρό κυνηγετικό ένστικτο. Εμφατικά όχι για αρχάριους.",
+    "health_en": "Thai Ridgebacks are generally a healthy, robust breed with a typical lifespan of 12–13 years. Dermoid sinus (a neural tube defect creating a tubular skin indentation along the spine) is the most significant breed-specific condition — it is linked to the ridge gene and can require surgical removal if it connects to deeper tissues. All puppies should be examined for dermoid sinus at birth. Hip dysplasia can occur — screening is recommended. Bloat (GDV) is possible in this deep-chested breed. Allergies and skin conditions can develop, particularly in non-tropical climates. Eye conditions should be monitored. Patellar luxation has been reported. The breed's overall genetic health benefits from its natural development over centuries without extreme artificial selection. However, the small breeding population outside Thailand raises concerns about genetic diversity in international lines. They can be sensitive to anesthesia. Dental health requires regular attention. Responsible breeders screen for dermoid sinus, hips, and eyes.",
+    "health_el": "Τα Ριντζμπάκ είναι γενικά υγιής ράτσα με τυπική διάρκεια ζωής 12–13 χρόνια. Ο δερμοειδής κόλπος είναι η σημαντικότερη ειδική πάθηση — συνδέεται με το γονίδιο ράχης. Δυσπλασία ισχίου μπορεί να εμφανιστεί. Το φούσκωμα πιθανό. Αλλεργίες μπορεί να αναπτυχθούν σε μη τροπικά κλίματα. Η γενετική υγεία ωφελείται από φυσική ανάπτυξη. Ο μικρός πληθυσμός εκτός Ταϊλάνδης ανησυχεί. Οι εκτροφείς ελέγχουν δερμοειδή κόλπο, ισχία, μάτια."
+  },
+  {
+    "id": "volpino-italiano",
+    "slug": "volpino-italiano",
+    "name_en": "Volpino Italiano",
+    "name_el": "Βολπίνο Ιταλιανό",
+    "type": "dog",
+    "origin": "Italy",
+    "originCode": "IT",
+    "images": [],
+    "size": "small",
+    "lifespan": "14-16 years",
+    "temperament_en": [
+      "Lively",
+      "Affectionate",
+      "Alert",
+      "Playful",
+      "Loyal"
+    ],
+    "temperament_el": [
+      "Ζωντανός",
+      "Στοργικός",
+      "Επαγρύπνος",
+      "Παιχνιδιάρης",
+      "Πιστός"
+    ],
+    "description_en": "The Volpino Italiano (Italian for 'little fox') is a charming, ancient Italian spitz breed that has been a beloved companion in Italy for over 2,000 years, with depictions appearing on ancient Roman artifacts and Renaissance paintings. Standing only 25–30 cm and weighing 4–5 kg, the Volpino is a small, elegant dog with a profuse, long, stand-off coat in brilliant white (the most common) or red, a foxy face with bright, intelligent eyes, and a plumed tail carried over the back. They were favorites of Italian royalty and aristocracy — Queen Victoria was reportedly gifted Volpini during her visit to Florence, and Michelangelo is said to have owned one. However, the breed also served as a working dog among Italian farmers and cart drivers, who used them as watchdogs — their keen hearing and enthusiastic bark would alert the larger guard dogs (often Mastiffs) to approaching strangers. By the 1960s, the breed had declined to near-extinction with only five known dogs remaining, and dedicated ENCI (Italian Kennel Club) breeders carefully rebuilt the population. Today, while still rare (around 2,000–3,000 worldwide), the Volpino is slowly gaining recognition as a lively, affectionate, and charming family companion.",
+    "description_el": "Το Βολπίνο Ιταλιανό («μικρή αλεπού») είναι αρχαία ιταλική ράτσα σπιτς, σύντροφος στην Ιταλία εδώ και 2.000+ χρόνια. 25–30 εκ. και 4–5 κιλά, μακρύ λευκό ή κόκκινο τρίχωμα, αλεπούδικο πρόσωπο. Αγαπημένα της αριστοκρατίας — η Βασίλισσα Βικτωρία, ο Μιχαήλ Άγγελος αναφέρονται ως ιδιοκτήτες. Χρησιμοποιούνταν επίσης ως φύλακες αγροτών — ειδοποιούσαν τα μεγαλύτερα σκυλιά. Στη δεκαετία 1960, μόλις 5 σκυλιά απέμειναν. Σήμερα σπάνιο (2.000–3.000 παγκοσμίως), ζωηρός, στοργικός σύντροφος.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 1
+    },
+    "cost_annual_usd": "$500-800",
+    "care_en": "Volpini Italiani need moderate daily exercise — about 30–40 minutes of walks, play, and mental stimulation — and they enjoy games, tricks, and interactive activities with their families. Their long, profuse coat requires regular brushing at least two to three times per week to prevent matting and maintain its beautiful appearance; surprisingly, the coat has a relatively harsh texture that doesn't tangle as easily as softer-coated breeds. They are vocal dogs that bark enthusiastically at perceived intrusions — training a 'quiet' command is important, especially in apartments. They are intelligent, eager to please, and respond well to positive training methods — they enjoy learning tricks and can be quite trainable for a small spitz breed. They are extremely people-oriented and bond closely with their families — they can develop separation anxiety if left alone frequently. They make excellent apartment dogs due to their small size and adaptable nature. Early socialization helps build confidence. They get along well with children and other pets when properly introduced. Dental care is particularly important in this small breed.",
+    "care_el": "Τα Βολπίνο χρειάζονται μέτρια καθημερινή άσκηση — 30–40 λεπτά. Βούρτσισμα 2–3 φορές την εβδομάδα. Φωνακλά — εκπαίδευση σημαντική. Έξυπνα και πρόθυμα. Ανθρωποκεντρικά — μπορεί να αναπτύξουν άγχος αποχωρισμού. Εξαιρετικά σκυλιά διαμερίσματος. Τα πάνε καλά με παιδιά και κατοικίδια. Η οδοντική φροντίδα σημαντική.",
+    "health_en": "Volpini Italiani are generally a healthy, long-lived breed with a typical lifespan of 14–16 years. Patellar luxation (slipping kneecaps) is the most common orthopedic concern — screening is recommended. Primary lens luxation (PLL) has been documented in some lines — a DNA test may be available. Dental disease is a significant concern in small breeds — regular dental care including brushing and professional cleanings is essential. Eye conditions including cataracts should be monitored. Legg-Calve-Perthes disease has been reported occasionally. Heart conditions including mitral valve disease should be monitored in older dogs. Allergies can develop in some individuals. The breed's extremely small gene pool (rebuilt from only five dogs) is a concern for long-term genetic health — responsible breeders work to maximize genetic diversity while maintaining breed type. Despite this genetic bottleneck, the breed has maintained remarkably good overall health. Responsible breeders screen for patellae, eyes, cardiac function, and PLL.",
+    "health_el": "Τα Βολπίνο είναι γενικά υγιής, μακρόβια ράτσα με τυπική διάρκεια ζωής 14–16 χρόνια. Εξάρθρωση επιγονατίδας πιο κοινή ανησυχία. Πρωτογενής εξάρθρωση φακού (PLL) τεκμηριώθηκε. Η οδοντική νόσος σημαντική ανησυχία. Καταρράκτης πρέπει να παρακολουθείται. Η μικρή γενετική δεξαμενή (από 5 σκυλιά) ανησυχεί. Παρά τη γενετική στένωση, η υγεία παραμένει καλή. Οι εκτροφείς ελέγχουν επιγονατίδα, μάτια, καρδιά, PLL."
+  },
+  {
+    "id": "xoloitzcuintli",
+    "slug": "xoloitzcuintli",
+    "name_en": "Xoloitzcuintli",
+    "name_el": "Ξολοϊτσκουίντλι",
+    "type": "dog",
+    "origin": "Mexico",
+    "originCode": "MX",
+    "images": [],
+    "size": "medium",
+    "lifespan": "13-18 years",
+    "temperament_en": [
+      "Calm",
+      "Loyal",
+      "Alert",
+      "Composed",
+      "Intelligent"
+    ],
+    "temperament_el": [
+      "Ήρεμος",
+      "Πιστός",
+      "Επαγρύπνος",
+      "Ήρεμος",
+      "Έξυπνος"
+    ],
+    "description_en": "The Xoloitzcuintli (pronounced 'show-low-eats-QUEEN-tlee,' commonly called Xolo) is one of the oldest and rarest dog breeds in the world, with archaeological evidence confirming their existence in Mesoamerica for over 3,500 years. Sacred to the Aztecs, Maya, and other pre-Columbian civilizations, the Xolo was named after the Aztec god Xolotl (god of lightning and death) and was believed to guide the souls of the dead through the underworld to the afterlife. They were also valued as bed warmers (their skin radiates notable warmth), healing dogs (placed against ailing body parts for supposed medicinal benefit), and unfortunately as a food source. The Xolo comes in three sizes — Toy (25–35 cm), Miniature (36–45 cm), and Standard (46–60 cm) — and two coat varieties: hairless (the most distinctive, with smooth, warm skin) and coated (a short, flat coat). Hairless Xolos range in color from black, gray-black, slate, and bronze to red and liver. The breed was declared the national dog of Mexico in 2018. Xolos are calm, composed, loyal, and intelligent dogs that form profound bonds with their families and can be excellent watchdogs — their alertness and protective instinct combined with their striking, otherworldly appearance make them effective deterrents.",
+    "description_el": "Το Ξολοϊτσκουίντλι (Xolo) είναι μία από τις αρχαιότερες ράτσες, με αρχαιολογικά στοιχεία 3.500+ ετών στη Μεσοαμερική. Ιερό για Αζτέκους και Μάγιας, ονομάστηκε από τον θεό Xolotl — πίστευαν ότι οδηγούσε τις ψυχές στον κάτω κόσμο. Σε τρία μεγέθη — Toy, Miniature, Standard — και δύο ποικιλίες: άτριχο (θερμό, λείο δέρμα) και με τρίχωμα. Ανακηρύχθηκε εθνικό σκυλί του Μεξικού 2018. Ήρεμα, σύνθετα, πιστά — σχηματίζουν βαθιούς δεσμούς και είναι εξαιρετικοί φύλακες.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Xolos need moderate daily exercise — about 30–60 minutes depending on size — including walks, play, and mental stimulation. Hairless Xolos require specific skin care: sunscreen (SPF 30+) in sunny weather to prevent sunburn, moisturizing lotion for dry skin, and a warm coat in cold weather since they have no insulation. Their skin can be prone to acne (especially in adolescence), which should be treated with gentle cleansing. Coated Xolos need minimal grooming — just occasional brushing. All Xolos are sensitive, intelligent dogs that respond best to calm, positive training methods — harsh corrections will cause them to shut down or become fearful. Early socialization is very important to prevent excessive wariness of strangers. They bond extremely deeply with their families — often choosing one primary person — and can develop significant separation anxiety. They can be excellent watchdogs with a discerning bark. They are generally quiet indoors and can adapt well to apartment living. They enjoy warmth and often seek sunny spots or burrowing under blankets. They can coexist with other pets when properly socialized.",
+    "care_el": "Τα Ξολο χρειάζονται μέτρια καθημερινή άσκηση — 30–60 λεπτά. Τα άτριχα απαιτούν ειδική φροντίδα δέρματος: αντιηλιακό, ενυδάτωση, παλτό στο κρύο. Ακμή κατά την εφηβεία. Τα τριχωτά χρειάζονται ελάχιστη φροντίδα. Ευαίσθητα — θετική εκπαίδευση μόνο. Πρώιμη κοινωνικοποίηση σημαντική. Δένονται βαθιά, μπορεί να αναπτύξουν άγχος αποχωρισμού. Αγαπούν τη ζέστη. Καλά σε διαμέρισμα.",
+    "health_en": "Xoloitzcuintlis are generally a very healthy, long-lived breed with a remarkable lifespan of 13–18 years. The hairless gene (a dominant gene with incomplete expression) is linked to dental abnormalities in hairless individuals — missing premolars, canines, and incisors are normal and expected; these missing teeth do not affect the dog's quality of life. Skin issues in hairless dogs include acne (usually during adolescence), sunburn (without protection), and dryness. Patellar luxation can occur, particularly in the smaller sizes. Hip dysplasia may develop in the Standard size. Eye conditions should be monitored. Cardiac conditions have been occasionally reported. Allergies can affect some individuals. The breed's overall robust health is attributed to thousands of years of natural selection without extreme artificial breeding — they are considered one of the healthiest purebred dogs. The hairless gene is semi-lethal in homozygous form (two copies cause non-viable embryos), so responsible breeders include coated dogs in breeding programs. Responsible breeders screen for patellae, hips (Standard size), eyes, and cardiac function.",
+    "health_el": "Τα Ξολο είναι γενικά πολύ υγιής, μακρόβια ράτσα με αξιοσημείωτη διάρκεια ζωής 13–18 χρόνια. Το γονίδιο ατριχίας συνδέεται με οδοντικές ανωμαλίες — φυσιολογικό και αναμενόμενο. Δερματικά ζητήματα σε άτριχα: ακμή, ηλιακό έγκαυμα, ξηρότητα. Εξάρθρωση επιγονατίδας στα μικρά μεγέθη. Η γενική υγεία οφείλεται σε χιλιετίες φυσικής επιλογής. Το γονίδιο ατριχίας είναι ημιθανατηφόρο ομόζυγο — υπεύθυνοι εκτροφείς συμπεριλαμβάνουν τριχωτά. Οι εκτροφείς ελέγχουν επιγονατίδα, ισχία, μάτια, καρδιά."
+  }
+]

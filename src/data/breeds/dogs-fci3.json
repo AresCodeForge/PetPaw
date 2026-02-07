@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "airedale-terrier",
+    "slug": "airedale-terrier",
+    "name_en": "Airedale Terrier",
+    "name_el": "Άιρεντεϊλ Τεριέ",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "large",
+    "lifespan": "10-13 years",
+    "temperament_en": [
+      "Intelligent",
+      "Outgoing",
+      "Friendly",
+      "Courageous",
+      "Confident"
+    ],
+    "temperament_el": [
+      "Έξυπνος",
+      "Εξωστρεφής",
+      "Φιλικός",
+      "Θαρραλέος",
+      "Σίγουρος"
+    ],
+    "description_en": "The Airedale Terrier is the largest of all terrier breeds, standing up to 61 cm at the shoulder and weighing 20–30 kg, earning them the proud title 'King of Terriers.' Developed in the mid-19th century in the Aire Valley of Yorkshire, England, by working-class sportsmen who crossed the now-extinct Old English Black and Tan Terrier with the Otterhound to create a versatile dog capable of hunting otters and rats along the River Aire and its tributaries. Airedales quickly proved themselves as remarkably versatile working dogs, serving with distinction in both World Wars as messenger dogs, sentries, search and rescue workers, and Red Cross casualty dogs — the legendary Airedale 'Jack' was posthumously awarded the Victoria Cross for delivering a vital message through enemy fire despite mortal wounds. They have also served as police dogs, guard dogs, and big-game hunters in Africa and India. Airedales are intelligent, confident, and spirited with a characteristic blend of terrier tenacity and good humor — they are loyal and affectionate with their families, excellent with children when raised with them, and make outstanding watchdogs with a deep, authoritative bark that belies their medium-large size.",
+    "description_el": "Το Άιρεντεϊλ Τεριέ είναι το μεγαλύτερο από όλα τα τεριέ, φτάνοντας τα 61 εκ. στον ώμο και ζυγίζοντας 20–30 κιλά, κερδίζοντας τον τίτλο «Βασιλιάς των Τεριέ». Αναπτύχθηκε στα μέσα του 19ου αιώνα στην κοιλάδα Aire της Γιόρκσιρ στην Αγγλία, διασταυρώνοντας το εξαφανισμένο Old English Black and Tan Terrier με το Otterhound. Τα Άιρεντεϊλ αποδείχθηκαν γρήγορα εξαιρετικά ευέλικτα εργατικά σκυλιά, υπηρετώντας με διάκριση στους δύο Παγκόσμιους Πολέμους ως αγγελιαφόρα, φρουροί και σκύλοι διάσωσης — ο θρυλικός Airedale «Jack» τιμήθηκε μεταθανατίως με το Victoria Cross. Χρησιμοποιήθηκαν επίσης ως αστυνομικοί σκύλοι και κυνηγοί μεγάλου θηράματος στην Αφρική και την Ινδία. Τα Άιρεντεϊλ είναι έξυπνα, σίγουρα και ζωηρά με χαρακτηριστικό συνδυασμό τεριέ επιμονής και χιούμορ — πιστά και στοργικά με τις οικογένειές τους, εξαιρετικά με τα παιδιά και εξαιρετικοί φύλακες.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Airedale Terriers need substantial daily exercise — at least 1 to 1.5 hours of walks, runs, hikes, or active play — and they thrive with additional mental stimulation through obedience training, agility, barn hunt, or puzzle toys. Their distinctive wiry double coat requires regular professional grooming every 6–8 weeks (hand-stripping preserves proper coat texture for show dogs, while clipping is acceptable for pets) plus weekly brushing at home. They are intelligent and eager to learn but retain the independent terrier spirit, so training should be positive, varied, and engaging — repetitive drills bore them quickly. Early socialization with people, other dogs, and various environments is important to develop their naturally confident, balanced temperament. They can be prone to digging and may chase small animals due to their hunting heritage, so secure fencing is advisable. They adapt to various living situations but are not well-suited to being left alone for long hours without stimulation. Their beard and facial furnishings should be cleaned regularly after meals.",
+    "care_el": "Τα Άιρεντεϊλ Τεριέ χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1 έως 1,5 ώρες βόλτων, τρεξίματος ή ενεργού παιχνιδιού — και ευδοκιμούν με νοητική διέγερση μέσω εκπαίδευσης, ευκινησίας ή παζλ. Το χαρακτηριστικό σκληρό τρίχωμα απαιτεί τακτική επαγγελματική περιποίηση κάθε 6–8 εβδομάδες συν εβδομαδιαίο βούρτσισμα. Είναι έξυπνα αλλά διατηρούν ανεξάρτητο τεριέ πνεύμα, επομένως η εκπαίδευση πρέπει να είναι θετική, ποικίλη και ελκυστική. Η πρώιμη κοινωνικοποίηση είναι σημαντική. Μπορεί να σκάβουν και να κυνηγούν μικρά ζώα λόγω κληρονομιάς κυνηγιού. Προσαρμόζονται σε διάφορες συνθήκες ζωής αλλά δεν πρέπει να μένουν μόνα χωρίς διέγερση. Η γενειάδα πρέπει να καθαρίζεται μετά τα γεύματα.",
+    "health_en": "Airedale Terriers are generally a healthy, robust breed with a typical lifespan of 10–13 years. Hip dysplasia can occur — OFA screening by breeders is recommended. Hypothyroidism is one of the more common conditions in the breed and is manageable with daily thyroid hormone supplementation once diagnosed. Gastric dilatation-volvulus (bloat) can affect this deep-chested breed; feeding two smaller meals and avoiding exercise around mealtimes are prudent precautions. Cardiac conditions including dilated cardiomyopathy have been reported. Skin conditions including allergies, hot spots, and dermatitis can develop; maintaining proper coat care helps prevent skin issues. Von Willebrand's disease (a bleeding disorder) has been documented in some lines. Progressive retinal atrophy (PRA) and cataracts are occasional eye concerns. Responsible breeders screen for hip, cardiac, and thyroid conditions.",
+    "health_el": "Τα Άιρεντεϊλ Τεριέ είναι γενικά υγιή, ανθεκτική ράτσα με τυπική διάρκεια ζωής 10–13 χρόνια. Η δυσπλασία ισχίου μπορεί να εμφανιστεί — ο έλεγχος OFA συνιστάται. Ο υποθυρεοειδισμός είναι μία από τις πιο κοινές παθήσεις και αντιμετωπίζεται με καθημερινή φαρμακευτική αγωγή. Το φούσκωμα (GDV) μπορεί να επηρεάσει αυτή τη ράτσα με βαθύ στήθος· η σίτιση μικρότερων γευμάτων είναι συνετή. Καρδιακές παθήσεις συμπεριλαμβανομένης DCM έχουν αναφερθεί. Δερματικές παθήσεις και αλλεργίες μπορεί να αναπτυχθούν. Η νόσος von Willebrand έχει τεκμηριωθεί. Η PRA και ο καταρράκτης είναι περιστασιακές οφθαλμικές ανησυχίες. Οι υπεύθυνοι εκτροφείς ελέγχουν για ισχίο, καρδιά και θυρεοειδή."
+  },
+  {
+    "id": "american-staffordshire-terrier",
+    "slug": "american-staffordshire-terrier",
+    "name_en": "American Staffordshire Terrier",
+    "name_el": "Αμερικανικό Στάφορντσιρ Τεριέ",
+    "type": "dog",
+    "origin": "United States",
+    "originCode": "US",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-16 years",
+    "temperament_en": [
+      "Loyal",
+      "Confident",
+      "Courageous",
+      "Friendly",
+      "Intelligent"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Σίγουρος",
+      "Θαρραλέος",
+      "Φιλικός",
+      "Έξυπνος"
+    ],
+    "description_en": "The American Staffordshire Terrier (AmStaff) was developed in the United States in the late 19th and early 20th centuries from crosses of Bulldogs and terriers that were brought to America by British immigrants. While their ancestors were unfortunately used in bull-baiting and dog fighting in England, American breeders deliberately selected for a larger, more stable companion dog, and in 1936 the AKC recognized the breed as the Staffordshire Terrier (later renamed American Staffordshire Terrier in 1972 to distinguish it from the smaller British Staffordshire Bull Terrier). Well-bred AmStaffs are loyal, confident, and genuinely affectionate family dogs — they are often described as 'people dogs' who form deep bonds with every family member and are historically known for their exceptional gentleness with children, earning the early nickname 'nanny dog.' They are muscular, stocky, and athletically built, weighing 25–35 kg, with a broad head and powerful jaws, yet their typical demeanor is friendly, eager to please, and surprisingly sensitive. AmStaffs served as mascots during both World Wars, and the iconic RCA dog Petey from 'The Little Rascals' was an American Staffordshire Terrier. They require responsible, knowledgeable ownership and are subject to breed-specific legislation in some jurisdictions.",
+    "description_el": "Το Αμερικανικό Στάφορντσιρ Τεριέ (AmStaff) αναπτύχθηκε στις ΗΠΑ στα τέλη του 19ου και αρχές του 20ού αιώνα από διασταυρώσεις Μπουλντόγκ και τεριέ. Ενώ οι πρόγονοί τους χρησιμοποιήθηκαν δυστυχώς σε αγώνες, οι Αμερικανοί εκτροφείς επέλεξαν σκόπιμα μεγαλύτερο, πιο σταθερό σκύλο συντροφιάς. Τα καλά εκτρεφόμενα AmStaff είναι πιστοί, σίγουροι και γνήσια στοργικοί οικογενειακοί σκύλοι — περιγράφονται συχνά ως «σκύλοι ανθρώπων» που δημιουργούν βαθιούς δεσμούς με κάθε μέλος. Είναι μυώδη, κοντόσωμα και αθλητικά, 25–35 κιλά, με πλατύ κεφάλι, αλλά η τυπική συμπεριφορά τους είναι φιλική, πρόθυμη και εκπληκτικά ευαίσθητη. Τα AmStaff υπηρέτησαν ως μασκότ στους δύο Παγκόσμιους Πολέμους, και ο εμβληματικός σκύλος Petey από τους «Little Rascals» ήταν AmStaff. Απαιτούν υπεύθυνη, γνώστη ιδιοκτησία και υπόκεινται σε νομοθεσία ειδική ράτσας σε ορισμένες περιοχές.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "American Staffordshire Terriers need regular daily exercise — at least 1 to 1.5 hours of walks, runs, play sessions, or structured activities like agility, weight-pulling, or obedience — and they excel when given a job to channel their energy and intelligence. Their short, glossy coat is extremely easy to maintain with weekly brushing. Early, extensive, and ongoing socialization with people of all ages, other dogs, and various environments is absolutely critical for this breed — a well-socialized AmStaff is a joy, while an unsocialized one can be challenging. Positive, consistent training from an experienced handler works best; they are intelligent, eager to please, and respond wonderfully to reward-based methods. They can be strong and exuberant, so leash manners and impulse control should be priorities. They may have dog-selectivity or dog-aggression, particularly with same-sex dogs, so careful introductions and management are important. They thrive as indoor family members and are sensitive to being isolated or left alone. Check local breed-specific legislation before acquiring one.",
+    "care_el": "Τα Αμερικανικά Στάφορντσιρ Τεριέ χρειάζονται τακτική καθημερινή άσκηση — τουλάχιστον 1 έως 1,5 ώρες βόλτων, τρεξίματος ή δομημένων δραστηριοτήτων — και διαπρέπουν με νοητική πρόκληση. Το κοντό, γυαλιστερό τρίχωμα είναι πολύ εύκολο στη συντήρηση. Η πρώιμη, εκτενής κοινωνικοποίηση είναι απολύτως κρίσιμη. Η θετική, σταθερή εκπαίδευση από έμπειρο χειριστή λειτουργεί καλύτερα· ανταποκρίνονται υπέροχα σε μεθόδους ανταμοιβής. Μπορεί να εμφανίσουν επιλεκτικότητα ή επιθετικότητα προς σκυλιά, ειδικά του ίδιου φύλου. Ευδοκιμούν ως μέλη της οικογένειας στο εσωτερικό. Ελέγξτε τοπική νομοθεσία ειδική ράτσας πριν την απόκτηση.",
+    "health_en": "American Staffordshire Terriers are generally robust dogs with a typical lifespan of 12–16 years. Hip and elbow dysplasia can occur — OFA screening by breeders is recommended. Cardiac conditions, particularly congenital heart disease, are a significant concern; cardiac screening by a veterinary cardiologist is advisable. Cerebellar ataxia, a neurological condition causing loss of coordination, has been identified in the breed and a DNA test is available. Skin allergies (both environmental and food-related) are relatively common and may require ongoing management through diet, medication, or immunotherapy. Hypothyroidism can develop and is manageable with medication. Cranial cruciate ligament tears can occur in active dogs. Demodicosis (demodectic mange) can affect young dogs. Progressive retinal atrophy (PRA) and cataracts have been reported. Responsible breeders test for cardiac conditions, cerebellar ataxia, hips, and thyroid function.",
+    "health_el": "Τα Αμερικανικά Στάφορντσιρ Τεριέ είναι γενικά ανθεκτικά σκυλιά με τυπική διάρκεια ζωής 12–16 χρόνια. Η δυσπλασία ισχίου μπορεί να εμφανιστεί — ο έλεγχος OFA συνιστάται. Οι καρδιακές παθήσεις, ιδιαίτερα η συγγενής καρδιακή νόσος, είναι σημαντική ανησυχία· συνιστάται καρδιακός έλεγχος. Η παρεγκεφαλιδική αταξία, νευρολογική πάθηση, έχει αναγνωριστεί και υπάρχει τεστ DNA. Δερματικές αλλεργίες είναι σχετικά κοινές και μπορεί να απαιτούν συνεχή διαχείριση. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Ρήξεις χιαστών συνδέσμων μπορεί να εμφανιστούν. Η δεμοδηκίωση μπορεί να επηρεάσει νεαρά σκυλιά. PRA και καταρράκτης έχουν αναφερθεί. Οι υπεύθυνοι εκτροφείς ελέγχουν για καρδιά, παρεγκεφαλιδική αταξία και ισχία."
+  },
+  {
+    "id": "australian-terrier",
+    "slug": "australian-terrier",
+    "name_en": "Australian Terrier",
+    "name_el": "Αυστραλιανό Τεριέ",
+    "type": "dog",
+    "origin": "Australia",
+    "originCode": "AU",
+    "images": [],
+    "size": "small",
+    "lifespan": "11-15 years",
+    "temperament_en": [
+      "Spirited",
+      "Loyal",
+      "Alert",
+      "Courageous",
+      "Friendly"
+    ],
+    "temperament_el": [
+      "Ζωηρός",
+      "Πιστός",
+      "Επαγρύπνος",
+      "Θαρραλέος",
+      "Φιλικός"
+    ],
+    "description_en": "The Australian Terrier holds the distinction of being the first native breed developed in Australia, created in the early 19th century by British settlers who crossed various terrier breeds they had brought from the British Isles — including the Rough Coated Terrier, Skye Terrier, Dandie Dinmont, Yorkshire Terrier, and Cairn Terrier — to produce a tough, versatile small dog capable of controlling snakes, rats, and other vermin in the harsh Australian outback and goldfields. Despite standing only 25 cm tall and weighing around 6 kg, they are remarkably courageous and were reportedly used as sentries by miners and farmers, barking to alert their owners of intruders or approaching snakes. Australian Terriers have a distinctive rough, weatherproof double coat in blue-and-tan, sandy, or red, with a characteristic ruff of longer hair around the neck that gives them a slightly scruffy, endearing appearance. They are spirited, loyal, and affectionate little dogs that form strong bonds with their families and are known for being one of the more people-oriented terrier breeds — less independent and more eager to please than many of their terrier cousins. They are highly adaptable, thriving equally well in apartments and houses, city and country, provided they receive adequate exercise and companionship.",
+    "description_el": "Το Αυστραλιανό Τεριέ κατέχει τη διάκριση ως η πρώτη γηγενής ράτσα που αναπτύχθηκε στην Αυστραλία, δημιουργημένη στις αρχές του 19ου αιώνα από Βρετανούς εποίκους που διασταύρωσαν διάφορες ράτσες τεριέ για να παράγουν ένα σκληρό, ευέλικτο μικρό σκύλο ικανό να ελέγχει φίδια, αρουραίους και άλλα τρωκτικά στον σκληρό αυστραλιανό ενδοχώρα. Παρά τα μόλις 25 εκ. ύψος και 6 κιλά βάρος, είναι αξιοσημείωτα θαρραλέα. Έχουν χαρακτηριστικό τραχύ, αδιάβροχο τρίχωμα σε μπλε-καφέ, αμμώδες ή κόκκινο. Είναι ζωηρά, πιστά και στοργικά μικρά σκυλιά που δημιουργούν ισχυρούς δεσμούς — λιγότερο ανεξάρτητα και πιο πρόθυμα να ευχαριστήσουν από πολλά τεριέ. Είναι εξαιρετικά προσαρμοστικά, ευδοκιμώντας εξίσου σε διαμερίσματα και σπίτια.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Australian Terriers need moderate daily exercise — about 30–45 minutes of walks and play — and enjoy mental stimulation through training, puzzle toys, and interactive games. Their rough, weatherproof double coat requires weekly brushing to prevent tangles and occasional hand-stripping or trimming every few months to maintain proper coat texture. They are intelligent and generally more willing to please than many terrier breeds, but still have an independent streak — positive, consistent training with short, varied sessions works best. Early socialization with people, other dogs, and various environments helps develop their naturally friendly disposition. They have a strong prey drive and will chase small animals, so secure fencing and leash control are important. They can be prone to digging — providing a designated digging area can help redirect this behavior. They adapt remarkably well to apartment living due to their small size and moderate energy, provided they receive sufficient daily exercise and companionship. They may be vocal and alert bark at visitors.",
+    "care_el": "Τα Αυστραλιανά Τεριέ χρειάζονται μέτρια καθημερινή άσκηση — περίπου 30–45 λεπτά βόλτων και παιχνιδιού — και απολαμβάνουν νοητική διέγερση μέσω εκπαίδευσης και παζλ. Το τραχύ τρίχωμα απαιτεί εβδομαδιαίο βούρτσισμα και περιστασιακό hand-stripping. Είναι έξυπνα και πιο πρόθυμα να ευχαριστήσουν από πολλά τεριέ, αλλά διατηρούν ανεξάρτητη νοοτροπία — η θετική εκπαίδευση λειτουργεί καλύτερα. Η πρώιμη κοινωνικοποίηση βοηθά. Έχουν ισχυρό ένστικτο θήρας και θα κυνηγήσουν μικρά ζώα. Μπορεί να σκάβουν. Προσαρμόζονται εξαιρετικά σε διαμέρισμα λόγω μικρού μεγέθους. Μπορεί να γαβγίζουν σε επισκέπτες.",
+    "health_en": "Australian Terriers are generally a healthy, long-lived breed with a typical lifespan of 11–15 years. Patellar luxation (slipping kneecaps) is the most common orthopedic concern in the breed. Diabetes mellitus occurs at higher rates in Australian Terriers than in many other breeds and may have a genetic component — monitoring for signs like increased thirst, urination, and weight loss is important. Legg-Calve-Perthes disease (degeneration of the hip joint) can affect young dogs. Progressive retinal atrophy (PRA) has been documented; genetic testing and eye screening are available. Thyroid conditions including hypothyroidism can develop. Allergies and skin conditions may occur, though proper coat care helps maintain skin health. Dental disease is a concern in small breeds — regular brushing and professional cleanings are recommended. Responsible breeders test for patellar luxation, eyes, and thyroid function. With good care, Australian Terriers often live well into their teens.",
+    "health_el": "Τα Αυστραλιανά Τεριέ είναι γενικά υγιή, μακρόβια ράτσα με τυπική διάρκεια ζωής 11–15 χρόνια. Η εξάρθρωση επιγονατίδας είναι η πιο κοινή ορθοπεδική ανησυχία. Ο σακχαρώδης διαβήτης εμφανίζεται σε υψηλότερα ποσοστά — η παρακολούθηση για σημάδια όπως αυξημένη δίψα είναι σημαντική. Η νόσος Legg-Calve-Perthes μπορεί να επηρεάσει νεαρά σκυλιά. Η PRA έχει τεκμηριωθεί· υπάρχουν γενετικοί έλεγχοι. Θυρεοειδικές παθήσεις μπορεί να αναπτυχθούν. Αλλεργίες και δερματικές παθήσεις μπορεί να εμφανιστούν. Η νόσος δοντιών είναι ανησυχία σε μικρές ράτσες. Οι υπεύθυνοι εκτροφείς ελέγχουν για επιγονατίδα, μάτια και θυρεοειδή. Με καλή φροντίδα, ζουν συχνά πέρα από τα 13 χρόνια."
+  },
+  {
+    "id": "bedlington-terrier",
+    "slug": "bedlington-terrier",
+    "name_en": "Bedlington Terrier",
+    "name_el": "Μπέντλινγκτον Τεριέ",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "medium",
+    "lifespan": "11-16 years",
+    "temperament_en": [
+      "Affectionate",
+      "Spirited",
+      "Intelligent",
+      "Good-tempered",
+      "Loyal"
+    ],
+    "temperament_el": [
+      "Στοργικός",
+      "Ζωηρός",
+      "Έξυπνος",
+      "Ήπιος",
+      "Πιστός"
+    ],
+    "description_en": "The Bedlington Terrier is one of the most distinctive-looking dog breeds in the world, with a lamb-like appearance that belies a true terrier's heart — spirited, courageous, and surprisingly fast. Named after the mining town of Bedlington in Northumberland, England, the breed was developed in the early 19th century by miners and nail makers who prized them as fierce vermin hunters, poachers' companions, and even pit-fighting dogs. Their unique appearance features a narrow, pear-shaped head with a distinctive topknot of lighter hair, arched back, tuck-up reminiscent of a Whippet (they do have Whippet ancestry), and a distinctive curly, linty coat that is a mixture of hard and soft hair. Despite their gentle appearance, Bedlingtons are remarkably agile and fast — they can reach impressive speeds and have been described as having 'the heart of a lion' beneath their lamblike exterior. They weigh 7.5–10 kg and stand about 41 cm tall. As companions, they are affectionate, loyal, and entertaining — playful and charming with their families while remaining alert and protective. They tend to be calmer indoors than many terrier breeds and are known for being especially good with children.",
+    "description_el": "Το Μπέντλινγκτον Τεριέ είναι μία από τις πιο χαρακτηριστικές ράτσες στον κόσμο, με εμφάνιση αρνιού που κρύβει μια αληθινή τεριέ καρδιά — ζωηρή, θαρραλέα και εκπληκτικά γρήγορη. Αναπτύχθηκε στις αρχές του 19ου αιώνα στο Μπέντλινγκτον της Νορθάμπερλαντ στην Αγγλία, από ανθρακωρύχους που τα εκτιμούσαν ως κυνηγούς τρωκτικών. Η μοναδική εμφάνιση περιλαμβάνει στενό κεφάλι σε σχήμα αχλαδιού, καμπυλωτή πλάτη παρόμοια με Whippet (έχουν καταγωγή Whippet) και χαρακτηριστικό σγουρό τρίχωμα. Παρά την ήπια εμφάνιση, είναι αξιοσημείωτα ευκίνητα και γρήγορα — περιγράφονται ότι έχουν «καρδιά λιονταριού». Ζυγίζουν 7,5–10 κιλά. Ως σύντροφοι είναι στοργικά, πιστά και διασκεδαστικά — παιχνιδιάρικα με τις οικογένειές τους ενώ παραμένουν προστατευτικά. Είναι ηρεμότερα σε εσωτερικούς χώρους από πολλά τεριέ.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 4,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Bedlington Terriers need moderate daily exercise — about 30–60 minutes of walks, play, and opportunities to run in a safely enclosed area where they can showcase their impressive speed. Their unique linty coat does not shed much but grows continuously and requires professional grooming (clipping or scissoring) every 6–8 weeks to maintain its characteristic lamb-like shape, plus weekly brushing at home to prevent matting. They are intelligent and eager to please, making them one of the more trainable terrier breeds, though they still have an independent streak — positive, consistent training methods work best. Early socialization with various people, dogs, and environments is important. They generally get along better with other dogs than many terrier breeds, though they can be assertive if challenged. They are relatively calm indoors, making them suitable for apartment living with adequate exercise. Their prey drive remains strong, so caution around small pets is advisable. They are sensitive dogs that respond poorly to harsh training — gentle, patient handling brings out their best qualities.",
+    "care_el": "Τα Μπέντλινγκτον Τεριέ χρειάζονται μέτρια καθημερινή άσκηση — περίπου 30–60 λεπτά βόλτων και παιχνιδιού. Το μοναδικό τρίχωμα δεν ρίχνει πολύ αλλά μεγαλώνει συνεχώς και απαιτεί επαγγελματικό κούρεμα κάθε 6–8 εβδομάδες συν εβδομαδιαίο βούρτσισμα. Είναι έξυπνα και πρόθυμα, καθιστώντας τα πιο εκπαιδεύσιμα από πολλά τεριέ. Η πρώιμη κοινωνικοποίηση είναι σημαντική. Τα πάνε γενικά καλύτερα με άλλα σκυλιά από πολλές ράτσες τεριέ. Είναι σχετικά ήρεμα σε εσωτερικούς χώρους. Το ένστικτο θήρας παραμένει ισχυρό. Είναι ευαίσθητα σκυλιά που ανταποκρίνονται άσχημα σε σκληρή εκπαίδευση.",
+    "health_en": "Bedlington Terriers have a typical lifespan of 11–16 years. The most significant breed-specific health concern is copper toxicosis (copper storage disease), a hereditary condition in which the liver cannot properly metabolize copper, leading to its toxic accumulation — a DNA test is available and responsible breeders should screen all breeding stock. Patellar luxation (slipping kneecaps) can occur in the breed. Retinal dysplasia and progressive retinal atrophy (PRA) are eye conditions that have been documented; annual eye examinations are advisable. Renal cortical hypoplasia (kidney disease) has been reported in some lines. Distichiasis (abnormally placed eyelashes) may cause eye irritation. Heart murmurs and cardiac conditions should be monitored. Hypothyroidism can develop. Bedlingtons are considered a hypoallergenic breed due to their low-shedding coat, though no breed is completely hypoallergenic. Reputable breeders test for copper toxicosis, eyes, patellae, and cardiac function.",
+    "health_el": "Τα Μπέντλινγκτον Τεριέ έχουν τυπική διάρκεια ζωής 11–16 χρόνια. Η σημαντικότερη ανησυχία υγείας είναι η τοξίκωση χαλκού, κληρονομική πάθηση κατά την οποία το ήπαρ δεν μπορεί να μεταβολίσει σωστά τον χαλκό — υπάρχει τεστ DNA. Η εξάρθρωση επιγονατίδας μπορεί να εμφανιστεί. Η δυσπλασία αμφιβληστροειδούς και PRA έχουν τεκμηριωθεί· ετήσιες οφθαλμικές εξετάσεις συνιστώνται. Νεφρική υποπλασία έχει αναφερθεί. Η δισκίαση μπορεί να προκαλέσει ερεθισμό ματιών. Καρδιακές παθήσεις πρέπει να παρακολουθούνται. Υποθυρεοειδισμός μπορεί να αναπτυχθεί. Οι αξιόπιστοι εκτροφείς ελέγχουν για τοξίκωση χαλκού, μάτια, επιγονατίδα και καρδιά."
+  },
+  {
+    "id": "border-terrier",
+    "slug": "border-terrier",
+    "name_en": "Border Terrier",
+    "name_el": "Μπόρντερ Τεριέ",
+    "type": "dog",
+    "origin": "United Kingdom",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Affectionate",
+      "Obedient",
+      "Good-tempered",
+      "Alert",
+      "Fearless"
+    ],
+    "temperament_el": [
+      "Στοργικός",
+      "Πειθήνιος",
+      "Ήπιος",
+      "Επαγρύπνος",
+      "Ατρόμητος"
+    ],
+    "description_en": "The Border Terrier is one of the oldest and most natural terrier breeds, developed in the wild, hilly border country between England and Scotland (Cheviot Hills and Northumberland) where they were bred to run alongside foxhounds and bolt foxes from their dens — a job that required a dog that was small enough to go to ground, yet leggy enough to keep pace with mounted huntsmen. First recognized by the Kennel Club in 1920, Border Terriers are small (5.5–7 kg), hardy, and characteristically 'otter-headed' with a broad skull, short muzzle, and dark, keen eyes that give them an alert, intelligent expression. Their rough, dense, wiry double coat provides excellent weather protection and is relatively low-maintenance. Borders are widely regarded as one of the most good-natured and sociable of all terrier breeds — they are affectionate, cheerful, and adaptable dogs that get along well with children, other dogs, and even cats when raised together. Their balanced temperament and moderate size have made them one of the most popular terrier breeds in the UK. They retain a strong working instinct and thrive when given opportunities for active outdoor pursuits.",
+    "description_el": "Το Μπόρντερ Τεριέ είναι μία από τις παλαιότερες και πιο φυσικές ράτσες τεριέ, αναπτυγμένη στα σύνορα Αγγλίας και Σκωτίας όπου εκτράφηκε για να τρέχει δίπλα σε κυνηγετικούς σκύλους. Είναι μικρά (5,5–7 κιλά), σκληρά σκυλιά με χαρακτηριστικό «κεφάλι βίδρας» — πλατύ κρανίο, κοντό ρύγχος και σκούρα, ζωηρά μάτια. Το τραχύ, πυκνό σκληρό τρίχωμα παρέχει εξαιρετική προστασία από τον καιρό. Τα Μπόρντερ θεωρούνται ευρέως ως τα πιο κοινωνικά τεριέ — στοργικά, ευχάριστα και προσαρμοστικά που τα πάνε καλά με παιδιά, άλλα σκυλιά, ακόμα και γάτες. Η ισορροπημένη ιδιοσυγκρασία τους τα έχει καταστήσει δημοφιλή ράτσα στο Ηνωμένο Βασίλειο. Διατηρούν ισχυρό εργατικό ένστικτο.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 5,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Border Terriers need regular daily exercise — about 45–60 minutes of walks, play, and opportunities to explore — and they particularly enjoy hiking, barn hunt, earthdog trials, and agility. Their rough, wiry coat is relatively low-maintenance: weekly brushing and hand-stripping two to three times per year removes the dead undercoat and maintains the coat's proper texture and weatherproofing (clipping is an alternative for pets but softens the coat over time). They are one of the more trainable terrier breeds — intelligent, eager to please, and responsive to positive reinforcement, though they retain some terrier independence. Early socialization is important, particularly with cats and small animals, as they have a strong prey drive that can be difficult to override once triggered. Secure fencing is essential — they are capable diggers and escape artists. They are good apartment dogs when sufficiently exercised, as they tend to be calm and quiet indoors. They are social dogs that do not thrive when left alone for long periods — separation anxiety can develop.",
+    "care_el": "Τα Μπόρντερ Τεριέ χρειάζονται τακτική καθημερινή άσκηση — 45–60 λεπτά βόλτων, παιχνιδιού και εξερεύνησης. Το σκληρό τρίχωμα απαιτεί εβδομαδιαίο βούρτσισμα και hand-stripping 2–3 φορές τον χρόνο. Είναι από τα πιο εκπαιδεύσιμα τεριέ — πρόθυμα και ανταποκρινόμενα σε θετική ενίσχυση. Η πρώιμη κοινωνικοποίηση είναι σημαντική, ειδικά με γάτες. Έχουν ισχυρό ένστικτο θήρας. Χρειάζονται ασφαλή περίφραξη — μπορούν να σκάβουν και να δραπετεύσουν. Είναι ήρεμα σε εσωτερικούς χώρους. Δεν πρέπει να μένουν μόνα για μεγάλα διαστήματα.",
+    "health_en": "Border Terriers are generally a healthy, hardy breed with a typical lifespan of 12–15 years. Canine epileptoid cramping syndrome (CECS), also known as 'Spike's Disease,' is a breed-specific neurological condition that causes episodes resembling seizures or cramping — research is ongoing to determine the exact cause and genetic component. Hip dysplasia can occur, though it is less common than in larger breeds. Patellar luxation (slipping kneecaps) has been documented. Heart conditions, particularly pulmonic stenosis, should be screened for. Progressive retinal atrophy (PRA) and other eye conditions including cataracts have been reported. Allergies and skin conditions can develop. Hypothyroidism may occur. Malocclusion (dental misalignment) can be an issue due to their short muzzle. Seizure disorders beyond CECS have been noted in some lines. Responsible breeders screen for hips, heart, eyes, and patellae. With their naturally robust constitution, Borders often live well into their teens.",
+    "health_el": "Τα Μπόρντερ Τεριέ είναι γενικά υγιή ράτσα με τυπική διάρκεια ζωής 12–15 χρόνια. Το σύνδρομο επιληπτοειδών κράμπων (CECS) ή «νόσος του Spike» είναι νευρολογική πάθηση ειδική της ράτσας. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Η εξάρθρωση επιγονατίδας έχει τεκμηριωθεί. Καρδιακές παθήσεις, ιδιαίτερα πνευμονική στένωση, πρέπει να ελέγχονται. PRA και καταρράκτης έχουν αναφερθεί. Αλλεργίες μπορεί να αναπτυχθούν. Υποθυρεοειδισμός μπορεί να εμφανιστεί. Η κακή σύγκλειση δοντιών μπορεί να είναι πρόβλημα. Οι υπεύθυνοι εκτροφείς ελέγχουν για ισχία, καρδιά, μάτια και επιγονατίδα. Ζουν συχνά μέχρι μεγάλη ηλικία."
+  },
+  {
+    "id": "bull-terrier",
+    "slug": "bull-terrier",
+    "name_en": "Bull Terrier",
+    "name_el": "Μπουλ Τεριέ",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "medium",
+    "lifespan": "11-14 years",
+    "temperament_en": [
+      "Playful",
+      "Devoted",
+      "Active",
+      "Courageous",
+      "Stubborn"
+    ],
+    "temperament_el": [
+      "Παιχνιδιάρης",
+      "Αφοσιωμένος",
+      "Δραστήριος",
+      "Θαρραλέος",
+      "Πεισματάρης"
+    ],
+    "description_en": "The Bull Terrier is instantly recognizable by its unique egg-shaped head with a Roman profile — there is no other dog breed in the world with this distinctive head shape, which is the result of selective breeding by James Hinks of Birmingham, England, in the 1860s. Hinks crossed the old-style Bull and Terrier (used in bull-baiting and dog fighting) with the English White Terrier and Dalmatian to create what he called 'the White Cavalier' — a refined, elegant gladiator. The Bull Terrier is a medium-sized, muscular, powerfully built dog weighing 22–32 kg with a short, dense, glossy coat in white or colored varieties. Despite their fierce historical origins, well-bred modern Bull Terriers are devoted, playful, and enormously entertaining companions — they are famous for their clownish antics, boundless energy, and intense attachment to their families. General George S. Patton owned a Bull Terrier named Willie, and the breed has been prominently featured in advertising, most notably as Spuds MacKenzie and the Target store mascot Bullseye. Bull Terriers require experienced, patient ownership — they are strong-willed, exuberant, and can be destructive when bored or under-exercised. Their devotion to their people is absolute, and they are surprisingly gentle and affectionate in quiet moments.",
+    "description_el": "Το Μπουλ Τεριέ αναγνωρίζεται αμέσως από το μοναδικό κεφάλι σε σχήμα αυγού με ρωμαϊκό προφίλ — δεν υπάρχει άλλη ράτσα με αυτό το χαρακτηριστικό, αποτέλεσμα εκλεκτικής εκτροφής του James Hinks στο Μπέρμιγχαμ στη δεκαετία του 1860. Είναι μεσαίο, μυώδες σκυλί 22–32 κιλών με κοντό, γυαλιστερό τρίχωμα. Παρά τη σκληρή ιστορική καταγωγή, τα σύγχρονα Μπουλ Τεριέ είναι αφοσιωμένα, παιχνιδιάρικα και εξαιρετικά διασκεδαστικά — διάσημα για τις κλόουν αντιδράσεις τους και την έντονη προσκόλληση στις οικογένειές τους. Ο στρατηγός Patton είχε Μπουλ Τεριέ με το όνομα Willie, και η ράτσα χρησιμοποιήθηκε ευρέως στη διαφήμιση ως Spuds MacKenzie και Bullseye. Απαιτούν έμπειρη ιδιοκτησία — είναι ισχυρογνώμονα αλλά η αφοσίωσή τους είναι απόλυτη.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 2,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Bull Terriers need substantial daily exercise — at least 1 to 1.5 hours of vigorous activity including walks, runs, play, and interactive games — and they absolutely require mental stimulation to prevent the destructive boredom behaviors (chewing, digging, spinning) for which the breed is notorious. Their short, flat coat is very low-maintenance, needing only weekly brushing with a soft bristle brush. Training requires patience, humor, and consistency — Bull Terriers are intelligent but famously stubborn and easily bored by repetitive commands; short, varied, reward-based training sessions work best. Early, extensive socialization with people, other dogs, and various environments is critical. They can be dog-aggressive, particularly with same-sex dogs, so careful management and introductions are essential. They are not suitable for first-time owners due to their strength, willfulness, and potential for behavioral challenges. They thrive as indoor family dogs and should not be left alone for long periods — they can be extremely destructive when lonely or bored. Bull Terriers may develop compulsive behaviors like tail-chasing if under-stimulated.",
+    "care_el": "Τα Μπουλ Τεριέ χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1–1,5 ώρες έντονης δραστηριότητας — και απαιτούν νοητική διέγερση για πρόληψη καταστροφικών συμπεριφορών. Το κοντό τρίχωμα είναι χαμηλής συντήρησης. Η εκπαίδευση απαιτεί υπομονή και χιούμορ — είναι πεισματάρηδες αλλά δεν ανταποκρίνονται σε σκληρή εκπαίδευση. Η πρώιμη εκτενής κοινωνικοποίηση είναι κρίσιμη. Μπορεί να εμφανίσουν επιθετικότητα προς σκυλιά. Δεν κατάλληλα για πρωτάρηδες ιδιοκτήτες. Ευδοκιμούν ως σκυλιά εσωτερικού χώρου. Μπορεί να αναπτύξουν ψυχαναγκαστικές συμπεριφορές αν δεν διεγείρονται.",
+    "health_en": "Bull Terriers have a typical lifespan of 11–14 years. Deafness is a significant concern, especially in white Bull Terriers — BAER testing (Brainstem Auditory Evoked Response) should be performed on all puppies. Hereditary nephritis (kidney disease) is a serious breed-specific condition that can lead to kidney failure — a UPC (urine protein-to-creatinine ratio) test should be done annually. Heart conditions, particularly mitral valve disease and subaortic stenosis, should be screened for by a veterinary cardiologist. Patellar luxation occurs in the breed. Skin allergies, including atopic dermatitis, contact allergies, and food allergies, are very common and may require lifelong management. Zinc deficiency causing acrodermatitis has been reported. Compulsive tail-chasing and spinning behavior may have a neurological component and should be evaluated if persistent. Lens luxation is an eye condition that can occur. Lethal acrodermatitis is a fatal genetic condition in puppies — genetic testing is available. Responsible breeders test for BAER, kidneys, heart, and patellae.",
+    "health_el": "Τα Μπουλ Τεριέ έχουν τυπική διάρκεια ζωής 11–14 χρόνια. Η κώφωση είναι σημαντική ανησυχία, ειδικά στα λευκά — το τεστ BAER πρέπει να γίνεται σε όλα τα κουτάβια. Η κληρονομική νεφρίτιδα μπορεί να οδηγήσει σε νεφρική ανεπάρκεια — ετήσιο τεστ UPC συνιστάται. Καρδιακές παθήσεις πρέπει να ελέγχονται. Η εξάρθρωση επιγονατίδας εμφανίζεται. Δερματικές αλλεργίες είναι πολύ κοινές και μπορεί να απαιτούν δια βίου διαχείριση. Η ψυχαναγκαστική κυνηγητό ουράς μπορεί να έχει νευρολογικό υπόβαθρο. Η εξάρθρωση φακού μπορεί να εμφανιστεί. Η θανατηφόρα ακροδερματίτιδα είναι γενετική πάθηση — υπάρχει τεστ. Οι υπεύθυνοι εκτροφείς ελέγχουν BAER, νεφρά, καρδιά και επιγονατίδα."
+  },
+  {
+    "id": "bull-terrier-miniature",
+    "slug": "bull-terrier-miniature",
+    "name_en": "Bull Terrier (Miniature)",
+    "name_el": "Μπουλ Τεριέ (Μικροσκοπικό)",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "11-14 years",
+    "temperament_en": [
+      "Playful",
+      "Devoted",
+      "Energetic",
+      "Courageous",
+      "Stubborn"
+    ],
+    "temperament_el": [
+      "Παιχνιδιάρης",
+      "Αφοσιωμένος",
+      "Ενεργητικός",
+      "Θαρραλέος",
+      "Πεισματάρης"
+    ],
+    "description_en": "The Miniature Bull Terrier is essentially a smaller version of the standard Bull Terrier, sharing the same unique egg-shaped head, muscular build, and spirited personality in a more compact package — standing no more than 35.5 cm tall and weighing 11–15 kg. The breed developed alongside the standard Bull Terrier in 19th-century England; smaller specimens were always present in Bull Terrier litters, and breeders selectively bred these smaller dogs to create a distinct variety while maintaining all the characteristics that make the Bull Terrier so distinctive. Miniature Bull Terriers are playful, devoted, and energetic with the same clownish, entertaining personality as their larger counterparts — they are known for their 'bully runs,' spontaneous bursts of frenzied energy where they race around at full speed. Despite their smaller stature, they retain the Bull Terrier's courage, determination, and strong personality. They are affectionate, loyal family dogs that thrive on human companionship and are good with children when raised with them. Their smaller size makes them somewhat more adaptable to apartment living, though they are every bit as energetic and demanding as the standard size.",
+    "description_el": "Το Μικροσκοπικό Μπουλ Τεριέ είναι ουσιαστικά μικρότερη εκδοχή του τυπικού Μπουλ Τεριέ, μοιράζοντας το ίδιο μοναδικό κεφάλι, μυώδη σωματική διάπλαση και ζωηρή προσωπικότητα σε πιο συμπαγή μορφή — μέχρι 35,5 εκ. ύψος και 11–15 κιλά βάρος. Η ράτσα αναπτύχθηκε παράλληλα με το τυπικό Μπουλ Τεριέ στην Αγγλία του 19ου αιώνα. Είναι παιχνιδιάρικα, αφοσιωμένα και ενεργητικά με τον ίδιο κλόουν χαρακτήρα — γνωστά για τα «bully runs», ξαφνικές εκρήξεις ενέργειας. Παρά το μικρότερο μέγεθος, διατηρούν το θάρρος και τον ισχυρό χαρακτήρα. Είναι στοργικά, πιστά οικογενειακά σκυλιά. Το μικρότερο μέγεθός τους τα κάνει κάπως πιο προσαρμοστικά σε διαμέρισμα, αλλά είναι εξίσου ενεργητικά.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 2,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Miniature Bull Terriers need plenty of daily exercise despite their compact size — at least 45–60 minutes of vigorous walks, play, and interactive games, plus mental stimulation through training and puzzle toys to prevent destructive behaviors. Their short, flat coat requires only weekly brushing with a soft brush or grooming mitt. Training requires the same patience and humor needed for the standard Bull Terrier — they are intelligent but stubborn, and positive, varied training sessions with high-value rewards work best. Early, extensive socialization is essential to develop a well-rounded temperament. They may be dog-selective, so careful introductions to other dogs are important. They should not be left alone for long periods — they bond intensely with their families and can suffer from separation anxiety, leading to destructive behavior. Regular dental care is important. They may develop the same compulsive spinning and tail-chasing behaviors as the standard size if under-stimulated. Their smaller size can make them suitable for apartment living with adequate exercise.",
+    "care_el": "Τα Μικροσκοπικά Μπουλ Τεριέ χρειάζονται πολλή άσκηση παρά το μικρό μέγεθος — τουλάχιστον 45–60 λεπτά βόλτων και παιχνιδιού, συν νοητική διέγερση. Το κοντό τρίχωμα χρειάζεται μόνο εβδομαδιαίο βούρτσισμα. Η εκπαίδευση απαιτεί υπομονή — είναι πεισματάρηδες αλλά ανταποκρίνονται σε θετικές μεθόδους. Η πρώιμη κοινωνικοποίηση είναι απαραίτητη. Δεν πρέπει να μένουν μόνα — μπορεί να αναπτύξουν άγχος αποχωρισμού. Η τακτική οδοντική φροντίδα είναι σημαντική. Μπορεί να αναπτύξουν ψυχαναγκαστικές συμπεριφορές αν δεν διεγείρονται.",
+    "health_en": "Miniature Bull Terriers share many health concerns with the standard Bull Terrier and have a typical lifespan of 11–14 years. Primary lens luxation (PLL) is a significant breed-specific concern — the lens of the eye dislocates, potentially causing painful secondary glaucoma and blindness; a DNA test is available and all breeding dogs should be tested. Deafness, particularly in white individuals, should be assessed with BAER testing. Heart conditions including mitral valve disease require cardiac screening. Hereditary nephritis (kidney disease) can occur — annual UPC testing is advisable. Patellar luxation affects some dogs in the breed. Skin allergies are common and may require dietary management or medication. Compulsive tail-chasing behavior should be monitored. They may be predisposed to intervertebral disc disease due to their compact build. Responsible breeders test for PLL, BAER, heart, kidneys, and patellae.",
+    "health_el": "Τα Μικροσκοπικά Μπουλ Τεριέ μοιράζονται πολλές ανησυχίες υγείας με το τυπικό Μπουλ Τεριέ με τυπική διάρκεια ζωής 11–14 χρόνια. Η πρωτοπαθής εξάρθρωση φακού (PLL) είναι σημαντική ανησυχία — υπάρχει τεστ DNA. Η κώφωση, ειδικά στα λευκά, πρέπει να αξιολογείται με BAER. Καρδιακές παθήσεις απαιτούν έλεγχο. Η κληρονομική νεφρίτιδα μπορεί να εμφανιστεί. Η εξάρθρωση επιγονατίδας επηρεάζει μερικά σκυλιά. Δερματικές αλλεργίες είναι κοινές. Η ψυχαναγκαστική κυνηγητό ουράς πρέπει να παρακολουθείται. Οι υπεύθυνοι εκτροφείς ελέγχουν PLL, BAER, καρδιά, νεφρά και επιγονατίδα."
+  },
+  {
+    "id": "cairn-terrier",
+    "slug": "cairn-terrier",
+    "name_en": "Cairn Terrier",
+    "name_el": "Κερν Τεριέ",
+    "type": "dog",
+    "origin": "Scotland",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "13-15 years",
+    "temperament_en": [
+      "Alert",
+      "Cheerful",
+      "Hardy",
+      "Intelligent",
+      "Assertive"
+    ],
+    "temperament_el": [
+      "Επαγρύπνος",
+      "Ευχάριστος",
+      "Σκληραγωγημένος",
+      "Έξυπνος",
+      "Αποφασιστικός"
+    ],
+    "description_en": "The Cairn Terrier is one of Scotland's oldest and most natural working terrier breeds, with a history stretching back over 200 years to the Western Highlands and the Isle of Skye, where they were indispensable to farmers and crofters for bolting foxes, otters, and other vermin from the stone cairns (piles of rocks used as landmarks and boundary markers) that dot the Scottish landscape — hence their name. They are small (6–7.5 kg), sturdy, and surprisingly tough dogs with a shaggy, weatherproof double coat in a range of colors including cream, wheaten, red, sandy, grey, brindled, and nearly black. Cairns are alert, cheerful, and endlessly curious with a confident, independent spirit that belies their diminutive size. They became one of the most famous dog breeds in the world when a Cairn Terrier named Terry played Toto in the 1939 film 'The Wizard of Oz.' Despite their popularity as companion dogs, Cairns retain strong working instincts and remain game, fearless little dogs with a keen sense of their surroundings. They are excellent family dogs — loyal, affectionate, and playful — that adapt well to various living situations and are known for their long, healthy lifespans.",
+    "description_el": "Το Κερν Τεριέ είναι μία από τις παλαιότερες ράτσες τεριέ της Σκωτίας, με ιστορία πάνω από 200 χρόνια στα Δυτικά Υψίπεδα και τη Νήσο Σκάι, όπου ήταν απαραίτητα σε αγρότες για εκδίωξη αλεπούδων και τρωκτικών από τους λίθινους «cairns» (σωρούς πετρών) — εξ ου και το όνομα. Είναι μικρά (6–7,5 κιλά), γερά σκυλιά με αδιάβροχο τρίχωμα σε πολλά χρώματα. Τα Κερν είναι επαγρύπνα, ευχάριστα και ατελείωτα περίεργα. Έγιναν μία από τις πιο διάσημες ράτσες παγκοσμίως όταν ένα Κερν Τεριέ ονόματι Terry υποδύθηκε τον Toto στον «Μάγο του Οζ» (1939). Παρά τη δημοτικότητά τους ως σύντροφοι, διατηρούν ισχυρά εργατικά ένστικτα. Είναι εξαιρετικά οικογενειακά σκυλιά — πιστά, στοργικά και παιχνιδιάρικα — γνωστά για τη μακρά διάρκεια ζωής τους.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Cairn Terriers need moderate daily exercise — about 30–45 minutes of walks, play, and exploration time, plus mental stimulation through training and interactive toys. Their harsh, weatherproof double coat requires weekly brushing and hand-stripping two to three times per year to maintain proper texture (professional grooming or clipping is an alternative for pets). They are intelligent but retain classic terrier independence — positive training with patience and variety works best, and they can become bored with repetitive exercises. Early socialization with various people, dogs, and environments helps develop their naturally confident temperament. They have a strong prey drive and will enthusiastically chase squirrels, rabbits, and rodents, so secure fencing and leash walking near roads are essential. They are diggers by nature — providing a designated digging area can help. They adapt well to apartment living due to their small size and moderate energy needs, provided they get sufficient daily exercise. They can be vocal barkers, so training a 'quiet' command early is helpful. They generally get along well with other dogs but may be assertive with dogs their own size.",
+    "care_el": "Τα Κερν Τεριέ χρειάζονται μέτρια καθημερινή άσκηση — 30–45 λεπτά βόλτων και παιχνιδιού. Το σκληρό τρίχωμα απαιτεί εβδομαδιαίο βούρτσισμα και hand-stripping 2–3 φορές τον χρόνο. Είναι έξυπνα αλλά ανεξάρτητα — η θετική εκπαίδευση με ποικιλία λειτουργεί καλύτερα. Η πρώιμη κοινωνικοποίηση βοηθά. Έχουν ισχυρό ένστικτο θήρας. Είναι φυσικοί σκαπανείς. Προσαρμόζονται καλά σε διαμέρισμα. Μπορεί να γαβγίζουν πολύ — η πρώιμη εκπαίδευση βοηθά. Γενικά τα πάνε καλά με άλλα σκυλιά.",
+    "health_en": "Cairn Terriers are generally a healthy, long-lived breed with a typical lifespan of 13–15 years, with many living even longer. Globoid cell leukodystrophy (Krabbe disease) is a fatal neurological condition specific to the breed — a DNA test is available and all breeding dogs should be tested. Patellar luxation (slipping kneecaps) is a common orthopedic concern. Portosystemic liver shunts (abnormal blood vessel connections that bypass the liver) can occur and may require surgical correction. Cataracts and progressive retinal atrophy (PRA) are eye conditions that should be screened for. Allergies and skin conditions, including flea allergy dermatitis, can develop. Craniomandibular osteopathy (CMO or 'lion jaw') — abnormal bone growth in the jaw — can affect puppies but usually resolves by age one. Hypothyroidism can develop with age. Diabetes mellitus has been reported. Von Willebrand's disease (a bleeding disorder) has been documented in some lines. Responsible breeders test for GCL, eyes, patellae, and cardiac function.",
+    "health_el": "Τα Κερν Τεριέ είναι γενικά υγιή, μακρόβια ράτσα με τυπική διάρκεια ζωής 13–15 χρόνια. Η σφαιρική λευκοδυστροφία (νόσος Krabbe) είναι θανατηφόρα νευρολογική πάθηση — υπάρχει τεστ DNA. Η εξάρθρωση επιγονατίδας είναι κοινή. Τα πορτοσυστηματικά ηπατικά shunt μπορεί να εμφανιστούν. Ο καταρράκτης και η PRA πρέπει να ελέγχονται. Αλλεργίες και δερματικές παθήσεις μπορεί να αναπτυχθούν. Η κρανιογναθική οστεοπάθεια μπορεί να επηρεάσει κουτάβια. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Ο σακχαρώδης διαβήτης έχει αναφερθεί. Οι υπεύθυνοι εκτροφείς ελέγχουν για GCL, μάτια, επιγονατίδα και καρδιά."
+  },
+  {
+    "id": "cesky-terrier",
+    "slug": "cesky-terrier",
+    "name_en": "Cesky Terrier",
+    "name_el": "Τσέσκι Τεριέ",
+    "type": "dog",
+    "origin": "Czech Republic",
+    "originCode": "CZ",
+    "images": [],
+    "size": "small",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Calm",
+      "Reserved",
+      "Loyal",
+      "Non-aggressive",
+      "Cheerful"
+    ],
+    "temperament_el": [
+      "Ήρεμος",
+      "Συνεσταλμένος",
+      "Πιστός",
+      "Μη επιθετικός",
+      "Ευχάριστος"
+    ],
+    "description_en": "The Cesky Terrier (also known as the Bohemian Terrier) is one of the rarest terrier breeds in the world and holds the distinction of being the national breed of the Czech Republic. It was created in 1948 by the renowned Czech geneticist and breeder František Horák, who meticulously crossed the Scottish Terrier with the Sealyham Terrier to produce a shorter-legged, narrower-chested terrier that could more easily work in the underground burrows of the Bohemian forest while maintaining a calmer, less aggressive temperament suitable for pack hunting. Cesky Terriers are small (6–10 kg), long-bodied dogs with distinctive silky, slightly wavy coats that are clipped rather than hand-stripped — unique among terrier breeds. Their coat color is particularly unusual: puppies are born black or chocolate and gradually lighten to shades of grey-blue or light coffee brown as they mature. Cesky Terriers are notably calmer, more reserved, and less aggressive than most terrier breeds, making them excellent family companions and apartment dogs. They are loyal and affectionate with their families while being naturally reserved but not aggressive with strangers. With only approximately 600 puppies registered worldwide annually, they remain one of the rarest AKC-recognized breeds.",
+    "description_el": "Το Τσέσκι Τεριέ (γνωστό και ως Βοημικό Τεριέ) είναι μία από τις σπανιότερες ράτσες τεριέ στον κόσμο και η εθνική ράτσα της Τσεχίας. Δημιουργήθηκε το 1948 από τον γενετιστή František Horák, που διασταύρωσε μεθοδικά το Σκωτσέζικο Τεριέ με το Σίληχαμ Τεριέ. Είναι μικρά (6–10 κιλά) σκυλιά με χαρακτηριστικό μεταξένιο, ελαφρώς κυματιστό τρίχωμα που κουρεύεται αντί hand-stripping — μοναδικό στα τεριέ. Το χρώμα τριχώματος είναι ασυνήθιστο: τα κουτάβια γεννιούνται μαύρα ή σοκολατί και ανοίγουν σε γκρι-μπλε ή ανοιχτό καφέ. Τα Τσέσκι είναι αισθητά ηρεμότερα και λιγότερο επιθετικά από τα περισσότερα τεριέ, καθιστώντας τα εξαιρετικούς συντρόφους. Με μόνο 600 κουτάβια ετησίως παγκοσμίως, παραμένουν εξαιρετικά σπάνια.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 4,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Cesky Terriers need moderate daily exercise — about 30–45 minutes of walks and play — making them one of the more manageable terrier breeds in terms of energy. Their long, silky coat requires professional clipping every 6–8 weeks (in the breed-specific pattern that leaves longer hair on the legs, belly, and face) and regular brushing several times a week to prevent matting, especially in the longer furnishings. They are intelligent, eager to please, and considerably more trainable than most terrier breeds — positive, gentle training methods produce excellent results. Early socialization is important, particularly because they can be reserved with strangers — exposing them to various people and situations helps develop their naturally calm, confident temperament. They generally get along well with other dogs and can live peacefully with cats when raised together. They are excellent apartment dogs due to their moderate energy, calm indoor demeanor, and relatively quiet nature. They enjoy food and can be prone to weight gain, so monitoring diet and portion sizes is important. Their facial hair may need regular cleaning.",
+    "care_el": "Τα Τσέσκι Τεριέ χρειάζονται μέτρια καθημερινή άσκηση — 30–45 λεπτά βόλτων και παιχνιδιού. Το μακρύ μεταξένιο τρίχωμα απαιτεί επαγγελματικό κούρεμα κάθε 6–8 εβδομάδες και βούρτσισμα αρκετές φορές την εβδομάδα. Είναι έξυπνα και πρόθυμα — πιο εκπαιδεύσιμα από τα περισσότερα τεριέ. Η πρώιμη κοινωνικοποίηση είναι σημαντική λόγω επιφυλακτικότητας με ξένους. Γενικά τα πάνε καλά με άλλα σκυλιά. Είναι εξαιρετικά σκυλιά διαμερίσματος. Μπορεί να πάρουν βάρος εύκολα — η παρακολούθηση διατροφής είναι σημαντική.",
+    "health_en": "Cesky Terriers are generally a healthy breed with a typical lifespan of 12–15 years. Scottie cramp (a muscle movement disorder inherited from their Scottish Terrier ancestry) can occur — affected dogs experience episodes of muscle stiffness and cramping during exercise or excitement. Patellar luxation (slipping kneecaps) is an orthopedic concern. Progressive retinal atrophy (PRA) and other eye conditions should be screened for. Hip dysplasia can occur, though less commonly than in larger breeds. Cardiac conditions including dilated cardiomyopathy have been reported in some lines. Thyroid conditions may develop. Due to the breed's small gene pool, genetic diversity is a concern for breeders — careful breeding practices are essential to maintain breed health. The breed's relative rarity means that health data is less comprehensive than for more common breeds. Responsible breeders test for eyes, patellae, cardiac function, and Scottie cramp where testing is available.",
+    "health_el": "Τα Τσέσκι Τεριέ είναι γενικά υγιή ράτσα με τυπική διάρκεια ζωής 12–15 χρόνια. Η κράμπα Scotty (κινητική διαταραχή κληρονομημένη από το Σκωτσέζικο Τεριέ) μπορεί να εμφανιστεί. Η εξάρθρωση επιγονατίδας είναι ορθοπεδική ανησυχία. Η PRA πρέπει να ελέγχεται. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Καρδιακές παθήσεις έχουν αναφερθεί. Λόγω μικρής γενετικής δεξαμενής, η γενετική ποικιλομορφία είναι ανησυχία. Οι υπεύθυνοι εκτροφείς ελέγχουν μάτια, επιγονατίδα και καρδιά."
+  },
+  {
+    "id": "dandie-dinmont-terrier",
+    "slug": "dandie-dinmont-terrier",
+    "name_en": "Dandie Dinmont Terrier",
+    "name_el": "Ντάντι Ντίνμοντ Τεριέ",
+    "type": "dog",
+    "origin": "Scotland",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "11-13 years",
+    "temperament_en": [
+      "Independent",
+      "Determined",
+      "Affectionate",
+      "Dignified",
+      "Reserved"
+    ],
+    "temperament_el": [
+      "Ανεξάρτητος",
+      "Αποφασιστικός",
+      "Στοργικός",
+      "Ξεχωριστός",
+      "Συνεσταλμένος"
+    ],
+    "description_en": "The Dandie Dinmont Terrier holds the unique distinction of being the only dog breed named after a fictional character — Dandie Dinmont, a jovial farmer in Sir Walter Scott's 1814 novel 'Guy Mannering' who kept a pack of small terriers. The breed itself, however, is much older, originating in the border country between Scotland and England in the 1700s where they were prized by gypsies and farmers for hunting otters and badgers. Dandies are immediately recognizable by their distinctive appearance: a large, domed head crowned with a soft, silky 'topknot' of hair, large expressive eyes, long low body set on short curved legs, and a unique coat that is a mixture of about two-thirds hard and one-third soft hair, coming in two colors — 'pepper' (dark bluish black to light silvery grey) and 'mustard' (reddish brown to pale fawn). They weigh 8–11 kg and are surprisingly strong and determined for their size. Dandies are one of the rarest terrier breeds, listed as a Vulnerable Native Breed by the Kennel Club, with fewer than 100 puppies registered annually in the UK. They are independent, dignified, and affectionate — calmer and more gentle than many terriers — making them excellent, quiet companions.",
+    "description_el": "Το Ντάντι Ντίνμοντ Τεριέ είναι η μοναδική ράτσα σκύλου που πήρε όνομα από φανταστικό χαρακτήρα — τον Dandie Dinmont στο μυθιστόρημα «Guy Mannering» (1814) του Walter Scott. Η ράτσα προέρχεται από τα σύνορα Σκωτίας-Αγγλίας τον 18ο αιώνα, όπου εκτιμούνταν για κυνήγι βιδρών και ασβών. Αναγνωρίζονται αμέσως από τη μοναδική εμφάνιση: μεγάλο κεφάλι με μεταξένιο «τοπ-νοτ», μεγάλα εκφραστικά μάτια, μακρύ σώμα σε κοντά πόδια και μοναδικό τρίχωμα σε «πιπέρι» ή «μουστάρδα». Ζυγίζουν 8–11 κιλά. Είναι μία από τις σπανιότερες ράτσες τεριέ, με λιγότερα από 100 κουτάβια ετησίως στο ΗΒ. Είναι ανεξάρτητα, αξιοπρεπή και στοργικά — ηρεμότερα από πολλά τεριέ.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 4,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Dandie Dinmont Terriers need moderate daily exercise — about 30–45 minutes of walks and play — and they are one of the calmer terrier breeds, content with a moderate activity level. Their unique coat requires regular professional grooming every 6–8 weeks, including hand-stripping or a combination of stripping and scissoring, plus brushing two to three times per week at home to prevent matting, especially in the softer undercoat. They are intelligent but independent — training requires patience and positive methods, as they can be stubborn and will not respond to forceful techniques. Early socialization is important to prevent them from becoming overly reserved or timid with strangers. They generally get along with other dogs but may be territorial, and they can coexist with cats when raised together. Due to their long backs, they should be discouraged from jumping on and off furniture, and ramps or steps should be provided. They adapt well to apartment living and are relatively quiet for terriers. Weight management is important to protect their long spine — they should be kept lean.",
+    "care_el": "Τα Ντάντι Ντίνμοντ Τεριέ χρειάζονται μέτρια καθημερινή άσκηση — 30–45 λεπτά βόλτων και παιχνιδιού. Το μοναδικό τρίχωμα απαιτεί τακτική επαγγελματική περιποίηση κάθε 6–8 εβδομάδες συν βούρτσισμα 2–3 φορές την εβδομάδα. Είναι έξυπνα αλλά ανεξάρτητα — η εκπαίδευση απαιτεί υπομονή. Η πρώιμη κοινωνικοποίηση είναι σημαντική. Λόγω μακράς πλάτης, πρέπει να αποθαρρύνονται από άλματα. Προσαρμόζονται καλά σε διαμέρισμα. Η διαχείριση βάρους είναι σημαντική για προστασία της σπονδυλικής στήλης.",
+    "health_en": "Dandie Dinmont Terriers have a typical lifespan of 11–13 years. Intervertebral disc disease (IVDD) is a significant concern due to their elongated spine — keeping them lean and preventing jumping from heights helps reduce risk. Glaucoma (increased eye pressure) is a serious breed concern that can lead to blindness if not detected and treated early — regular eye examinations and monitoring for signs of eye pain are important. Hypothyroidism can develop and is manageable with medication. Cushing's disease (hyperadrenocorticism) has been reported in the breed. Patellar luxation can occur. Epilepsy has been documented in some lines. Due to the breed's extreme rarity, the small gene pool presents challenges for maintaining genetic diversity — breeders must balance preserving breed type with maintaining health. Cancer, particularly lymphoma, has been noted as a cause of death in some breed health surveys. Responsible breeders screen for eyes, patellae, and spinal health.",
+    "health_el": "Τα Ντάντι Ντίνμοντ Τεριέ έχουν τυπική διάρκεια ζωής 11–13 χρόνια. Η νόσος μεσοσπονδύλιου δίσκου (IVDD) είναι σημαντική ανησυχία λόγω μακράς σπονδυλικής στήλης. Το γλαύκωμα είναι σοβαρή ανησυχία που μπορεί να οδηγήσει σε τύφλωση — τακτικές οφθαλμικές εξετάσεις είναι σημαντικές. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Η νόσος Cushing έχει αναφερθεί. Η εξάρθρωση επιγονατίδας μπορεί να εμφανιστεί. Η επιληψία έχει τεκμηριωθεί. Λόγω σπανιότητας, η γενετική ποικιλομορφία είναι πρόκληση. Οι υπεύθυνοι εκτροφείς ελέγχουν μάτια, επιγονατίδα και σπονδυλική υγεία."
+  },
+  {
+    "id": "fox-terrier-smooth",
+    "slug": "fox-terrier-smooth",
+    "name_en": "Fox Terrier (Smooth)",
+    "name_el": "Φοξ Τεριέ (Λείο)",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Fearless",
+      "Friendly",
+      "Bold",
+      "Intelligent",
+      "Active"
+    ],
+    "temperament_el": [
+      "Ατρόμητος",
+      "Φιλικός",
+      "Τολμηρός",
+      "Έξυπνος",
+      "Δραστήριος"
+    ],
+    "description_en": "The Smooth Fox Terrier is one of the oldest and most iconic terrier breeds, developed in 18th-century England specifically for the sport of foxhunting — their job was to 'go to ground' and bolt foxes from their underground dens so that the mounted hunt could continue the chase. The breed was refined from various smooth-coated working terriers, likely including the Smooth Black and Tan Terrier, the Bull Terrier, and the Beagle. Smooth Fox Terriers are elegant, athletic, and compact dogs weighing 6.5–8 kg with a predominantly white coat marked with black and/or tan, designed to be easily distinguishable from the fox when emerging from a den. They are bold, fearless, and intelligent with a seemingly inexhaustible supply of energy — they are among the most spirited and vivacious of all dog breeds. The Smooth Fox Terrier has won more Best in Show titles at the Westminster Kennel Club Dog Show than any other breed — an impressive 18 times. They were also the breed of the famous RCA dog Nipper, who posed listening to 'His Master's Voice.' They are loyal, entertaining companions that bring endless energy and personality to their families.",
+    "description_el": "Το Λείο Φοξ Τεριέ είναι μία από τις παλαιότερες ράτσες τεριέ, αναπτυγμένη στην Αγγλία του 18ου αιώνα για το κυνήγι αλεπούς — η δουλειά τους ήταν να εκδιώκουν αλεπούδες από υπόγειες φωλιές. Είναι κομψά, αθλητικά σκυλιά 6,5–8 κιλών με κυρίως λευκό τρίχωμα. Είναι τολμηρά, ατρόμητα και έξυπνα με ανεξάντλητη ενέργεια — ανάμεσα στα πιο ζωηρά σκυλιά. Το Λείο Φοξ Τεριέ έχει κερδίσει περισσότερους τίτλους Best in Show στο Westminster από οποιαδήποτε ράτσα — 18 φορές. Ήταν επίσης η ράτσα του διάσημου σκύλου Nipper του RCA, «His Master's Voice». Είναι πιστοί, διασκεδαστικοί σύντροφοι.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 2,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Smooth Fox Terriers need substantial daily exercise — at least 1 hour of vigorous activity including walks, runs, play, and mental stimulation through training, agility, or earthdog trials. Their short, smooth coat is very easy to maintain with weekly brushing and occasional bathing. Training should be positive, consistent, and engaging — they are highly intelligent and quick learners but can become bored with repetition and may develop their own agenda. Early, thorough socialization is essential, particularly with other dogs, as Smooth Fox Terriers can be confrontational with unfamiliar dogs regardless of the other dog's size. They have an extremely strong prey drive and will chase anything that moves — cats, squirrels, rabbits — so secure fencing (at least 1.5 meters high, as they can jump) and leash control are essential. They are vocal dogs that bark readily at any stimulus. They need a mentally stimulating environment — a bored Fox Terrier will dig, bark, and find creative ways to entertain themselves that their owners may not appreciate. They adapt to apartment living if exercised sufficiently but truly thrive with a yard.",
+    "care_el": "Τα Λεία Φοξ Τεριέ χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1 ώρα έντονης δραστηριότητας. Το κοντό τρίχωμα είναι πολύ εύκολο στη συντήρηση. Η εκπαίδευση πρέπει να είναι θετική και ελκυστική — μαθαίνουν γρήγορα αλλά βαριούνται με επαναλήψεις. Η πρώιμη κοινωνικοποίηση είναι απαραίτητη, ειδικά με σκυλιά. Έχουν εξαιρετικά ισχυρό ένστικτο θήρας. Είναι φωνητικά σκυλιά. Χρειάζονται νοητική διέγερση. Προσαρμόζονται σε διαμέρισμα αν ασκούνται επαρκώς αλλά ευδοκιμούν με αυλή.",
+    "health_en": "Smooth Fox Terriers are generally a healthy breed with a typical lifespan of 12–15 years. Primary lens luxation (PLL) is a significant breed-specific concern — the lens of the eye dislocates, potentially causing glaucoma and blindness; a DNA test is available and all breeding dogs should be tested. Deafness can occur, particularly in predominantly white dogs — BAER testing is recommended. Patellar luxation (slipping kneecaps) is an orthopedic concern. Legg-Calve-Perthes disease (degeneration of the hip joint head) can affect young dogs. Cardiac conditions including pulmonic stenosis and mitral valve disease should be screened for. Cataracts and distichiasis are additional eye concerns. Skin allergies and contact dermatitis can develop. Myasthenia gravis (a neuromuscular disease) has been documented in the breed. Epilepsy has been reported in some lines. Responsible breeders test for PLL, BAER, eyes, patellae, and cardiac function.",
+    "health_el": "Τα Λεία Φοξ Τεριέ είναι γενικά υγιής ράτσα με τυπική διάρκεια ζωής 12–15 χρόνια. Η πρωτοπαθής εξάρθρωση φακού (PLL) είναι σημαντική ανησυχία — υπάρχει τεστ DNA. Η κώφωση μπορεί να εμφανιστεί — τεστ BAER συνιστάται. Η εξάρθρωση επιγονατίδας και η νόσος Legg-Calve-Perthes μπορεί να εμφανιστούν. Καρδιακές παθήσεις πρέπει να ελέγχονται. Καταρράκτης και δισκίαση είναι οφθαλμικές ανησυχίες. Δερματικές αλλεργίες μπορεί να αναπτυχθούν. Η μυασθένεια gravis έχει τεκμηριωθεί. Η επιληψία έχει αναφερθεί. Οι υπεύθυνοι εκτροφείς ελέγχουν PLL, BAER, μάτια, επιγονατίδα και καρδιά."
+  },
+  {
+    "id": "fox-terrier-wire",
+    "slug": "fox-terrier-wire",
+    "name_en": "Fox Terrier (Wire)",
+    "name_el": "Φοξ Τεριέ (Σκληρότριχο)",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Bold",
+      "Friendly",
+      "Fearless",
+      "Intelligent",
+      "Energetic"
+    ],
+    "temperament_el": [
+      "Τολμηρός",
+      "Φιλικός",
+      "Ατρόμητος",
+      "Έξυπνος",
+      "Ενεργητικός"
+    ],
+    "description_en": "The Wire Fox Terrier shares the same functional origins as the Smooth Fox Terrier — bolting foxes from underground dens during hunts in the English countryside — but is distinguished by its dense, wiry, broken coat that gives it a distinctive, jaunty appearance often associated with the quintessential terrier look. Though now considered a separate breed, the Wire and Smooth were originally shown as varieties of the same breed, and Wires became the more popular of the two, particularly in the show ring. Wire Fox Terriers are bold, intelligent, and full of irrepressible energy and enthusiasm — they approach life with a fearless, fun-loving spirit that is immensely entertaining to their owners. They weigh 6.5–8.5 kg and are compactly built, alert, and always ready for action. The Wire Fox Terrier has had remarkable success in the show ring, holding the record for the most Best in Show wins at Westminster (shared with the Smooth) and winning the title at Crufts multiple times. Famous Wire Fox Terriers include Asta from 'The Thin Man' films, Tintin's companion Snowy (Milou), and King Edward VII's dog Caesar who famously walked behind the king's coffin in the 1910 funeral procession.",
+    "description_el": "Το Σκληρότριχο Φοξ Τεριέ μοιράζεται τις ίδιες λειτουργικές ρίζες με το Λείο — εκδίωξη αλεπούδων — αλλά διακρίνεται από το πυκνό, σκληρό τρίχωμα που του δίνει χαρακτηριστική εμφάνιση. Είναι τολμηρά, έξυπνα και γεμάτα ακατάσχετη ενέργεια. Ζυγίζουν 6,5–8,5 κιλά. Έχει σημειώσει αξιοσημείωτη επιτυχία σε εκθέσεις, κατέχοντας ρεκόρ τίτλων Best in Show στο Westminster. Διάσημα Σκληρότριχα Φοξ Τεριέ περιλαμβάνουν τον Asta από τις ταινίες «The Thin Man», τον σύντροφο του Tintin τον Snowy (Milou) και τον σκύλο του Εδουάρδου Ζ' Caesar που περπάτησε πίσω από το φέρετρο του βασιλιά.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 4,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Wire Fox Terriers need substantial daily exercise — at least 1 hour of vigorous walks, play, and mental stimulation — and they excel in agility, earthdog trials, barn hunt, and flyball. Their distinctive wiry coat requires professional hand-stripping every 8–12 weeks to maintain proper texture and color for the show ring, or clipping for pet dogs (though clipping softens the coat over time), plus weekly brushing at home. They are intelligent, quick-witted, and trainable but share the independent terrier spirit — positive training with variety and humor works best. Early, extensive socialization is critical, especially with other dogs, as they can be assertive and confrontational. They have a very strong prey drive and will chase small animals relentlessly. Secure, tall fencing is essential as they are agile jumpers and determined escape artists. They are vocal dogs and may bark excessively if not properly trained. They need abundant mental stimulation to prevent destructive behavior — puzzle toys, training sessions, and interactive play help channel their intelligence productively.",
+    "care_el": "Τα Σκληρότριχα Φοξ Τεριέ χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1 ώρα βόλτων και παιχνιδιού. Το σκληρό τρίχωμα απαιτεί hand-stripping κάθε 8–12 εβδομάδες ή κούρεμα, συν εβδομαδιαίο βούρτσισμα. Είναι έξυπνα αλλά ανεξάρτητα — η θετική εκπαίδευση με ποικιλία λειτουργεί. Η πρώιμη κοινωνικοποίηση είναι κρίσιμη. Έχουν ισχυρό ένστικτο θήρας. Χρειάζονται ψηλή περίφραξη — είναι ικανοί δραπέτες. Είναι φωνητικά σκυλιά. Χρειάζονται νοητική διέγερση.",
+    "health_en": "Wire Fox Terriers share similar health concerns with the Smooth Fox Terrier and have a typical lifespan of 12–15 years. Primary lens luxation (PLL) is the most significant breed-specific concern — a DNA test is available and essential for all breeding dogs. Deafness can occur, particularly in predominantly white dogs — BAER testing is recommended. Patellar luxation (slipping kneecaps) is an orthopedic concern. Legg-Calve-Perthes disease can affect young dogs. Cardiac conditions, including pulmonic stenosis, should be screened for by a veterinary cardiologist. Cataracts and distichiasis are eye concerns that warrant regular screening. Skin allergies, including atopic dermatitis and contact allergies, can develop. Epilepsy has been reported in some lines. Thyroid conditions may occur. Megaesophagus (dilation of the esophagus) has been documented in rare cases. Responsible breeders test for PLL, BAER, eyes, patellae, and cardiac function.",
+    "health_el": "Τα Σκληρότριχα Φοξ Τεριέ μοιράζονται παρόμοιες ανησυχίες υγείας με τα Λεία με τυπική διάρκεια ζωής 12–15 χρόνια. Η PLL είναι η σημαντικότερη ανησυχία — υπάρχει τεστ DNA. Η κώφωση μπορεί να εμφανιστεί — τεστ BAER συνιστάται. Η εξάρθρωση επιγονατίδας και η νόσος Legg-Calve-Perthes μπορεί να εμφανιστούν. Καρδιακές παθήσεις πρέπει να ελέγχονται. Καταρράκτης και δισκίαση είναι ανησυχίες. Δερματικές αλλεργίες μπορεί να αναπτυχθούν. Η επιληψία έχει αναφερθεί. Οι υπεύθυνοι εκτροφείς ελέγχουν PLL, BAER, μάτια, επιγονατίδα και καρδιά."
+  },
+  {
+    "id": "glen-of-imaal-terrier",
+    "slug": "glen-of-imaal-terrier",
+    "name_en": "Glen of Imaal Terrier",
+    "name_el": "Γκλεν οφ Ίμααλ Τεριέ",
+    "type": "dog",
+    "origin": "Ireland",
+    "originCode": "IE",
+    "images": [],
+    "size": "small",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Gentle",
+      "Spirited",
+      "Loyal",
+      "Courageous",
+      "Good-tempered"
+    ],
+    "temperament_el": [
+      "Ήπιος",
+      "Ζωηρός",
+      "Πιστός",
+      "Θαρραλέος",
+      "Ήπιος"
+    ],
+    "description_en": "The Glen of Imaal Terrier is one of four Irish terrier breeds and one of the rarest, originating from the remote, rugged Glen of Imaal in County Wicklow, Ireland — a valley in the Wicklow Mountains that served as a refuge for Irish rebels and was settled by Flemish and Lowland soldiers after the Elizabethan wars. These hardy settlers developed a tough, versatile working terrier that served multiple roles: hunting badgers and foxes by going underground, controlling vermin, and even working as 'turnspit dogs,' running inside a large wheel connected to a cooking spit to rotate meat over a fire — a unique task that contributed to their powerful front-end construction and bowed legs. Glens are medium-small dogs (14–16 kg) that are longer than they are tall, with powerful front quarters, a harsh double coat, and an expression of great intelligence and determination. They are notably quieter and more gentle at home than many terrier breeds, earning a reputation as 'big dogs on short legs' for their calm, dignified indoor demeanor combined with surprising strength and determination when working. They are loyal, affectionate, and adaptable companions that bond closely with their families while maintaining the terrier's characteristic courage and spirit.",
+    "description_el": "Το Γκλεν οφ Ίμααλ Τεριέ είναι μία από τις τέσσερις ιρλανδικές ράτσες τεριέ και μία από τις σπανιότερες, από την απομονωμένη κοιλάδα Glen of Imaal στο Γουίκλοου της Ιρλανδίας. Αυτοί οι σκληροτράχηλοι έποικοι ανέπτυξαν ένα ανθεκτικό τεριέ πολλαπλών ρόλων: κυνήγι ασβών, έλεγχο τρωκτικών, ακόμα και ως «turnspit dogs» τρέχοντας μέσα σε τροχό μαγειρικής. Είναι μεσαία-μικρά σκυλιά (14–16 κιλά) με ισχυρό μπροστινό μέρος και σκληρό τρίχωμα. Είναι αισθητά ηρεμότερα στο σπίτι από πολλά τεριέ, γνωστά ως «μεγάλα σκυλιά σε κοντά πόδια». Είναι πιστά, στοργικά και προσαρμοστικά που δένονται στενά με τις οικογένειές τους.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Glen of Imaal Terriers need moderate daily exercise — about 30–45 minutes of walks and play — and while they are calmer than many terrier breeds, they still enjoy and benefit from mental stimulation and structured activities. Their harsh, medium-length double coat requires weekly brushing and hand-stripping two to three times per year to maintain proper texture; the coat is relatively low-shedding. They are intelligent and willing to please but retain terrier independence — positive, patient training with varied exercises works best; they can be stubborn but rarely defiant. Early socialization is important, particularly with other dogs, as they can be dog-aggressive — this is a breed originally developed for dog fighting against badgers, so their tolerance for other dogs should not be assumed. They are generally quiet indoors and do not tend to bark excessively. They love to dig and may excavate gardens enthusiastically. Due to their potential for dog aggression, they are best suited as the only dog in a household or carefully introduced to a dog-friendly companion. They adapt well to apartment living given their moderate exercise needs.",
+    "care_el": "Τα Γκλεν οφ Ίμααλ Τεριέ χρειάζονται μέτρια καθημερινή άσκηση — 30–45 λεπτά βόλτων και παιχνιδιού. Το σκληρό τρίχωμα απαιτεί εβδομαδιαίο βούρτσισμα και hand-stripping 2–3 φορές τον χρόνο. Είναι έξυπνα αλλά ανεξάρτητα — η θετική εκπαίδευση λειτουργεί. Η πρώιμη κοινωνικοποίηση είναι σημαντική, ειδικά με σκυλιά — μπορεί να εμφανίσουν επιθετικότητα. Είναι ήρεμα σε εσωτερικούς χώρους. Λατρεύουν το σκάψιμο. Προσαρμόζονται καλά σε διαμέρισμα.",
+    "health_en": "Glen of Imaal Terriers have a typical lifespan of 12–15 years. Progressive retinal atrophy (PRA) — specifically the crd3 form — is the most significant health concern in the breed; a DNA test is available and all breeding dogs should be tested. Hip dysplasia can occur and OFA screening is recommended. Elbow dysplasia has also been documented. Allergies and skin conditions can develop, particularly seasonal allergies. Heart conditions should be monitored. Due to their short, bowed legs, they can be prone to growth plate issues during development — puppies should not be over-exercised. Hypothyroidism may develop. The breed's relative rarity means health data is limited compared to more common breeds, but the Glen of Imaal Terrier breed club has been proactive in promoting health testing. Responsible breeders test for PRA (crd3 DNA test), hips, and eyes.",
+    "health_el": "Τα Γκλεν οφ Ίμααλ Τεριέ έχουν τυπική διάρκεια ζωής 12–15 χρόνια. Η PRA (μορφή crd3) είναι η σημαντικότερη ανησυχία — υπάρχει τεστ DNA. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Η δυσπλασία αγκώνα έχει τεκμηριωθεί. Αλλεργίες μπορεί να αναπτυχθούν. Καρδιακές παθήσεις πρέπει να παρακολουθούνται. Λόγω κοντών ποδιών, μπορεί να εμφανίσουν προβλήματα ανάπτυξης. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Οι υπεύθυνοι εκτροφείς ελέγχουν PRA, ισχία και μάτια."
+  },
+  {
+    "id": "irish-terrier",
+    "slug": "irish-terrier",
+    "name_en": "Irish Terrier",
+    "name_el": "Ιρλανδικό Τεριέ",
+    "type": "dog",
+    "origin": "Ireland",
+    "originCode": "IE",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Bold",
+      "Loyal",
+      "Affectionate",
+      "Respectful",
+      "Intelligent"
+    ],
+    "temperament_el": [
+      "Τολμηρός",
+      "Πιστός",
+      "Στοργικός",
+      "Σεβαστός",
+      "Έξυπνος"
+    ],
+    "description_en": "The Irish Terrier is one of the oldest and most elegant of the terrier breeds, with a history in Ireland that likely predates most other terrier breeds by centuries. They are medium-sized dogs (11–12 kg) with a distinctive bright red, dense, wiry coat that ranges from golden red to red wheaten — they are the only terrier breed that is always solid-colored in shades of red. Irish Terriers are known as the 'daredevil' of the dog world for their remarkable courage and spirit — during World War I, they served as messenger dogs and sentries in the trenches of the Western Front, earning widespread admiration for their bravery under fire, and their war service significantly boosted the breed's popularity. They are bold, fiery, and utterly fearless, yet simultaneously loyal, affectionate, and gentle with their families, especially children, for whom they have historically been considered excellent companions and guardians. The Irish Terrier has a graceful, racy build — longer-legged and more refined than many terrier breeds — giving them both speed and stamina. They are intelligent, adaptable dogs with an expressive face and an unmistakable air of proud determination that has earned them the nickname 'the poor man's sentinel, the farmer's friend, and the gentleman's favorite.'",
+    "description_el": "Το Ιρλανδικό Τεριέ είναι μία από τις παλαιότερες και πιο κομψές ράτσες τεριέ, με ιστορία στην Ιρλανδία που πιθανώς προηγείται των περισσότερων τεριέ. Είναι μεσαία σκυλιά (11–12 κιλά) με ξεχωριστό κόκκινο σκληρό τρίχωμα — η μοναδική ράτσα τεριέ πάντα μονόχρωμη σε κόκκινο. Γνωστά ως «τολμηροί» του σκυλόκοσμου — στον Α' Παγκόσμιο Πόλεμο υπηρέτησαν ως αγγελιαφόρα στα χαρακώματα. Είναι τολμηρά αλλά πιστά και τρυφερά με τις οικογένειές τους, ειδικά τα παιδιά. Έχουν χαριτωμένη, αθλητική σωματική διάπλαση. Είναι έξυπνα, προσαρμοστικά σκυλιά γνωστά ως «ο φρουρός του φτωχού, ο φίλος του αγρότη και ο αγαπημένος του κυρίου».",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Irish Terriers need substantial daily exercise — at least 1 hour of vigorous walks, runs, play, and mental stimulation — and they excel in agility, obedience, lure coursing, and barn hunt. Their dense, wiry coat requires hand-stripping two to three times per year to maintain proper texture and vibrant color (clipping softens and dulls the coat over time), plus weekly brushing at home. They are intelligent and eager to please their owners, making them one of the more trainable terrier breeds, but they require positive, firm, and consistent training — they will not tolerate harsh or repetitive methods. Early, extensive socialization with other dogs is critical, as Irish Terriers can be dog-aggressive, particularly with dogs of the same sex — this trait was so notable that the Irish Terrier Club of America includes it in their breed description. They are generally excellent with children and are naturally protective of their families. They can be vocal and make outstanding watchdogs with a keen sense of who belongs on the property. They adapt to various living situations but need adequate exercise.",
+    "care_el": "Τα Ιρλανδικά Τεριέ χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1 ώρα βόλτων και παιχνιδιού. Το σκληρό τρίχωμα απαιτεί hand-stripping 2–3 φορές τον χρόνο συν εβδομαδιαίο βούρτσισμα. Είναι έξυπνα και πρόθυμα αλλά απαιτούν θετική, σταθερή εκπαίδευση. Η πρώιμη κοινωνικοποίηση με σκυλιά είναι κρίσιμη — μπορεί να εμφανίσουν επιθετικότητα. Είναι εξαιρετικά με παιδιά και προστατευτικά. Κάνουν εξαιρετικούς φύλακες.",
+    "health_en": "Irish Terriers are generally a remarkably healthy and robust breed with a typical lifespan of 12–15 years. Digital hyperkeratosis (corny feet) is a breed-specific condition causing painful, excessive growth of the footpad — affected dogs develop hard, horn-like growths on their paw pads; a DNA test is available. Cystinuria (a metabolic disorder leading to urinary stones) can occur in the breed and may require dietary management or surgical intervention. Hip dysplasia can affect some dogs, though it is less common than in larger breeds. Hypothyroidism may develop. Progressive retinal atrophy (PRA) and cataracts are eye conditions that should be screened for. Allergies and skin conditions can develop. Muscular dystrophy has been documented in rare cases. The breed is considered one of the healthiest terrier breeds overall, with relatively few serious genetic conditions compared to many other purebred dogs. Responsible breeders test for hyperkeratosis, cystinuria, hips, and eyes.",
+    "health_el": "Τα Ιρλανδικά Τεριέ είναι γενικά αξιοσημείωτα υγιής ράτσα με τυπική διάρκεια ζωής 12–15 χρόνια. Η ψηφιακή υπερκεράτωση είναι πάθηση ειδική της ράτσας — υπάρχει τεστ DNA. Η κυστινουρία μπορεί να εμφανιστεί. Η δυσπλασία ισχίου επηρεάζει μερικά σκυλιά. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. PRA και καταρράκτης πρέπει να ελέγχονται. Θεωρείται μία από τις πιο υγιείς ράτσες τεριέ. Οι υπεύθυνοι εκτροφείς ελέγχουν για υπερκεράτωση, κυστινουρία, ισχία και μάτια."
+  },
+  {
+    "id": "jack-russell-terrier",
+    "slug": "jack-russell-terrier",
+    "name_en": "Jack Russell Terrier",
+    "name_el": "Τζακ Ράσελ Τεριέ",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "13-15 years",
+    "temperament_en": [
+      "Energetic",
+      "Intelligent",
+      "Fearless",
+      "Friendly",
+      "Vocal"
+    ],
+    "temperament_el": [
+      "Ενεργητικός",
+      "Έξυπνος",
+      "Ατρόμητος",
+      "Φιλικός",
+      "Φωνακλάς"
+    ],
+    "description_en": "The Jack Russell Terrier was developed in the early 19th century by the Reverend John ('Jack') Russell, a passionate fox hunting parson in Devon, England, who sought to create the ideal fox-bolting terrier — small enough (5–7 kg) to go to ground after a fox, yet with enough leg to keep up with horses and hounds. The breed's foundation bitch was a dog named Trump, purchased by Russell from a milkman in 1819. Jack Russells are predominantly white with black, tan, or tricolor markings, designed so they could be easily distinguished from the fox when emerging from a den. They are among the most energetic, intelligent, and fearless of all dog breeds — their small size (25–30 cm tall) contains an almost unbelievable amount of drive, determination, and personality. Jack Russells have become enormously popular worldwide through media appearances — Eddie from 'Frasier,' Uggie from 'The Artist,' and Milo from 'The Mask' are among the most famous. However, their intensity, energy, and strong working instincts mean they are often surrendered by owners who underestimate the commitment required. A well-exercised, mentally stimulated Jack Russell is a joyful, entertaining companion; an under-stimulated one is a destructive force of nature.",
+    "description_el": "Το Τζακ Ράσελ Τεριέ αναπτύχθηκε στις αρχές του 19ου αιώνα από τον ιερέα John «Jack» Russell στο Ντέβον της Αγγλίας, που ήθελε το ιδανικό τεριέ κυνηγιού αλεπούς — αρκετά μικρό (5–7 κιλά) για υπόγεια καταδίωξη αλλά με αρκετά πόδια για κούρσα. Είναι κυρίως λευκά με μαύρα ή καφέ σημάδια. Ανάμεσα στα πιο ενεργητικά, έξυπνα και ατρόμητα σκυλιά — το μικρό μέγεθός τους κρύβει απίστευτη ενέργεια. Έγιναν δημοφιλή μέσω τηλεόρασης — Eddie από το «Frasier», Uggie από «The Artist». Ωστόσο, η ένταση και η ενέργειά τους σημαίνει ότι δεν ταιριάζουν σε αδρανείς ιδιοκτήτες. Ένα καλά ασκημένο Τζακ Ράσελ είναι χαρούμενος σύντροφος· ένα ανεξέλεγκτο είναι καταστροφική δύναμη.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 2,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 1
+    },
+    "cost_annual_usd": "$500-800",
+    "care_en": "Jack Russell Terriers need substantial daily exercise — at least 1 to 1.5 hours of vigorous activity including walks, runs, fetch, agility, flyball, earthdog trials, or any activity that engages both their body and mind. They are exceptional athletes that can jump up to five times their own height and dig under virtually any fence. Their coat comes in smooth, rough, or broken varieties — all requiring weekly brushing, with rough and broken coats needing occasional hand-stripping. Training should be positive, consistent, and engaging — they are brilliant learners but bore easily and will find their own entertainment if not properly stimulated. Early socialization is essential, both with people and other dogs, as they can be assertive. Secure fencing is absolutely essential — they are legendary escape artists who will dig under, jump over, or find gaps in any fence. They should not be left unsupervised with small pets due to their intense prey drive. They can be vocal barkers. Despite their small size, they are not ideal apartment dogs unless they receive extensive daily exercise and mental stimulation.",
+    "care_el": "Τα Τζακ Ράσελ Τεριέ χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1–1,5 ώρες έντονης δραστηριότητας. Μπορούν να πηδήξουν 5 φορές το ύψος τους και να σκάψουν κάτω από κάθε φράχτη. Η εκπαίδευση πρέπει να είναι θετική και ελκυστική. Η πρώιμη κοινωνικοποίηση είναι απαραίτητη. Η ασφαλής περίφραξη είναι απολύτως κρίσιμη — είναι θρυλικοί δραπέτες. Δεν πρέπει να αφήνονται με μικρά κατοικίδια. Μπορεί να γαβγίζουν πολύ. Παρά το μικρό μέγεθος, δεν είναι ιδανικά σκυλιά διαμερίσματος χωρίς εκτεταμένη άσκηση.",
+    "health_en": "Jack Russell Terriers are generally a very healthy, long-lived breed with a typical lifespan of 13–16 years, with some individuals living past 18. Primary lens luxation (PLL) is a significant breed-specific concern — the lens of the eye dislocates, potentially causing glaucoma; a DNA test is available and essential for all breeding dogs. Patellar luxation (slipping kneecaps) is a common orthopedic condition. Legg-Calve-Perthes disease (degeneration of the hip joint) can affect young dogs. Deafness can occur, particularly in dogs with extensive white markings — BAER testing is recommended. Congenital myasthenia gravis (a neuromuscular disease) has been documented. Ataxia and spinocerebellar ataxia (late-onset movement disorders) have been identified in some lines. Eye conditions including cataracts and progressive retinal atrophy should be screened for. They can be prone to skin allergies. Von Willebrand's disease has been reported. Their robust health and longevity make them one of the healthiest purebred dogs. Responsible breeders test for PLL, BAER, eyes, and patellae.",
+    "health_el": "Τα Τζακ Ράσελ Τεριέ είναι γενικά πολύ υγιή, μακρόβια ράτσα με τυπική διάρκεια ζωής 13–16 χρόνια, μερικά ζώντας πάνω από 18. Η PLL είναι σημαντική ανησυχία — υπάρχει τεστ DNA. Η εξάρθρωση επιγονατίδας είναι κοινή. Η νόσος Legg-Calve-Perthes μπορεί να επηρεάσει νεαρά σκυλιά. Η κώφωση μπορεί να εμφανιστεί — τεστ BAER συνιστάται. Η μυασθένεια gravis έχει τεκμηριωθεί. Αταξία έχει αναγνωριστεί. Οφθαλμικές παθήσεις πρέπει να ελέγχονται. Η ανθεκτική υγεία τους τα καθιστά από τα πιο υγιή καθαρόαιμα σκυλιά. Οι υπεύθυνοι εκτροφείς ελέγχουν PLL, BAER, μάτια και επιγονατίδα."
+  },
+  {
+    "id": "kerry-blue-terrier",
+    "slug": "kerry-blue-terrier",
+    "name_en": "Kerry Blue Terrier",
+    "name_el": "Κέρι Μπλου Τεριέ",
+    "type": "dog",
+    "origin": "Ireland",
+    "originCode": "IE",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Smart",
+      "Spirited",
+      "Loyal",
+      "Strong-willed",
+      "Affectionate"
+    ],
+    "temperament_el": [
+      "Έξυπνος",
+      "Ζωηρός",
+      "Πιστός",
+      "Πεισματάρης",
+      "Στοργικός"
+    ],
+    "description_en": "The Kerry Blue Terrier is a versatile, medium-sized (15–18 kg) Irish breed that originated in the mountains of County Kerry in southwestern Ireland, where for centuries they served as all-purpose farm dogs — herding cattle and sheep, guarding livestock and home, hunting vermin, otters, and even small game, and retrieving from both land and water. The Kerry Blue is the national terrier of Ireland and played a symbolic role in the Irish nationalist movement — Michael Collins, the Irish revolutionary leader, reportedly owned a Kerry Blue named Convict 224 and attempted to have the breed declared the national dog of Ireland. Their most distinctive feature is their soft, dense, wavy coat that ranges from deep slate blue to light blue-grey — remarkably, Kerry Blues are born black, and their coat gradually 'clears' to blue over the first 18–24 months of life. They are smart, spirited, and strong-willed dogs with a dignified bearing and an affectionate, loyal nature toward their families. Kerry Blues are considered hypoallergenic due to their non-shedding coat, making them a popular choice for allergy sufferers who want a larger, more robust terrier.",
+    "description_el": "Το Κέρι Μπλου Τεριέ είναι ευέλικτη, μεσαία (15–18 κιλά) ιρλανδική ράτσα από τα βουνά του Kerry, όπου υπηρέτησαν ως αγροτικά σκυλιά πολλαπλών χρήσεων. Είναι το εθνικό τεριέ της Ιρλανδίας — ο Michael Collins κατείχε ένα Kerry Blue. Το πιο ξεχωριστό χαρακτηριστικό είναι το μαλακό, πυκνό, κυματιστό γαλαζόγκρι τρίχωμα — τα κουτάβια γεννιούνται μαύρα και το τρίχωμα «ανοίγει» σε μπλε στους πρώτους 18–24 μήνες. Είναι έξυπνα, ζωηρά και ισχυρογνώμονα με αξιοπρεπή εμφάνιση. Θεωρούνται υποαλλεργικά λόγω μη αποτρίχωσης.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 4,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Kerry Blue Terriers need regular daily exercise — about 1 hour of walks, play, and mental stimulation — and they excel in a wide range of activities including herding, agility, obedience, earthdog trials, and swimming (they are natural water dogs). Their soft, dense coat requires regular professional grooming every 4–6 weeks, including clipping and scissoring in the breed-specific pattern, plus brushing and combing at least two to three times per week to prevent matting. Their coat does not shed, which makes them suitable for allergy sufferers but means dead hair must be removed through grooming. Training should be positive, firm, and consistent — Kerry Blues are intelligent and capable learners but can be strong-willed and may test boundaries. Early, extensive socialization with other dogs is critical, as Kerry Blues have historically been known for dog aggression — many breed standards note that a certain 'gameness' toward other dogs is acceptable. They are generally excellent with children and loyal family dogs. They make outstanding watchdogs with a deep bark.",
+    "care_el": "Τα Κέρι Μπλου Τεριέ χρειάζονται τακτική καθημερινή άσκηση — περίπου 1 ώρα βόλτων και παιχνιδιού. Το μαλακό τρίχωμα απαιτεί επαγγελματική περιποίηση κάθε 4–6 εβδομάδες συν βούρτσισμα 2–3 φορές την εβδομάδα. Δεν ρίχνουν τρίχα — κατάλληλα για αλλεργικούς. Η εκπαίδευση πρέπει να είναι θετική και σταθερή. Η πρώιμη κοινωνικοποίηση με σκυλιά είναι κρίσιμη λόγω τάσης για επιθετικότητα. Είναι εξαιρετικά με παιδιά. Κάνουν εξαιρετικούς φύλακες.",
+    "health_en": "Kerry Blue Terriers have a typical lifespan of 12–15 years. Progressive neuronal abiotrophy (PNA) or cerebellar abiotrophy is the most significant breed-specific neurological condition — it causes progressive loss of coordination starting at a few months of age; a DNA test is available and breeding dogs should be tested. Hip dysplasia can occur and OFA screening is recommended. Eye conditions including cataracts, dry eye (keratoconjunctivitis sicca), and entropion should be screened for. Skin conditions are relatively common, including cysts (sebaceous and epidermoid), which are usually benign but may need removal, and follicular dysplasia. Hypothyroidism can develop with age. Ear infections may occur due to the hair that grows inside the ear canal — regular ear cleaning and hair removal is important. Blood autoimmune disorders including factor XI deficiency (a bleeding disorder) have been documented. Cancer, particularly melanoma, has been reported. Responsible breeders test for PNA, hips, eyes, and thyroid.",
+    "health_el": "Τα Κέρι Μπλου Τεριέ έχουν τυπική διάρκεια ζωής 12–15 χρόνια. Η προοδευτική νευρωνική αβιοτροφία (PNA) είναι η σημαντικότερη νευρολογική πάθηση — υπάρχει τεστ DNA. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Οφθαλμικές παθήσεις πρέπει να ελέγχονται. Δερματικές παθήσεις και κύστεις είναι σχετικά κοινές. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Ωτίτιδες μπορεί να εμφανιστούν — τακτικός καθαρισμός αυτιών είναι σημαντικός. Αιμολογικές αυτοάνοσες διαταραχές έχουν τεκμηριωθεί. Οι υπεύθυνοι εκτροφείς ελέγχουν PNA, ισχία, μάτια και θυρεοειδή."
+  },
+  {
+    "id": "lakeland-terrier",
+    "slug": "lakeland-terrier",
+    "name_en": "Lakeland Terrier",
+    "name_el": "Λέικλαντ Τεριέ",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Friendly",
+      "Bold",
+      "Confident",
+      "Independent",
+      "Intelligent"
+    ],
+    "temperament_el": [
+      "Φιλικός",
+      "Τολμηρός",
+      "Σίγουρος",
+      "Ανεξάρτητος",
+      "Έξυπνος"
+    ],
+    "description_en": "The Lakeland Terrier originated in the rugged Lake District of northern England — one of the most beautiful and mountainous regions in Britain — where they were developed by local farmers to protect their sheep flocks from the foxes that preyed on lambs during the critical spring lambing season. Unlike most terrier breeds that were developed for sport, Lakelands had a serious working purpose: they had to follow foxes deep into the rocky, narrow fell burrows and be tough enough to dispatch them underground. This demanded a dog that was small enough (7–8 kg) to squeeze through tight passages, yet courageous and tenacious enough to face a cornered fox in total darkness. Lakelands are compact, square-bodied dogs with a dense, wiry double coat and a characteristic neat, rectangular head with a keen, confident expression. They come in a variety of colors including black and tan, blue and tan, red, red grizzle, grizzle and tan, and wheaten. They are friendly, bold, and confident dogs with a jaunty, self-assured demeanor — more good-natured and less aggressive than some terrier breeds. In 1967, a Lakeland Terrier named Donn achieved the rare double of winning both Best in Show at Westminster and Crufts in the same year.",
+    "description_el": "Το Λέικλαντ Τεριέ κατάγεται από τη σκληρή περιοχή Lake District της βόρειας Αγγλίας, όπου αναπτύχθηκε για να προστατεύει πρόβατα από αλεπούδες. Σε αντίθεση με τα περισσότερα τεριέ, είχε σοβαρό εργατικό σκοπό: να ακολουθεί αλεπούδες σε στενά βραχώδη λαγούμια. Είναι συμπαγή σκυλιά (7–8 κιλά) με πυκνό σκληρό τρίχωμα. Είναι φιλικά, τολμηρά και σίγουρα — πιο καλόβολα από πολλά τεριέ. Το 1967, ένα Λέικλαντ Τεριέ πέτυχε το σπάνιο διπλό Best in Show σε Westminster και Crufts την ίδια χρονιά.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 4,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Lakeland Terriers need regular daily exercise — about 45–60 minutes of walks, play, and mental stimulation — and they enjoy agility, earthdog trials, and interactive games. Their dense, wiry double coat requires professional hand-stripping every 8–12 weeks for proper coat maintenance (clipping is acceptable for pets but softens the coat), plus weekly brushing at home. They are intelligent and can be trained to a high level, but retain terrier independence — positive, consistent training with varied exercises prevents boredom. Early socialization with people, dogs, and various environments is important to develop their naturally confident, friendly temperament. They have a strong prey drive and will chase small animals, so secure fencing is essential. They can be assertive with other dogs, particularly those of the same sex. They are relatively adaptable to apartment living given their moderate size and energy needs, provided they receive sufficient daily exercise. They can be vocal and make alert watchdogs. They are generally affectionate and playful with children.",
+    "care_el": "Τα Λέικλαντ Τεριέ χρειάζονται τακτική καθημερινή άσκηση — 45–60 λεπτά βόλτων και παιχνιδιού. Το σκληρό τρίχωμα απαιτεί hand-stripping κάθε 8–12 εβδομάδες συν εβδομαδιαίο βούρτσισμα. Η εκπαίδευση πρέπει να είναι θετική με ποικιλία. Η πρώιμη κοινωνικοποίηση είναι σημαντική. Έχουν ισχυρό ένστικτο θήρας. Μπορεί να είναι επιθετικά με σκυλιά ίδιου φύλου. Προσαρμόζονται σε διαμέρισμα. Κάνουν καλούς φύλακες. Είναι στοργικά με παιδιά.",
+    "health_en": "Lakeland Terriers are generally a healthy, hardy breed with a typical lifespan of 12–15 years. Legg-Calve-Perthes disease (aseptic necrosis of the femoral head) is the most commonly cited orthopedic condition — it typically presents in young dogs with progressive lameness and can require surgical intervention. Primary lens luxation (PLL) is an eye condition that can lead to glaucoma; a DNA test is available. Cataracts have been documented and regular eye screening is recommended. Patellar luxation can occur in some individuals. Von Willebrand's disease (a bleeding disorder) has been reported in the breed. Hypothyroidism may develop. Skin allergies and conditions can occur, though proper coat maintenance helps prevent issues. Dental disease should be monitored, as it affects many small breeds. The breed is considered one of the healthier terrier breeds overall with relatively few serious genetic conditions. Responsible breeders test for PLL, eyes, patellae, and Legg-Calve-Perthes.",
+    "health_el": "Τα Λέικλαντ Τεριέ είναι γενικά υγιής ράτσα με τυπική διάρκεια ζωής 12–15 χρόνια. Η νόσος Legg-Calve-Perthes είναι η πιο κοινή ορθοπεδική πάθηση — εμφανίζεται σε νεαρά σκυλιά. Η PLL μπορεί να οδηγήσει σε γλαύκωμα — υπάρχει τεστ DNA. Ο καταρράκτης έχει τεκμηριωθεί. Η εξάρθρωση επιγονατίδας μπορεί να εμφανιστεί. Η νόσος von Willebrand έχει αναφερθεί. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Θεωρείται μία από τις πιο υγιείς ράτσες τεριέ. Οι υπεύθυνοι εκτροφείς ελέγχουν PLL, μάτια, επιγονατίδα και Legg-Calve-Perthes."
+  },
+  {
+    "id": "manchester-terrier",
+    "slug": "manchester-terrier",
+    "name_en": "Manchester Terrier",
+    "name_el": "Μάντσεστερ Τεριέ",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "15-17 years",
+    "temperament_en": [
+      "Alert",
+      "Devoted",
+      "Spirited",
+      "Intelligent",
+      "Discerning"
+    ],
+    "temperament_el": [
+      "Επαγρύπνος",
+      "Αφοσιωμένος",
+      "Ζωηρός",
+      "Έξυπνος",
+      "Διορατικός"
+    ],
+    "description_en": "The Manchester Terrier is one of the oldest identifiable terrier breeds, developed in the industrial city of Manchester, England, during the 19th century by crossing the old Black and Tan Terrier (a renowned ratting dog) with the Whippet to create a sleek, fast, and devastatingly efficient rat killer. During the Victorian era, rat-baiting was a popular sport in Manchester's public houses, and Manchester Terriers excelled — one legendary dog named Billy reportedly killed 100 rats in just 6 minutes and 13 seconds. They are elegant, compact dogs weighing 5.5–10 kg with a distinctive, glossy jet-black coat with rich mahogany tan markings in a precise pattern — they are the quintessential black-and-tan dog and likely contributed to the development of several other breeds including the Doberman Pinscher. Manchester Terriers are alert, devoted, and spirited with a keen intelligence and a dignified, discerning temperament. They bond deeply with their chosen people but are naturally reserved with strangers, making them excellent watchdogs. The breed comes in two varieties: Standard (over 5.5 kg) and Toy (under 5.5 kg), with the Toy variety being particularly popular in the United States.",
+    "description_el": "Το Μάντσεστερ Τεριέ είναι μία από τις παλαιότερες αναγνωρίσιμες ράτσες τεριέ, αναπτυγμένη στο Μάντσεστερ διασταυρώνοντας το Black and Tan Terrier με το Whippet για ένα κομψό, γρήγορο κυνηγό αρουραίων. Στη Βικτωριανή εποχή, ένα θρυλικό σκυλί σκότωσε 100 αρουραίους σε 6 λεπτά. Είναι κομψά σκυλιά 5,5–10 κιλών με γυαλιστερό μαύρο-καφέ τρίχωμα — πιθανότατα συνέβαλαν στην ανάπτυξη του Ντόμπερμαν. Τα Μάντσεστερ είναι επαγρύπνα, αφοσιωμένα με αξιοπρεπή ιδιοσυγκρασία. Δένονται βαθιά με τους ανθρώπους τους αλλά είναι επιφυλακτικά με ξένους, εξαιρετικοί φύλακες. Η ράτσα έρχεται σε Standard και Toy.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Manchester Terriers need regular daily exercise — about 45–60 minutes of walks, runs, and play — and they excel in agility, obedience, rally, lure coursing, and barn hunt. Their short, smooth, glossy coat is extremely easy to maintain with weekly brushing using a soft brush or grooming mitt and occasional bathing. They are highly intelligent and eager to please, making them one of the most trainable terrier breeds — positive reinforcement training produces excellent results. However, they can be sensitive and should not be trained with harsh methods. Early socialization is important, particularly with people, as they tend to be naturally reserved with strangers. They have a strong prey drive and will chase small animals, so leash control and secure fencing are important. They are heat-loving dogs that seek out warm spots and may need a coat in cold weather due to their thin, short fur. They are well-suited to apartment living given their moderate size and energy, and they tend to be clean and quiet indoors. They may be prone to separation anxiety if left alone frequently.",
+    "care_el": "Τα Μάντσεστερ Τεριέ χρειάζονται τακτική καθημερινή άσκηση — 45–60 λεπτά βόλτων, τρεξίματος και παιχνιδιού. Το κοντό, γυαλιστερό τρίχωμα είναι πολύ εύκολο στη συντήρηση. Είναι ευφυή και πρόθυμα — πιο εκπαιδεύσιμα από πολλά τεριέ. Ευαίσθητα στη σκληρή εκπαίδευση. Η πρώιμη κοινωνικοποίηση είναι σημαντική. Έχουν ισχυρό ένστικτο θήρας. Αναζητούν ζέστη — μπορεί να χρειαστούν παλτό στο κρύο. Κατάλληλα για διαμέρισμα. Μπορεί να αναπτύξουν άγχος αποχωρισμού.",
+    "health_en": "Manchester Terriers are generally a healthy, long-lived breed with a typical lifespan of 15–17 years, making them one of the longest-lived terrier breeds. Von Willebrand's disease (vWD), a hereditary bleeding disorder, is the most commonly cited health concern — a DNA test is available and all breeding dogs should be tested. Patellar luxation (slipping kneecaps) can occur. Legg-Calve-Perthes disease (degeneration of the hip joint) has been documented in younger dogs. Progressive retinal atrophy (PRA) and other eye conditions including cataracts and glaucoma should be screened for. Hypothyroidism may develop. Cardiomyopathy has been reported in some lines. Xanthine urolithiasis (a type of urinary stone) can occur in the breed. Pattern baldness (gradual hair loss on certain areas) has been noted. Heat bumps (urticaria) may occur in warm weather. Dental disease should be monitored, particularly in the Toy variety. Responsible breeders test for vWD, eyes, patellae, cardiac function, and thyroid.",
+    "health_el": "Τα Μάντσεστερ Τεριέ είναι γενικά υγιή, μακρόβια ράτσα με τυπική διάρκεια ζωής 15–17 χρόνια. Η νόσος von Willebrand είναι η πιο κοινή ανησυχία — υπάρχει τεστ DNA. Η εξάρθρωση επιγονατίδας μπορεί να εμφανιστεί. Η νόσος Legg-Calve-Perthes έχει τεκμηριωθεί. PRA και άλλες οφθαλμικές παθήσεις πρέπει να ελέγχονται. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Καρδιομυοπάθεια έχει αναφερθεί. Ουρολιθίαση ξανθίνης μπορεί να εμφανιστεί. Η οδοντική νόσος πρέπει να παρακολουθείται. Οι υπεύθυνοι εκτροφείς ελέγχουν vWD, μάτια, επιγονατίδα, καρδιά και θυρεοειδή."
+  },
+  {
+    "id": "norfolk-terrier",
+    "slug": "norfolk-terrier",
+    "name_en": "Norfolk Terrier",
+    "name_el": "Νόρφολκ Τεριέ",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "12-16 years",
+    "temperament_en": [
+      "Alert",
+      "Fearless",
+      "Affectionate",
+      "Spirited",
+      "Companionable"
+    ],
+    "temperament_el": [
+      "Επαγρύπνος",
+      "Ατρόμητος",
+      "Στοργικός",
+      "Ζωηρός",
+      "Συνεργός"
+    ],
+    "description_en": "The Norfolk Terrier is one of the smallest working terrier breeds, standing just 25 cm tall and weighing 5–5.5 kg, yet packed with the courage and determination of a dog many times its size. The Norfolk and Norwich Terriers were originally considered the same breed — both developed in East Anglia, England, in the late 19th and early 20th centuries from various small ratting and den-working terriers. They were officially separated into two distinct breeds in 1964 (UK) and 1979 (US), with the sole distinguishing physical feature being ear carriage: the Norfolk has neat, folded drop ears while the Norwich has erect, pointed ears. Norfolk Terriers were popular 'ratters' at Cambridge University, where students kept them in their rooms to control vermin — they were known as 'Cantab Terriers' or 'Trumpington Terriers.' They have a hard, wiry, weatherproof coat in shades of red, wheaten, black and tan, or grizzle. Norfolks are among the most sociable and good-natured of all terrier breeds — they are alert, fearless, and spirited like all terriers but combine these traits with an unusually affectionate, companionable nature that makes them excellent family dogs and apartment companions.",
+    "description_el": "Το Νόρφολκ Τεριέ είναι μία από τις μικρότερες εργατικές ράτσες τεριέ (25 εκ., 5–5,5 κιλά) αλλά γεμάτο θάρρος. Αρχικά θεωρούνταν η ίδια ράτσα με το Norwich — διαχωρίστηκαν το 1964, με μοναδική διαφορά τα πεσμένα αυτιά. Ήταν δημοφιλή «κυνηγοί αρουραίων» στο Πανεπιστήμιο Cambridge. Έχουν σκληρό, αδιάβροχο τρίχωμα σε κόκκινο, σιτάρι ή grizzle. Τα Νόρφολκ είναι ανάμεσα στα πιο κοινωνικά τεριέ — επαγρύπνα και ατρόμητα αλλά με ασυνήθιστα στοργική φύση που τα καθιστά εξαιρετικά οικογενειακά σκυλιά.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 5,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Norfolk Terriers need moderate daily exercise — about 30–45 minutes of walks, play, and exploration — and they particularly enjoy earthdog trials, agility, and interactive games. Their hard, wiry double coat requires weekly brushing and hand-stripping two to three times per year to maintain proper texture (clipping softens the coat over time). They are intelligent, eager to please, and among the more trainable terrier breeds — positive training methods produce excellent results. Early socialization with people, dogs, and various environments helps develop their naturally friendly, confident temperament. They have a prey drive and will chase small animals, but they generally get along much better with other dogs and cats than many terrier breeds. They are excellent apartment dogs due to their small size, moderate energy, and adaptable nature. They should not be left alone for extended periods as they are social dogs that thrive on companionship. They can be barkers if not trained early.",
+    "care_el": "Τα Νόρφολκ Τεριέ χρειάζονται μέτρια καθημερινή άσκηση — 30–45 λεπτά βόλτων και παιχνιδιού. Το σκληρό τρίχωμα απαιτεί εβδομαδιαίο βούρτσισμα και hand-stripping 2–3 φορές τον χρόνο. Είναι πρόθυμα και εκπαιδεύσιμα. Η πρώιμη κοινωνικοποίηση βοηθά. Τα πάνε γενικά καλύτερα με σκυλιά και γάτες από πολλά τεριέ. Εξαιρετικά σκυλιά διαμερίσματος. Δεν πρέπει να μένουν μόνα πολύ ώρα. Μπορεί να γαβγίζουν.",
+    "health_en": "Norfolk Terriers are generally a healthy breed with a typical lifespan of 12–16 years, often reaching their mid-teens. Mitral valve disease (MVD) is the most significant health concern in the breed — it is a progressive heart condition where the mitral valve deteriorates, leading to heart murmurs and potentially heart failure; regular cardiac screening is strongly recommended. Patellar luxation (slipping kneecaps) is a common orthopedic concern in the breed. Hip dysplasia can occur. Cataracts and other eye conditions have been documented; annual eye examinations are advisable. Dental disease is a concern in small breeds — regular dental care is important. Upper airway syndrome (elongated soft palate, narrow trachea) has been noted in the breed, though less commonly than in Norwich Terriers. Allergies and skin conditions may develop. Epilepsy has been reported in some lines. Responsible breeders screen for cardiac conditions, patellae, eyes, and hips.",
+    "health_el": "Τα Νόρφολκ Τεριέ είναι γενικά υγιή ράτσα με τυπική διάρκεια ζωής 12–16 χρόνια. Η νόσος μιτροειδούς βαλβίδας (MVD) είναι η σημαντικότερη ανησυχία — τακτικός καρδιακός έλεγχος συνιστάται. Η εξάρθρωση επιγονατίδας είναι κοινή. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Ο καταρράκτης έχει τεκμηριωθεί. Η οδοντική νόσος είναι ανησυχία σε μικρές ράτσες. Αλλεργίες μπορεί να αναπτυχθούν. Η επιληψία έχει αναφερθεί. Οι υπεύθυνοι εκτροφείς ελέγχουν καρδιά, επιγονατίδα, μάτια και ισχία."
+  },
+  {
+    "id": "norwich-terrier",
+    "slug": "norwich-terrier",
+    "name_en": "Norwich Terrier",
+    "name_el": "Νόργουιτς Τεριέ",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "12-16 years",
+    "temperament_en": [
+      "Alert",
+      "Curious",
+      "Affectionate",
+      "Spirited",
+      "Loyal"
+    ],
+    "temperament_el": [
+      "Επαγρύπνος",
+      "Περίεργος",
+      "Στοργικός",
+      "Ζωηρός",
+      "Πιστός"
+    ],
+    "description_en": "The Norwich Terrier is the prick-eared counterpart to the drop-eared Norfolk Terrier, both breeds sharing the same origin in East Anglia, England, where they were developed as versatile ratting and den-working terriers. Standing just 25 cm tall and weighing 5–5.5 kg, the Norwich is among the smallest of the working terriers, yet its upright, pointed ears give it a particularly alert, fox-like expression that distinguishes it from its Norfolk sibling. The breed gained early popularity at Cambridge University where students kept them as ratters in their dormitories, and one of the breed's founding dogs, a red dog named Rags, became the mascot of Norwich horsemen who used him for den work. Norwich Terriers are spirited, curious, and endlessly enthusiastic about life — they approach every day with a cheerful, can-do attitude that is infectious. They are among the most sociable terrier breeds, getting along well with people of all ages, other dogs, and often even cats. Despite their tiny size, they are hardy, athletic, and surprisingly tough — true working terriers in a compact, lovable package that adapts remarkably well to both country and city living.",
+    "description_el": "Το Νόργουιτς Τεριέ είναι η ποικιλία με όρθια αυτιά που αντιστοιχεί στο Νόρφολκ με πεσμένα, μοιράζονται την ίδια καταγωγή στην East Anglia. Μόλις 25 εκ. ύψος και 5–5,5 κιλά, τα όρθια αυτιά δίνουν ιδιαίτερα επαγρύπνη έκφραση. Η ράτσα κέρδισε δημοτικότητα στο Πανεπιστήμιο Cambridge ως κυνηγοί αρουραίων. Τα Νόργουιτς είναι ζωηρά, περίεργα και γεμάτα ενθουσιασμό. Ανάμεσα στα πιο κοινωνικά τεριέ — τα πάνε καλά με ανθρώπους, σκυλιά, ακόμα και γάτες. Παρά το μικρό μέγεθος, είναι ανθεκτικά και αθλητικά που προσαρμόζονται εξαιρετικά σε πόλη και ύπαιθρο.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 5,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Norwich Terriers need moderate daily exercise — about 30–45 minutes of walks, play, and mental stimulation — and they enjoy earthdog trials, agility, and obedience. Their hard, wiry double coat requires weekly brushing and hand-stripping two to three times per year to maintain proper coat texture and remove dead hair. They are intelligent, eager to please, and respond well to positive training methods — they are among the most trainable and cooperative terrier breeds. Early socialization with various people, environments, and other animals helps develop their naturally confident, friendly temperament. They have a prey drive but generally coexist better with cats and small animals than many terrier breeds when raised together. They are excellent apartment dogs due to their small size and adaptable nature, but they need their daily exercise and mental engagement. They enjoy being part of family activities and do not do well when left alone for extended periods. They can be barkers — training a 'quiet' command early is recommended.",
+    "care_el": "Τα Νόργουιτς Τεριέ χρειάζονται μέτρια καθημερινή άσκηση — 30–45 λεπτά βόλτων και παιχνιδιού. Το σκληρό τρίχωμα απαιτεί εβδομαδιαίο βούρτσισμα και hand-stripping 2–3 φορές τον χρόνο. Είναι πρόθυμα και ανταποκρίνονται καλά σε θετική εκπαίδευση. Η πρώιμη κοινωνικοποίηση βοηθά. Συνυπάρχουν καλύτερα με γάτες από πολλά τεριέ. Εξαιρετικά σκυλιά διαμερίσματος. Δεν πρέπει να μένουν μόνα πολύ. Μπορεί να γαβγίζουν.",
+    "health_en": "Norwich Terriers are generally a healthy breed with a typical lifespan of 12–16 years. Upper airway syndrome (UAS) is the most significant breed-specific concern — Norwich Terriers are predisposed to elongated soft palate, narrow trachea, and everted laryngeal saccules, which can cause breathing difficulties, exercise intolerance, and snoring; severe cases may require surgical correction. Patellar luxation (slipping kneecaps) is a common orthopedic condition. Mitral valve disease (MVD) is a progressive heart condition — regular cardiac screening is recommended, especially in older dogs. Epilepsy has been documented in the breed and is considered a significant concern. Hip dysplasia can occur. Cataracts and other eye conditions should be screened for annually. Dental disease is a concern in small breeds — regular dental care and professional cleanings are important. Allergies and skin conditions may develop. Responsible breeders screen for cardiac conditions, patellae, eyes, hips, and are aware of UAS and epilepsy in their lines.",
+    "health_el": "Τα Νόργουιτς Τεριέ είναι γενικά υγιή ράτσα με τυπική διάρκεια ζωής 12–16 χρόνια. Το σύνδρομο ανώτερων αεραγωγών (UAS) είναι η σημαντικότερη ανησυχία — μπορεί να προκαλέσει αναπνευστικές δυσκολίες. Η εξάρθρωση επιγονατίδας είναι κοινή. Η νόσος μιτροειδούς βαλβίδας (MVD) απαιτεί καρδιακό έλεγχο. Η επιληψία είναι σημαντική ανησυχία. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Ο καταρράκτης πρέπει να ελέγχεται. Η οδοντική νόσος είναι ανησυχία. Οι υπεύθυνοι εκτροφείς ελέγχουν καρδιά, επιγονατίδα, μάτια και ισχία."
+  },
+  {
+    "id": "parson-russell-terrier",
+    "slug": "parson-russell-terrier",
+    "name_en": "Parson Russell Terrier",
+    "name_el": "Πάρσον Ράσελ Τεριέ",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "13-15 years",
+    "temperament_en": [
+      "Energetic",
+      "Intelligent",
+      "Bold",
+      "Friendly",
+      "Vocal"
+    ],
+    "temperament_el": [
+      "Ενεργητικός",
+      "Έξυπνος",
+      "Τολμηρός",
+      "Φιλικός",
+      "Φωνακλάς"
+    ],
+    "description_en": "The Parson Russell Terrier is the longer-legged, more refined variant of the terriers developed by the Reverend John Russell in 19th-century Devon, England. While the shorter-legged Jack Russell was bred to go underground, the Parson (standing 33–36 cm tall, weighing 6–8 kg) was specifically bred with longer legs to keep pace with hounds and horses during mounted foxhunts — their body had to be small enough to go to ground when needed, but their legs long enough to cover ground at speed across the rolling Devon and Somerset countryside. The breed standard emphasizes that the chest should be 'spannable' — small enough that a man's hands can encircle it behind the shoulders — ensuring the dog can enter a fox earth. Parsons are predominantly white with black, tan, or tricolor markings, athletic and square-proportioned with a keen, intelligent expression. They are energetic, bold, and clever dogs with the same irrepressible enthusiasm as the Jack Russell but with a slightly more refined, show-oriented appearance. They are friendly, devoted family dogs that thrive on human companionship and excel in a wide range of canine sports and activities.",
+    "description_el": "Το Πάρσον Ράσελ Τεριέ είναι η variant με μακρύτερα πόδια των τεριέ του Αιδεσιμότατου John Russell. Εκτράφηκε ώστε τα πόδια να μπορούν να ακολουθούν κυνηγετικούς σκύλους και άλογα (33–36 εκ., 6–8 κιλά) — ενώ παράλληλα μπορεί να μπαίνει σε λαγούμια αλεπούδων. Είναι αθλητικά, κυρίως λευκά σκυλιά με ευφυή έκφραση. Είναι ενεργητικά, τολμηρά και έξυπνα με τον ίδιο ακατάσχετο ενθουσιασμό του Jack Russell αλλά πιο εκλεπτυσμένη εμφάνιση. Είναι φιλικά, αφοσιωμένα οικογενειακά σκυλιά που διαπρέπουν σε πολλά σπορ.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 2,
+      "friendliness": 4,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Parson Russell Terriers need substantial daily exercise — at least 1 to 1.5 hours of vigorous activity including walks, runs, hikes, and active play — and they excel in agility, flyball, earthdog trials, barn hunt, and obedience. Their coat comes in smooth or broken (slightly longer with some facial furnishings) varieties — both are easy to maintain with weekly brushing, and broken coats benefit from occasional hand-stripping. Training should be positive, consistent, and varied — Parsons are brilliant, quick learners but become bored and creative with repetitive exercises. Early, thorough socialization is essential, especially with other dogs, as they can be assertive and dog-selective. They have an extremely strong prey drive and will chase anything small that moves — secure fencing (they can jump and climb) and leash control are essential. They are vocal dogs with a keen alertness to their environment. They are not suited for sedentary households and can become destructive without sufficient physical and mental exercise. They adapt well to both rural and suburban life but truly shine when given a job to do.",
+    "care_el": "Τα Πάρσον Ράσελ Τεριέ χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1–1,5 ώρες — και διαπρέπουν σε αγωνίσματα. Το τρίχωμα είναι εύκολο στη συντήρηση. Η εκπαίδευση πρέπει να είναι θετική και ποικίλη. Η πρώιμη κοινωνικοποίηση είναι απαραίτητη. Έχουν εξαιρετικά ισχυρό ένστικτο θήρας. Η ασφαλής περίφραξη είναι κρίσιμη. Δεν ταιριάζουν σε αδρανή νοικοκυριά.",
+    "health_en": "Parson Russell Terriers are generally a healthy, robust breed with a typical lifespan of 13–15 years. Primary lens luxation (PLL) is a significant breed-specific concern — a DNA test is available and all breeding dogs should be tested. Patellar luxation (slipping kneecaps) is a common orthopedic condition. Legg-Calve-Perthes disease can affect young dogs. Deafness can occur, particularly in predominantly white dogs — BAER testing is recommended for breeding stock. Congenital myasthenia gravis (neuromuscular disease) has been documented. Ataxia (loss of coordination) and spinocerebellar ataxia (late-onset) have been identified. Eye conditions including cataracts should be screened for annually. Allergies and skin conditions may develop. Von Willebrand's disease has been reported. The breed's overall robust health and longevity make them one of the healthier purebred dogs. Responsible breeders test for PLL, BAER, eyes, patellae, and cardiac function.",
+    "health_el": "Τα Πάρσον Ράσελ Τεριέ είναι γενικά υγιή ράτσα με τυπική διάρκεια ζωής 13–15 χρόνια. Η PLL είναι σημαντική ανησυχία — υπάρχει τεστ DNA. Η εξάρθρωση επιγονατίδας είναι κοινή. Η νόσος Legg-Calve-Perthes μπορεί να εμφανιστεί. Η κώφωση μπορεί να εμφανιστεί — τεστ BAER συνιστάται. Η μυασθένεια gravis έχει τεκμηριωθεί. Αταξία έχει αναγνωριστεί. Οφθαλμικές παθήσεις πρέπει να ελέγχονται. Η ανθεκτική υγεία τους τα καθιστά από τα πιο υγιή καθαρόαιμα. Οι υπεύθυνοι εκτροφείς ελέγχουν PLL, BAER, μάτια, επιγονατίδα και καρδιά."
+  },
+  {
+    "id": "patterdale-terrier",
+    "slug": "patterdale-terrier",
+    "name_en": "Patterdale Terrier",
+    "name_el": "Πάτερντεϊλ Τεριέ",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "11-13 years",
+    "temperament_en": [
+      "Fearless",
+      "Energetic",
+      "Loyal",
+      "Determined",
+      "Bold"
+    ],
+    "temperament_el": [
+      "Ατρόμητος",
+      "Ενεργητικός",
+      "Πιστός",
+      "Αποφασιστικός",
+      "Τολμηρός"
+    ],
+    "description_en": "The Patterdale Terrier is a tough, compact working terrier that originated in the village of Patterdale in the Lake District of England, where they were bred specifically for the demanding task of going underground to bolt or dispatch foxes in the rocky, mountainous terrain of the Cumberland fells. Unlike the show-oriented Lakeland Terrier that shares the same geographic roots, the Patterdale was bred purely for working ability with no emphasis on appearance — function over form is the breed's guiding principle. They are small (5–6 kg, 25–38 cm tall), incredibly tough, and possess a work drive and determination that is legendary among terrier enthusiasts. Their coat comes in smooth, rough, or broken varieties, predominantly in black, chocolate, red, or black and tan. Patterdales are fearless, energetic, and intensely loyal — they will work tirelessly underground in conditions that would daunt larger, less determined breeds. As companions, they are devoted and affectionate with their families but retain an intensity and drive that makes them unsuitable for casual pet owners. They are not recognized by the UK or American Kennel Clubs (they are registered with the UKC) and are valued primarily as working dogs rather than show dogs.",
+    "description_el": "Το Πάτερντεϊλ Τεριέ είναι ένα σκληρό, συμπαγές εργατικό τεριέ από το χωριό Patterdale στο Lake District, εκτρεφόμενο ειδικά για υπόγεια εκδίωξη αλεπούδων στο δύσκολο βραχώδες έδαφος. Σε αντίθεση με το Lakeland, εκτράφηκε αποκλειστικά για εργατική ικανότητα — η λειτουργία υπερτερεί. Είναι μικρά (5–6 κιλά), απίστευτα σκληρά. Το τρίχωμα έρχεται σε μαύρο, σοκολατί ή κόκκινο. Τα Πάτερντεϊλ είναι ατρόμητα, ενεργητικά και έντονα πιστά. Δεν αναγνωρίζονται από τα κύρια Kennel Clubs και εκτιμώνται κυρίως ως εργατικά σκυλιά.",
+    "characteristics": {
+      "energy": 5,
+      "grooming": 2,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Patterdale Terriers need substantial daily exercise — at least 1 to 1.5 hours of vigorous activity, and they truly thrive with a working role such as barn ratting, earthdog trials, or similar outlets for their intense drive. Their coat (smooth, rough, or broken) is extremely low-maintenance — weekly brushing suffices for all coat types. Training requires patience and understanding of the working terrier mentality — they are intelligent but can be independent and single-minded; positive, firm, consistent training is essential. Early, extensive socialization is critical, particularly with other dogs and small animals, as they have an extremely strong prey drive and potential for dog aggression. Secure fencing is absolutely essential — they are powerful diggers and will tunnel under fences in pursuit of quarry. They should never be trusted off-leash in unfenced areas. They can be vocal barkers. They are not ideal apartment dogs due to their high energy and drive, and they need an experienced, active owner who understands working terrier temperament. They bond deeply with their handler and can develop separation anxiety.",
+    "care_el": "Τα Πάτερντεϊλ Τεριέ χρειάζονται σημαντική καθημερινή άσκηση — τουλάχιστον 1–1,5 ώρες. Το τρίχωμα είναι πολύ χαμηλής συντήρησης. Η εκπαίδευση απαιτεί υπομονή — έξυπνα αλλά ανεξάρτητα. Η πρώιμη κοινωνικοποίηση είναι κρίσιμη. Η ασφαλής περίφραξη είναι απολύτως αναγκαία — θα σκάψουν κάτω. Δεν πρέπει ποτέ να αφήνονται ελεύθερα. Δεν είναι ιδανικά σκυλιά διαμερίσματος. Χρειάζονται έμπειρο ιδιοκτήτη.",
+    "health_en": "Patterdale Terriers are generally a very robust, hardy breed with a typical lifespan of 11–13 years — their working heritage has naturally selected for health and soundness. Eye conditions including primary lens luxation (PLL) and cataracts can occur — PLL DNA testing is available and recommended for breeding stock. Patellar luxation may affect some individuals. Hip dysplasia is occasionally seen. Dental disease should be monitored, particularly in older dogs. Skin conditions and allergies can develop. Due to the breed's emphasis on working ability over pedigree, they tend to have fewer genetic health issues than many more intensively bred terrier breeds. However, because they are not a recognized breed by major kennel clubs, there is less formal health screening data available. Injuries from working (cuts, sprains, punctures) are common in dogs that are actively worked underground. Responsible breeders are encouraged to test for PLL, eyes, and patellae.",
+    "health_el": "Τα Πάτερντεϊλ Τεριέ είναι γενικά πολύ ανθεκτική ράτσα με τυπική διάρκεια ζωής 11–13 χρόνια — η εργατική κληρονομιά τους έχει επιλέξει φυσικά υγεία. Η PLL και ο καταρράκτης μπορεί να εμφανιστούν — τεστ DNA συνιστάται. Η εξάρθρωση επιγονατίδας μπορεί να εμφανιστεί. Η δυσπλασία ισχίου εμφανίζεται περιστασιακά. Η οδοντική νόσος πρέπει να παρακολουθείται. Λόγω έμφασης στην εργασία, τείνουν να έχουν λιγότερα γενετικά προβλήματα. Τραυματισμοί από εργασία είναι κοινοί σε ενεργά εργαζόμενα σκυλιά."
+  },
+  {
+    "id": "rat-terrier",
+    "slug": "rat-terrier",
+    "name_en": "Rat Terrier",
+    "name_el": "Ρατ Τεριέ",
+    "type": "dog",
+    "origin": "United States",
+    "originCode": "US",
+    "images": [],
+    "size": "small",
+    "lifespan": "15-18 years",
+    "temperament_en": [
+      "Alert",
+      "Friendly",
+      "Intelligent",
+      "Energetic",
+      "Loyal"
+    ],
+    "temperament_el": [
+      "Επαγρύπνος",
+      "Φιλικός",
+      "Έξυπνος",
+      "Ενεργητικός",
+      "Πιστός"
+    ],
+    "description_en": "The Rat Terrier is a quintessentially American breed, developed on farms throughout the United States in the late 19th and early 20th centuries from a mixture of Smooth Fox Terriers, old-style Manchester Terriers, Beagles, Whippets, Italian Greyhounds, and other terrier breeds. The breed's name is popularly attributed to President Theodore Roosevelt, who reportedly named his terrier after it rid the White House of a rat infestation. Rat Terriers were invaluable farm dogs across America, controlling the rat and vermin populations that plagued grain stores and barns — they were so common on American farms that they were sometimes called 'the poor man's dog.' They come in two sizes: Miniature (25–33 cm) and Standard (33–46 cm), weighing 4.5–11 kg, with a short, smooth coat in various bi-color and tri-color patterns always with white. They are alert, friendly, and remarkably intelligent dogs with an easygoing, adaptable temperament that makes them excellent family companions. Rat Terriers are one of the most versatile terrier breeds — they are equally at home on the farm, in the city apartment, in the agility ring, or as therapy dogs. Their exceptional longevity (15–18 years) makes them one of the longest-lived dog breeds.",
+    "description_el": "Το Ρατ Τεριέ είναι αυθεντικά αμερικανική ράτσα, αναπτυγμένη σε αγροκτήματα στις ΗΠΑ. Το όνομα αποδίδεται στον Πρόεδρο Theodore Roosevelt. Ήταν ανεκτίμητα αγροτικά σκυλιά σε όλη την Αμερική για έλεγχο τρωκτικών. Έρχονται σε δύο μεγέθη: Miniature (25–33 εκ.) και Standard (33–46 εκ.), 4,5–11 κιλά, με κοντό τρίχωμα. Είναι επαγρύπνα, φιλικά και αξιοσημείωτα έξυπνα με εύκολη, προσαρμοστική ιδιοσυγκρασία. Ένα από τα πιο ευέλικτα τεριέ — εξίσου στο σπίτι, στο διαμέρισμα ή στο agility. Η εξαιρετική μακροζωία τους (15–18 χρόνια) τα καθιστά από τα μακροβιότερα σκυλιά.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 5,
+      "trainability": 4,
+      "cost_index": 1
+    },
+    "cost_annual_usd": "$500-800",
+    "care_en": "Rat Terriers need regular daily exercise — about 30–60 minutes of walks, play, and mental stimulation — and they enjoy agility, barn hunt, lure coursing, and interactive games. Their short, smooth coat is very easy to maintain with weekly brushing and occasional bathing. They do shed moderately, particularly seasonally. They are highly intelligent, eager to please, and among the most trainable of the terrier breeds — positive reinforcement training produces excellent results, and they excel in obedience and trick training. Early socialization is important but generally straightforward as they have a naturally friendly, outgoing temperament. They generally get along well with other dogs and can coexist with cats when raised together. They have a prey drive and will chase small animals outdoors. They are excellent apartment dogs due to their adaptable nature and moderate exercise needs. They are social dogs that bond closely with their families and prefer not to be left alone for extended periods. They can be good watchdogs with appropriate alertness.",
+    "care_el": "Τα Ρατ Τεριέ χρειάζονται τακτική καθημερινή άσκηση — 30–60 λεπτά βόλτων και παιχνιδιού. Το κοντό τρίχωμα είναι πολύ εύκολο στη συντήρηση. Είναι πολύ έξυπνα και πρόθυμα — ανάμεσα στα πιο εκπαιδεύσιμα τεριέ. Η πρώιμη κοινωνικοποίηση είναι εύκολη λόγω φιλικής ιδιοσυγκρασίας. Τα πάνε γενικά καλά με σκυλιά και γάτες. Εξαιρετικά σκυλιά διαμερίσματος. Δεν πρέπει να μένουν μόνα πολύ.",
+    "health_en": "Rat Terriers are generally an extremely healthy, long-lived breed with a typical lifespan of 15–18 years — among the longest of any dog breed. Patellar luxation (slipping kneecaps) is the most common orthopedic concern. Hip dysplasia can occur, particularly in the larger Standard variety. Legg-Calve-Perthes disease has been documented in younger dogs. Primary lens luxation (PLL) is an eye concern — DNA testing is available. Progressive retinal atrophy (PRA) and cataracts should be screened for. Cardiac conditions including patent ductus arteriosus have been reported. Allergies and skin conditions can develop. Dental disease should be monitored in the Miniature variety. Color dilution alopecia can affect dogs with dilute (blue) coat colors. Hypothyroidism may develop with age. Demodectic mange can affect puppies. Their hybrid vigor from diverse ancestry contributes to their exceptional health and longevity. Responsible breeders test for PLL, eyes, patellae, cardiac, and hips.",
+    "health_el": "Τα Ρατ Τεριέ είναι γενικά εξαιρετικά υγιή ράτσα με τυπική διάρκεια ζωής 15–18 χρόνια — ανάμεσα στις μεγαλύτερες. Η εξάρθρωση επιγονατίδας είναι η πιο κοινή ανησυχία. Η δυσπλασία ισχίου μπορεί να εμφανιστεί στο Standard. Η νόσος Legg-Calve-Perthes έχει τεκμηριωθεί. Η PLL είναι οφθαλμική ανησυχία — υπάρχει τεστ DNA. PRA και καταρράκτης πρέπει να ελέγχονται. Αλλεργίες μπορεί να αναπτυχθούν. Η αλωπεκία αραίωσης χρώματος μπορεί να επηρεάσει σκυλιά μπλε χρώματος. Ο υβριδικός σφρίγος συμβάλλει στην εξαιρετική υγεία τους."
+  },
+  {
+    "id": "scottish-terrier",
+    "slug": "scottish-terrier",
+    "name_en": "Scottish Terrier",
+    "name_el": "Σκωτσέζικο Τεριέ",
+    "type": "dog",
+    "origin": "Scotland",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "11-13 years",
+    "temperament_en": [
+      "Independent",
+      "Alert",
+      "Reserved",
+      "Feisty",
+      "Loyal"
+    ],
+    "temperament_el": [
+      "Ανεξάρτητος",
+      "Επαγρύπνος",
+      "Συνεσταλμένος",
+      "Ζωηρός",
+      "Πιστός"
+    ],
+    "description_en": "The Scottish Terrier, or 'Scottie,' is one of the most iconic and recognizable dog breeds in the world, with a distinctive silhouette featuring a long head, erect ears, prominent eyebrows, and a compact body on short legs that has been immortalized in everything from the Monopoly board game piece to the Scottie dog logo. Originating in the Scottish Highlands, Scotties are among the oldest of the Highland terrier breeds, developed to hunt foxes, badgers, and vermin in the rocky terrain. They are compact, solidly built dogs (8.5–10 kg) with a hard, wiry outer coat and soft undercoat, typically in black (the most iconic color), but also wheaten and brindle. Three US Presidents — Franklin D. Roosevelt, Dwight D. Eisenhower, and George W. Bush — famously owned Scottish Terriers, with Roosevelt's Fala being perhaps the most famous presidential pet in American history. Scotties are independent, dignified, and alert dogs with a personality often described as 'big dog in a small dog's body.' They are loyal and deeply devoted to their families but reserved and discerning with strangers — they do not give their affection freely, but when earned, their devotion is absolute.",
+    "description_el": "Το Σκωτσέζικο Τεριέ, ή «Scottie», είναι μία από τις πιο εμβληματικές ράτσες, με χαρακτηριστική σιλουέτα αθανατισμένη στο Monopoly. Από τα Σκωτσέζικα Υψίπεδα, ανάμεσα στα παλαιότερα τεριέ, αναπτυγμένα για κυνήγι αλεπούδων και ασβών. Είναι συμπαγή σκυλιά (8,5–10 κιλά) σε μαύρο, σιτάρι ή brindle. Τρεις Αμερικανοί Πρόεδροι κατείχαν Scotties — ο Fala του Roosevelt είναι ίσως το πιο διάσημο προεδρικό κατοικίδιο. Τα Scotties είναι ανεξάρτητα, αξιοπρεπή σκυλιά — «μεγάλο σκυλί σε μικρό σώμα». Πιστά και αφοσιωμένα στις οικογένειές τους αλλά επιφυλακτικά με ξένους.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 4,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Scottish Terriers need moderate daily exercise — about 30–45 minutes of walks and play — and while they are not as high-energy as many terrier breeds, they still enjoy active play and exploring. Their hard, wiry double coat requires professional grooming (hand-stripping or clipping) every 6–8 weeks plus weekly brushing to prevent matting. Training requires patience, humor, and understanding of the Scottie temperament — they are highly intelligent but famously independent and stubborn; positive, reward-based methods work best, and they should never be trained with harsh methods. Early socialization is important, particularly with other dogs, as Scotties can be dog-aggressive and territorial. They may not be suitable households with very small children due to their independent nature and tendency to be assertive. They have a moderate prey drive and will chase small animals. They can be vocal barkers. They are excellent apartment dogs due to their moderate size and energy, and they are clean, dignified indoor companions. They bond deeply with one or two primary people in the household.",
+    "care_el": "Τα Σκωτσέζικα Τεριέ χρειάζονται μέτρια καθημερινή άσκηση — 30–45 λεπτά βόλτων. Το σκληρό τρίχωμα απαιτεί επαγγελματική περιποίηση κάθε 6–8 εβδομάδες συν εβδομαδιαίο βούρτσισμα. Η εκπαίδευση απαιτεί υπομονή — ανεξάρτητα και πεισματάρικα αλλά ποτέ σκληρή εκπαίδευση. Η πρώιμη κοινωνικοποίηση είναι σημαντική λόγω πιθανής επιθετικότητας. Μπορεί να γαβγίζουν. Εξαιρετικά σκυλιά διαμερίσματος. Δένονται βαθιά με ένα ή δύο άτομα.",
+    "health_en": "Scottish Terriers have a typical lifespan of 11–13 years. Transitional cell carcinoma (TCC) or bladder cancer is a significant breed-specific concern — Scotties have an 18-fold higher risk of developing this cancer compared to other breeds; monitoring for signs like blood in urine or frequent urination is important. Scottie cramp is a breed-specific movement disorder causing episodes of muscle stiffness and cramping during exercise or excitement — it is uncomfortable but not life-threatening. Von Willebrand's disease (vWD), a hereditary bleeding disorder, is present in the breed — a DNA test is available. Craniomandibular osteopathy (CMO or 'lion jaw') — abnormal bone growth in the jaw — can affect puppies but usually resolves. Hypothyroidism is common in the breed. Cushing's disease (hyperadrenocorticism) has been reported at higher rates. Progressive retinal atrophy (PRA) and cataracts are eye concerns. Patellar luxation can occur. Hemangiosarcoma and lymphoma are cancers that occur at elevated rates. Responsible breeders test for vWD, CMO, eyes, and patellae.",
+    "health_el": "Τα Σκωτσέζικα Τεριέ έχουν τυπική διάρκεια ζωής 11–13 χρόνια. Το καρκίνωμα μεταβατικών κυττάρων (καρκίνος ουροδόχου) είναι σημαντική ανησυχία — 18πλάσιος κίνδυνος. Η κράμπα Scottie είναι κινητική διαταραχή ειδική ράτσας. Η νόσος von Willebrand υπάρχει — τεστ DNA. Η κρανιογναθική οστεοπάθεια μπορεί να επηρεάσει κουτάβια. Ο υποθυρεοειδισμός είναι κοινός. Η νόσος Cushing έχει αναφερθεί. PRA και καταρράκτης είναι ανησυχίες. Αιμαγγειοσάρκωμα και λέμφωμα εμφανίζονται σε αυξημένα ποσοστά. Οι υπεύθυνοι εκτροφείς ελέγχουν vWD, μάτια και επιγονατίδα."
+  },
+  {
+    "id": "sealyham-terrier",
+    "slug": "sealyham-terrier",
+    "name_en": "Sealyham Terrier",
+    "name_el": "Σίλιχαμ Τεριέ",
+    "type": "dog",
+    "origin": "Wales",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Alert",
+      "Friendly",
+      "Spirited",
+      "Bold",
+      "Calm"
+    ],
+    "temperament_el": [
+      "Επαγρύπνος",
+      "Φιλικός",
+      "Ζωηρός",
+      "Τολμηρός",
+      "Ήρεμος"
+    ],
+    "description_en": "The Sealyham Terrier was developed between 1850 and 1891 by Captain John Edwardes at his Sealyham estate in Haverfordwest, Pembrokeshire, Wales. Edwardes meticulously bred his terriers by crossing various breeds including the Dandie Dinmont Terrier, West Highland White Terrier, Corgi, Bull Terrier, and Fox Terrier to create the ideal dog for hunting otters, badgers, and foxes alongside his pack of Otterhounds — only dogs that proved their courage and ability in the field were allowed to breed. The result is a small (10–11 kg), sturdy, powerfully built white terrier with a long, broad head, a dense wiry coat, and a confident, spirited personality. Sealyhams were once among the most popular terriers — owned by Hollywood stars like Alfred Hitchcock, Humphrey Bogart, Cary Grant, and Princess Margaret, and winning Best in Show at Westminster four times. Tragically, the breed has declined dramatically and is now one of the rarest terrier breeds, classified as a Vulnerable Native Breed by the Kennel Club with fewer than 50 puppies registered annually in the UK. Despite their rarity, Sealyhams remain charming, spirited companions — calm and dignified at home while retaining their terrier fire when aroused.",
+    "description_el": "Το Σίλιχαμ Τεριέ αναπτύχθηκε μεταξύ 1850 και 1891 από τον Captain John Edwardes στο κτήμα Sealyham στην Ουαλία, διασταυρώνοντας διάφορες ράτσες για το ιδανικό κυνηγετικό τεριέ. Είναι μικρό (10–11 κιλά), γερό λευκό τεριέ με μακρύ κεφάλι και σκληρό τρίχωμα. Κάποτε από τα πιο δημοφιλή τεριέ — ανήκε σε σταρ του Hollywood όπως ο Hitchcock και ο Bogart. Δυστυχώς, η ράτσα έχει μειωθεί δραματικά — λιγότερα από 50 κουτάβια ετησίως στο ΗΒ. Παραμένουν γοητευτικοί, ζωηροί σύντροφοι — ήρεμοι στο σπίτι αλλά με τεριέ πνεύμα.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 4,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Sealyham Terriers need moderate daily exercise — about 30–45 minutes of walks and play — and they are one of the calmer terrier breeds, content with a moderate activity level. Their dense, wiry white coat requires professional grooming (hand-stripping or clipping) every 6–8 weeks and brushing two to three times per week to prevent matting and keep the coat clean. Their white coat can show dirt easily. Training should be positive and patient — Sealyhams are intelligent but can be independent and stubborn; they respond well to varied, engaging exercises and treats. Early socialization with people, dogs, and various environments is important. They generally get along well with other dogs and can be good with children. They are excellent apartment dogs due to their calm indoor demeanor and moderate exercise needs. They can be barkers — they have a deep, impressive bark for their size that makes them effective watchdogs. They enjoy food and can be prone to weight gain, so monitoring diet is important.",
+    "care_el": "Τα Σίλιχαμ Τεριέ χρειάζονται μέτρια καθημερινή άσκηση — 30–45 λεπτά. Το σκληρό λευκό τρίχωμα απαιτεί επαγγελματική περιποίηση κάθε 6–8 εβδομάδες συν βούρτσισμα 2–3 φορές. Η εκπαίδευση πρέπει να είναι θετική και υπομονετική. Η πρώιμη κοινωνικοποίηση είναι σημαντική. Εξαιρετικά σκυλιά διαμερίσματος. Μπορεί να γαβγίζουν με βαθιά φωνή. Μπορεί να πάρουν βάρος — παρακολούθηση διατροφής.",
+    "health_en": "Sealyham Terriers have a typical lifespan of 12–14 years. Primary lens luxation (PLL) is a significant breed-specific eye condition — the lens dislocates, potentially causing secondary glaucoma; a DNA test is available and all breeding dogs should be tested. Retinal dysplasia has been documented in the breed. Deafness can occur, particularly given their white coat — BAER testing is recommended. Allergies and skin conditions are relatively common, especially in white-coated dogs. Intervertebral disc disease (IVDD) can occur due to their relatively long back. Hypothyroidism may develop. Cardiac conditions should be monitored. The breed's extreme rarity poses challenges for maintaining genetic diversity — careful breeding practices are essential to preserve breed health. Despite these concerns, Sealyhams are generally considered a robust, healthy breed. Responsible breeders test for PLL, BAER, eyes, and retinal dysplasia.",
+    "health_el": "Τα Σίλιχαμ Τεριέ έχουν τυπική διάρκεια ζωής 12–14 χρόνια. Η PLL είναι σημαντική ανησυχία — υπάρχει τεστ DNA. Η δυσπλασία αμφιβληστροειδούς έχει τεκμηριωθεί. Η κώφωση μπορεί να εμφανιστεί — τεστ BAER συνιστάται. Αλλεργίες είναι σχετικά κοινές. Η IVDD μπορεί να εμφανιστεί λόγω μακράς πλάτης. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Η σπανιότητα δημιουργεί πρόκληση γενετικής ποικιλομορφίας. Οι υπεύθυνοι εκτροφείς ελέγχουν PLL, BAER, μάτια και δυσπλασία αμφιβληστροειδούς."
+  },
+  {
+    "id": "skye-terrier",
+    "slug": "skye-terrier",
+    "name_en": "Skye Terrier",
+    "name_el": "Σκάι Τεριέ",
+    "type": "dog",
+    "origin": "Scotland",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Loyal",
+      "Reserved",
+      "Courageous",
+      "Good-tempered",
+      "Alert"
+    ],
+    "temperament_el": [
+      "Πιστός",
+      "Συνεσταλμένος",
+      "Θαρραλέος",
+      "Ήπιος",
+      "Επαγρύπνος"
+    ],
+    "description_en": "The Skye Terrier is one of the oldest and most endangered terrier breeds, originating on the rugged Isle of Skye off the northwestern coast of Scotland, where they were developed to hunt foxes, badgers, and otters among the rocky cairns and cliffs. They are immediately recognizable by their unique silhouette — long, low to the ground (twice as long as they are tall), and draped in a spectacular flowing double coat that hangs straight down on either side of the body like a curtain, with a distinctive veil of hair falling over their eyes. They weigh 11–14 kg and stand only 25 cm tall. The Skye Terrier is perhaps most famous through the legendary story of Greyfriars Bobby, a Skye Terrier (or possibly a Dandie Dinmont) in Edinburgh who reportedly guarded his master's grave for 14 years after his death in 1858 — a statue of Bobby stands to this day at Greyfriars Kirkyard. Queen Victoria was a devoted admirer of the breed. Skye Terriers are loyal, dignified, and courageous dogs that form an intensely deep bond with their chosen person. They are critically endangered — the Kennel Club registers fewer than 30 puppies per year, making them rarer than many wild animal species.",
+    "description_el": "Το Σκάι Τεριέ είναι μία από τις παλαιότερες και πιο απειλούμενες ράτσες τεριέ, από τη Νήσο Σκάι. Αναγνωρίζονται αμέσως — μακριά, χαμηλά, ντυμένα σε εντυπωσιακό μακρύ τρίχωμα που πέφτει σαν κουρτίνα. Ζυγίζουν 11–14 κιλά. Η ράτσα είναι διάσημη μέσω του θρυλικού Greyfriars Bobby στο Εδιμβούργο που φύλαγε τον τάφο του αφεντικού του 14 χρόνια. Η Βασίλισσα Βικτωρία θαύμαζε τη ράτσα. Τα Σκάι είναι πιστά, αξιοπρεπή σκυλιά που δημιουργούν βαθύ δεσμό με ένα άτομο. Κριτικά απειλούμενα — λιγότερα από 30 κουτάβια ετησίως.",
+    "characteristics": {
+      "energy": 3,
+      "grooming": 5,
+      "friendliness": 3,
+      "trainability": 3,
+      "cost_index": 4
+    },
+    "cost_annual_usd": "$1,800-2,800",
+    "care_en": "Skye Terriers need moderate daily exercise — about 30–45 minutes of walks and play — and while they enjoy outdoor activity, they are not as high-energy as many terrier breeds. Their spectacular long, flat double coat requires significant grooming commitment — daily brushing or at minimum every other day to prevent matting, with particular attention to the areas behind the ears and under the legs. The coat parts naturally along the spine and should hang straight down. Professional grooming is recommended periodically. Training requires patience and understanding — Skyes are intelligent but independent and can be stubborn; they respond best to gentle, positive methods and building a strong bond of trust. Early, patient socialization is critical — they are naturally reserved with strangers and can be cautious in new situations. They generally do best as the only dog in a household, though they can get along with dogs they are raised with. Due to their long backs, they should be discouraged from jumping on and off furniture, and puppies under 8 months should not do excessive stair climbing to protect developing joints. They bond very deeply with one person and can suffer from separation anxiety.",
+    "care_el": "Τα Σκάι Τεριέ χρειάζονται μέτρια καθημερινή άσκηση — 30–45 λεπτά. Το μακρύ τρίχωμα απαιτεί σημαντική φροντίδα — καθημερινό βούρτσισμα. Η εκπαίδευση απαιτεί υπομονή — ανεξάρτητα αλλά ανταποκρίνονται σε ήπιες μεθόδους. Η πρώιμη κοινωνικοποίηση είναι κρίσιμη — φυσικά επιφυλακτικά με ξένους. Γενικά καλύτερα ως μοναδικό σκυλί. Λόγω μακράς πλάτης, αποφυγή αλμάτων. Δένονται βαθιά με ένα άτομο.",
+    "health_en": "Skye Terriers have a typical lifespan of 12–14 years. Premature closure of the growth plates in the radius and ulna (foreleg bones) can cause limping and lameness in puppies — this is why puppies under 8 months should be protected from excessive jumping and stair climbing. Intervertebral disc disease (IVDD) is a concern due to their elongated spine — weight management and preventing jumping help reduce risk. Mammary cancer has been reported at higher rates in the breed, particularly in unspayed females. Hypothyroidism can develop. Autoimmune conditions including hemolytic anemia and hepatitis have been documented. Allergies and skin conditions can develop, often requiring dietary management. Renal dysplasia (abnormal kidney development) has been reported in some lines. Dental disease should be monitored. Due to the breed's critical rarity, the gene pool is extremely small, making genetic diversity a paramount concern for breeders. Responsible breeders work to maintain genetic diversity while screening for orthopedic development, thyroid, and autoimmune conditions.",
+    "health_el": "Τα Σκάι Τεριέ έχουν τυπική διάρκεια ζωής 12–14 χρόνια. Η πρόωρη σύγκλειση αυξητικών πλακών μπορεί να προκαλέσει χωλότητα σε κουτάβια. Η IVDD είναι ανησυχία λόγω μακράς σπονδυλικής στήλης. Ο καρκίνος μαστού εμφανίζεται σε υψηλότερα ποσοστά. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Αυτοάνοσες παθήσεις έχουν τεκμηριωθεί. Αλλεργίες μπορεί να αναπτυχθούν. Λόγω κρίσιμης σπανιότητας, η γενετική ποικιλομορφία είναι πρωταρχική ανησυχία."
+  },
+  {
+    "id": "soft-coated-wheaten-terrier",
+    "slug": "soft-coated-wheaten-terrier",
+    "name_en": "Soft Coated Wheaten Terrier",
+    "name_el": "Σοφτ Κόουτεντ Γουίτεν Τεριέ",
+    "type": "dog",
+    "origin": "Ireland",
+    "originCode": "IE",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Friendly",
+      "Happy",
+      "Energetic",
+      "Affectionate",
+      "Intelligent"
+    ],
+    "temperament_el": [
+      "Φιλικός",
+      "Χαρούμενος",
+      "Ενεργητικός",
+      "Στοργικός",
+      "Έξυπνος"
+    ],
+    "description_en": "The Soft Coated Wheaten Terrier is one of four native Irish terrier breeds (alongside the Irish Terrier, Kerry Blue, and Glen of Imaal), believed to be the oldest of the group with a history spanning over 200 years as the versatile farm dog of the Irish peasantry. Too humble to be owned by the gentry (who preferred setters and hounds), the Wheaten was the poor farmer's all-purpose dog — herding cattle and sheep, guarding the farm, hunting vermin and rabbits, and even serving as a companion to the family. They are medium-sized dogs (14–18 kg) distinguished by their beautiful, soft, silky, gently waving coat in a warm wheaten color (ranging from pale beige to shimmering gold) that does not shed heavily, making them a popular choice for allergy sufferers. Puppies are born dark and their coat gradually lightens to the adult wheaten color over the first two years. Wheatens are known for their exuberant, joyful personality — they greet everyone with what enthusiasts call the 'Wheaten Greetin',' an enthusiastic, bouncy welcome that involves jumping and spinning with unbridled joy. They are the most friendly and outgoing of the Irish terrier breeds, making them excellent family companions.",
+    "description_el": "Το Σοφτ Κόουτεντ Γουίτεν Τεριέ είναι ένα από τα τέσσερα ιρλανδικά τεριέ, πιθανώς το παλαιότερο, με ιστορία 200+ χρόνων ως πανεπιστημιακό αγροτικό σκυλί. Ήταν το σκυλί του φτωχού αγρότη — βοσκός, φύλακας, κυνηγός. Μεσαία σκυλιά (14–18 κιλά) με μαλακό, μεταξένιο τρίχωμα σε ζεστό χρώμα σιταριού. Τα κουτάβια γεννιούνται σκούρα και ανοίγουν. Γνωστά για τη χαρούμενη προσωπικότητα — χαιρετούν με «Wheaten Greetin'», ενθουσιώδη πηδήματα χαράς. Τα πιο φιλικά από τα ιρλανδικά τεριέ.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 4,
+      "friendliness": 5,
+      "trainability": 4,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Soft Coated Wheaten Terriers need regular daily exercise — about 45–60 minutes of walks, play, and interactive activities — and they enjoy agility, herding, obedience, and tracking. Their soft, silky coat requires significant grooming commitment — daily brushing with a medium-toothed comb to prevent matting (their coat mats very easily, particularly behind the ears, under the legs, and in the belly area) and professional grooming every 4–6 weeks. The coat does not shed heavily but requires regular trimming to maintain a neat appearance. Training should be positive, consistent, and engaging — Wheatens are intelligent and generally eager to please but can be headstrong; they respond well to reward-based methods. Early socialization is important, and their naturally friendly temperament makes this relatively easy. They generally get along well with other dogs and children. The 'Wheaten Greetin'' (enthusiastic jumping greeting) should be managed through training if it becomes problematic. They are considered hypoallergenic due to their low-shedding coat. They adapt well to various living situations but need daily exercise.",
+    "care_el": "Τα Σοφτ Κόουτεντ Γουίτεν Τεριέ χρειάζονται τακτική καθημερινή άσκηση — 45–60 λεπτά. Το μαλακό τρίχωμα απαιτεί σημαντική φροντίδα — καθημερινό χτένισμα και επαγγελματική περιποίηση κάθε 4–6 εβδομάδες. Η εκπαίδευση πρέπει να είναι θετική — πρόθυμα αλλά ισχυρογνώμονα. Η πρώιμη κοινωνικοποίηση είναι εύκολη λόγω φιλικής φύσης. Τα πάνε καλά με σκυλιά και παιδιά. Θεωρούνται υποαλλεργικά. Προσαρμόζονται σε διάφορες συνθήκες.",
+    "health_en": "Soft Coated Wheaten Terriers have a typical lifespan of 12–15 years. Protein-losing nephropathy (PLN) and protein-losing enteropathy (PLE) are the most significant breed-specific conditions — both involve abnormal loss of protein, through the kidneys (PLN) or intestines (PLE), and can be serious or fatal; regular monitoring of urine protein levels and blood albumin is recommended. Addison's disease (hypoadrenocorticism) occurs at higher rates in Wheatens than in most breeds and can be life-threatening if undiagnosed but is manageable with lifelong medication once identified. Renal dysplasia (abnormal kidney development) has been documented. Hip dysplasia can occur — OFA screening is recommended. Allergies, particularly food allergies, are relatively common. Progressive retinal atrophy (PRA) and cataracts are eye concerns. Inflammatory bowel disease (IBD) can contribute to PLE symptoms. The breed club actively supports research into PLN/PLE and recommends annual health screening. Responsible breeders test for PLN/PLE markers, Addison's, hips, eyes, and kidneys.",
+    "health_el": "Τα Σοφτ Κόουτεντ Γουίτεν Τεριέ έχουν τυπική διάρκεια ζωής 12–15 χρόνια. Η νεφροπάθεια (PLN) και η εντεροπάθεια (PLE) απώλειας πρωτεΐνης είναι οι σημαντικότερες παθήσεις — τακτική παρακολούθηση συνιστάται. Η νόσος Addison εμφανίζεται σε υψηλότερα ποσοστά — απειλητική αν δεν διαγνωστεί αλλά διαχειρίσιμη. Η νεφρική δυσπλασία έχει τεκμηριωθεί. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Αλλεργίες τροφής είναι κοινές. PRA και καταρράκτης είναι ανησυχίες. Οι υπεύθυνοι εκτροφείς ελέγχουν PLN/PLE, Addison, ισχία, μάτια και νεφρά."
+  },
+  {
+    "id": "staffordshire-bull-terrier",
+    "slug": "staffordshire-bull-terrier",
+    "name_en": "Staffordshire Bull Terrier",
+    "name_el": "Στάφορντσιρ Μπουλ Τεριέ",
+    "type": "dog",
+    "origin": "England",
+    "originCode": "GB",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-14 years",
+    "temperament_en": [
+      "Affectionate",
+      "Brave",
+      "Loyal",
+      "Intelligent",
+      "Courageous"
+    ],
+    "temperament_el": [
+      "Στοργικός",
+      "Γενναίος",
+      "Πιστός",
+      "Έξυπνος",
+      "Θαρραλέος"
+    ],
+    "description_en": "The Staffordshire Bull Terrier was developed in the Black Country of Staffordshire, England, in the early 19th century by crossing Bulldogs with various terrier breeds to create dogs for the then-popular (but now banned) sport of bull-baiting and later dog fighting. When these cruel sports were outlawed in 1835, the breed's devoted admirers worked to transform the Staffie into a companion dog, and the Kennel Club recognized the breed in 1935. Despite their fighting heritage, well-bred modern Staffordshire Bull Terriers are among the most people-oriented and affectionate of all dog breeds — the breed standard itself describes them as possessing 'total reliability' with children, and they have historically been known as 'nanny dogs' for their gentle, patient nature with children. They are compact, muscular dogs (11–17 kg) with a broad head, strong jaw, and short, smooth coat in a wide variety of colors. Staffies are the most popular breed in the United Kingdom by registration numbers and are deeply ingrained in British culture, particularly in working-class communities. They are brave, intelligent, and loyal with an irrepressible enthusiasm for life and a characteristic 'Staffie smile' that wins hearts everywhere. They are subject to breed-specific legislation in some countries.",
+    "description_el": "Το Στάφορντσιρ Μπουλ Τεριέ αναπτύχθηκε στο Staffordshire της Αγγλίας τον 19ο αιώνα. Παρά τη μαχητική κληρονομιά, τα σύγχρονα Staffies είναι ανάμεσα στα πιο ανθρωποκεντρικά σκυλιά — γνωστά ως «nanny dogs» για την υπομονή τους με παιδιά. Είναι συμπαγή, μυώδη σκυλιά (11–17 κιλά). Η πιο δημοφιλής ράτσα στο ΗΒ, βαθιά ενσωματωμένη στην βρετανική κουλτούρα. Είναι γενναία, έξυπνα και πιστά με ακατάσχετο ενθουσιασμό και χαρακτηριστικό «Staffie χαμόγελο». Υπόκεινται σε νομοθεσία ειδική ράτσας σε ορισμένες χώρες.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 2,
+      "friendliness": 5,
+      "trainability": 4,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "Staffordshire Bull Terriers need regular daily exercise — about 1 hour of walks, play, and mental stimulation — and they enjoy agility, weight-pulling, obedience, flyball, and interactive games. Their short, smooth coat is very easy to maintain with weekly brushing and occasional bathing. Training should be positive, consistent, and engaging — Staffies are intelligent, eager to please, and respond wonderfully to reward-based methods; harsh training is counterproductive with this sensitive breed. Early, extensive, and ongoing socialization is essential — particularly with other dogs, as Staffies can be dog-aggressive, especially with dogs of the same sex. They are typically excellent with children and adults of all ages. They thrive as indoor family dogs and should not be kept outside or isolated — they are people dogs that need to be part of family life. They can be strong and exuberant, so leash manners are important. They are heat and cold sensitive due to their short coat. Check local breed-specific legislation before acquiring one.",
+    "care_el": "Τα Στάφορντσιρ Μπουλ Τεριέ χρειάζονται τακτική καθημερινή άσκηση — περίπου 1 ώρα. Το κοντό τρίχωμα είναι πολύ εύκολο στη συντήρηση. Η εκπαίδευση πρέπει να είναι θετική — ευαίσθητα σε σκληρές μεθόδους. Η πρώιμη κοινωνικοποίηση είναι απαραίτητη, ειδικά με σκυλιά. Εξαιρετικά με παιδιά. Ευδοκιμούν ως μέλη οικογένειας — δεν πρέπει να απομονώνονται. Ευαίσθητα στη ζέστη και το κρύο. Ελέγξτε τοπική νομοθεσία.",
+    "health_en": "Staffordshire Bull Terriers are generally a robust, healthy breed with a typical lifespan of 12–14 years. L-2-Hydroxyglutaric Aciduria (L-2-HGA) is a metabolic disorder causing neurological symptoms including seizures, tremors, and behavioral changes — a DNA test is available and all breeding dogs should be tested. Hereditary cataracts (HC) are a significant eye concern — a DNA test exists and regular eye examinations are recommended. Hip dysplasia can occur and OFA screening is recommended. Patellar luxation (slipping kneecaps) is a common orthopedic concern. Persistent hyperplastic primary vitreous (PHPV) is an eye condition that can occur. Skin allergies, including demodectic mange in puppies and atopic dermatitis, are relatively common. Mast cell tumors are the most common skin cancer in the breed. Elbow dysplasia has been documented. Cruciate ligament injuries can occur in active dogs. The breed is generally considered one of the healthier bull-type breeds. Responsible breeders test for L-2-HGA, HC (DNA tests), hips, and eyes.",
+    "health_el": "Τα Στάφορντσιρ Μπουλ Τεριέ είναι γενικά ανθεκτική ράτσα με τυπική διάρκεια ζωής 12–14 χρόνια. Η L-2-HGA είναι μεταβολική διαταραχή — υπάρχει τεστ DNA. Ο κληρονομικός καταρράκτης (HC) είναι σημαντική ανησυχία — τεστ DNA υπάρχει. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Η εξάρθρωση επιγονατίδας είναι κοινή. Δερματικές αλλεργίες είναι σχετικά κοινές. Οι μαστοκυτταρικοί όγκοι είναι ο πιο κοινός καρκίνος δέρματος. Οι υπεύθυνοι εκτροφείς ελέγχουν L-2-HGA, HC, ισχία και μάτια."
+  },
+  {
+    "id": "welsh-terrier",
+    "slug": "welsh-terrier",
+    "name_en": "Welsh Terrier",
+    "name_el": "Ουαλικό Τεριέ",
+    "type": "dog",
+    "origin": "Wales",
+    "originCode": "GB",
+    "images": [],
+    "size": "medium",
+    "lifespan": "12-15 years",
+    "temperament_en": [
+      "Friendly",
+      "Spirited",
+      "Alert",
+      "Intelligent",
+      "Stubborn"
+    ],
+    "temperament_el": [
+      "Φιλικός",
+      "Ζωηρός",
+      "Επαγρύπνος",
+      "Έξυπνος",
+      "Πεισματάρης"
+    ],
+    "description_en": "The Welsh Terrier is one of the oldest terrier breeds, with evidence of similar black-and-tan wire-coated terriers existing in Wales as far back as the 13th century. Originally known as the Old English Wire Haired Black and Tan Terrier, they were prized by Welsh farmers and huntsmen for their ability to hunt foxes, badgers, and otters in the rugged Welsh countryside and along riverbanks. The Welsh Terrier is often described as looking like a compact, smaller version of the Airedale Terrier (to which they are not directly related), standing about 39 cm tall and weighing 9–10 kg with a distinctive dense, wiry, black-and-tan jacket. They are friendly, spirited, and alert dogs with a happy, outgoing personality that distinguishes them from some of the more reserved terrier breeds. Welsh Terriers retain their working terrier spirit while being generally more sociable and good-natured than many of their terrier cousins. President John F. Kennedy owned a Welsh Terrier named Charlie who became one of the best-known White House dogs. They are adaptable, intelligent dogs that make excellent companions for active families who can provide the exercise and mental stimulation they need.",
+    "description_el": "Το Ουαλικό Τεριέ είναι μία από τις παλαιότερες ράτσες τεριέ, με στοιχεία παρόμοιων τεριέ στην Ουαλία από τον 13ο αιώνα. Εκτιμούνταν για κυνήγι αλεπούδων, ασβών και βιδρών. Μοιάζει με συμπαγή μικρότερη εκδοχή του Airedale (39 εκ., 9–10 κιλά) με σκληρό μαύρο-καφέ τρίχωμα. Είναι φιλικά, ζωηρά με χαρούμενη προσωπικότητα — πιο κοινωνικά από πολλά τεριέ. Ο Πρόεδρος Kennedy κατείχε ένα Ουαλικό Τεριέ ονόματι Charlie. Είναι προσαρμοστικά, έξυπνα σκυλιά εξαιρετικά για ενεργές οικογένειες.",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 3
+    },
+    "cost_annual_usd": "$1,200-1,800",
+    "care_en": "Welsh Terriers need regular daily exercise — about 45–60 minutes of walks, play, and mental stimulation — and they enjoy agility, earthdog trials, barn hunt, and hiking. Their dense, wiry black-and-tan coat requires professional hand-stripping every 8–12 weeks to maintain proper coat texture and color (clipping is acceptable for pets but softens the coat), plus weekly brushing at home. They are intelligent and reasonably trainable for a terrier — positive, varied training methods with patience produce good results, though they retain some terrier stubbornness. Early socialization with various people, dogs, and environments is important — they generally have a friendlier disposition with other dogs than many terrier breeds but can be assertive. They have a moderate to strong prey drive and will chase small animals. They adapt reasonably well to apartment living with sufficient exercise. They can be vocal barkers. They are generally good with children and make affectionate family companions. Their beard and facial furnishings should be cleaned regularly after meals.",
+    "care_el": "Τα Ουαλικά Τεριέ χρειάζονται τακτική καθημερινή άσκηση — 45–60 λεπτά. Το σκληρό τρίχωμα απαιτεί hand-stripping κάθε 8–12 εβδομάδες συν εβδομαδιαίο βούρτσισμα. Η εκπαίδευση πρέπει να είναι θετική με ποικιλία. Η πρώιμη κοινωνικοποίηση είναι σημαντική — φιλικότερα με σκυλιά από πολλά τεριέ. Έχουν ένστικτο θήρας. Προσαρμόζονται σε διαμέρισμα. Γενικά καλά με παιδιά. Η γενειάδα πρέπει να καθαρίζεται.",
+    "health_en": "Welsh Terriers are generally a healthy, hardy breed with a typical lifespan of 12–15 years. Primary glaucoma is the most significant breed-specific eye condition — regular eye examinations and monitoring for signs of eye pain, redness, or cloudiness are important; gonioscopy testing by a veterinary ophthalmologist is recommended. Primary lens luxation (PLL) can also occur — a DNA test is available. Allergies, including atopic dermatitis and food allergies, are relatively common in the breed. Hypothyroidism can develop and is manageable with medication. Hip dysplasia can occur, though it is less common than in larger breeds. Epilepsy has been reported in some lines. Patellar luxation is an occasional concern. Skin conditions and hot spots can develop, particularly in warm weather. Dental disease should be monitored. The breed is generally considered one of the healthier terrier breeds with relatively few serious genetic conditions. Responsible breeders screen for glaucoma (gonioscopy), PLL, eyes, hips, and thyroid.",
+    "health_el": "Τα Ουαλικά Τεριέ είναι γενικά υγιή ράτσα με τυπική διάρκεια ζωής 12–15 χρόνια. Το πρωτοπαθές γλαύκωμα είναι η σημαντικότερη οφθαλμική ανησυχία — τακτικές εξετάσεις και γωνιοσκόπηση συνιστώνται. Η PLL μπορεί να εμφανιστεί — υπάρχει τεστ DNA. Αλλεργίες είναι σχετικά κοινές. Ο υποθυρεοειδισμός μπορεί να αναπτυχθεί. Η δυσπλασία ισχίου μπορεί να εμφανιστεί. Η επιληψία έχει αναφερθεί. Θεωρείται μία από τις πιο υγιείς ράτσες τεριέ. Οι υπεύθυνοι εκτροφείς ελέγχουν γλαύκωμα, PLL, μάτια, ισχία και θυρεοειδή."
+  },
+  {
+    "id": "west-highland-white-terrier",
+    "slug": "west-highland-white-terrier",
+    "name_en": "West Highland White Terrier",
+    "name_el": "Γουέστ Χάιλαντ Γουάιτ Τεριέ",
+    "type": "dog",
+    "origin": "Scotland",
+    "originCode": "GB",
+    "images": [],
+    "size": "small",
+    "lifespan": "13-15 years",
+    "temperament_en": [
+      "Friendly",
+      "Alert",
+      "Independent",
+      "Hardy",
+      "Cheerful"
+    ],
+    "temperament_el": [
+      "Φιλικός",
+      "Επαγρύπνος",
+      "Ανεξάρτητος",
+      "Σκληραγωγημένος",
+      "Ευχάριστος"
+    ],
+    "description_en": "The West Highland White Terrier, affectionately known as the 'Westie,' is one of the most popular and recognizable terrier breeds in the world, with their bright white coat, compact body, dark eyes, and cheerful expression making them a beloved icon of the dog world. Originating in the Western Highlands of Scotland, the breed is believed to have been developed by Colonel Edward Donald Malcolm of Poltalloch in the late 19th century after he accidentally shot one of his reddish-brown Cairn Terriers during a hunt, mistaking it for a fox — he then resolved to breed only white terriers so they could never be confused with quarry again. Westies are small (7–10 kg, about 28 cm tall), sturdy, and surprisingly tough dogs with a harsh, dense double coat that was designed to protect them while working in the rough Scottish terrain. They are among the most outgoing and friendly of the Highland terrier breeds — cheerful, confident, and always ready for adventure. They have been widely used in advertising (most notably as the Cesar dog food mascot and the Black & White Scotch whisky logo alongside the Scottish Terrier), making them one of the most commercially recognizable breeds.",
+    "description_el": "Το Γουέστ Χάιλαντ Γουάιτ Τεριέ, γνωστό ως «Westie», είναι μία από τις πιο δημοφιλείς ράτσες τεριέ, με το φωτεινό λευκό τρίχωμα να τα καθιστά εμβληματικά. Αναπτύχθηκε στα Δυτικά Υψίπεδα Σκωτίας αφού ο Colonel Malcolm σκότωσε κατά λάθος ένα κόκκινο Cairn Terrier κατά τη διάρκεια κυνηγιού — αποφάσισε να εκτρέφει μόνο λευκά τεριέ. Είναι μικρά (7–10 κιλά), γερά σκυλιά με σκληρό τρίχωμα. Ανάμεσα στα πιο εξωστρεφή τεριέ — ευχάριστα, σίγουρα, πάντα έτοιμα για περιπέτεια. Ευρέως χρησιμοποιούμενα στη διαφήμιση (Cesar, Black & White whisky).",
+    "characteristics": {
+      "energy": 4,
+      "grooming": 3,
+      "friendliness": 4,
+      "trainability": 3,
+      "cost_index": 2
+    },
+    "cost_annual_usd": "$800-1,200",
+    "care_en": "West Highland White Terriers need regular daily exercise — about 30–45 minutes of walks and play — and they enjoy earthdog trials, agility, and interactive games. Their harsh, dense double coat requires weekly brushing to prevent matting and hand-stripping two to three times per year to maintain proper coat texture (clipping is acceptable for pets). Their white coat can show dirt easily, but frequent bathing should be avoided as it can dry out their skin; spot cleaning is preferable. Skin and coat health is particularly important in this breed — using gentle, hypoallergenic grooming products is recommended. Training should be positive, consistent, and engaging — Westies are intelligent but independent and can be stubborn; varied, reward-based sessions work best. Early socialization with people, dogs, and environments helps develop their naturally confident, friendly temperament. They have a prey drive and will chase small animals. They can be diggers and barkers — early training helps manage these behaviors. They adapt well to apartment living with adequate exercise. They are generally good with older children but may be too assertive for very young children.",
+    "care_el": "Τα Westies χρειάζονται τακτική καθημερινή άσκηση — 30–45 λεπτά. Το σκληρό τρίχωμα απαιτεί εβδομαδιαίο βούρτσισμα και hand-stripping 2–3 φορές τον χρόνο. Η υγεία δέρματος είναι ιδιαίτερα σημαντική — υποαλλεργικά προϊόντα συνιστώνται. Η εκπαίδευση πρέπει να είναι θετική — ανεξάρτητα αλλά ανταποκρίνονται σε ανταμοιβές. Η πρώιμη κοινωνικοποίηση βοηθά. Μπορεί να σκάβουν και να γαβγίζουν. Προσαρμόζονται σε διαμέρισμα.",
+    "health_en": "West Highland White Terriers have a typical lifespan of 13–15 years. Atopic dermatitis (skin allergies) is the most significant and common health concern — Westies are one of the most affected breeds and may require lifelong management through medication, immunotherapy, special diets, or a combination of approaches. Craniomandibular osteopathy (CMO or 'Westie jaw') — abnormal bone growth in the jaw and skull — can affect puppies between 3–8 months but usually resolves by 12 months. Legg-Calve-Perthes disease (degeneration of the femoral head) can occur in young dogs. Patellar luxation is a common orthopedic condition. Idiopathic pulmonary fibrosis ('Westie lung disease') is a serious breed-specific condition causing progressive scarring of the lungs and breathing difficulty. Addison's disease (hypoadrenocorticism) occurs at higher rates. Inflammatory bowel disease (IBD) and food sensitivities are common. Cataracts and dry eye (KCS) are eye concerns. White shaker syndrome (idiopathic cerebellitis) can cause full-body tremors. Responsible breeders screen for patellae, eyes, and are aware of skin and respiratory conditions in their lines.",
+    "health_el": "Τα Westies έχουν τυπική διάρκεια ζωής 13–15 χρόνια. Η ατοπική δερματίτιδα είναι η πιο σημαντική ανησυχία — μία από τις πιο επηρεαζόμενες ράτσες, απαιτώντας δια βίου διαχείριση. Η κρανιογναθική οστεοπάθεια μπορεί να επηρεάσει κουτάβια. Η νόσος Legg-Calve-Perthes μπορεί να εμφανιστεί. Η εξάρθρωση επιγονατίδας είναι κοινή. Η ιδιοπαθής πνευμονική ίνωση («νόσος πνεύμονα Westie») είναι σοβαρή πάθηση ειδική ράτσας. Η νόσος Addison εμφανίζεται σε υψηλότερα ποσοστά. Αλεξρεργίες τροφών είναι κοινές. Ο καταρράκτης και η ξηροφθαλμία είναι ανησυχίες. Οι υπεύθυνοι εκτροφείς ελέγχουν επιγονατίδα, μάτια και γνωρίζουν τα δερματικά και αναπνευστικά ζητήματα."
+  }
+]
